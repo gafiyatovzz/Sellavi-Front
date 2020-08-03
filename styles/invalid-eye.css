@@ -1,0 +1,141 @@
+/* invalid eye */
+
+body.istores-resize-font-120 .block-title,
+body.istores-resize-font-130 .block-title ,
+body.istores-resize-font-140 .block-title ,
+body.istores-resize-font-150 .block-title ,
+body.istores-resize-font-160 .block-title ,
+body.istores-resize-font-170 .block-title, 
+body.istores-resize-font-180 .block-title, 
+body.istores-resize-font-190 .block-title {
+    line-height: 1.2 !important;
+     font-size: 25px !important;
+}
+
+body.istores-resize-font-120 .header .header-search .form-control,
+body.istores-resize-font-120 .header-cart .cart-wrapper,
+body.istores-resize-font-130 .header .header-search .form-control,
+body.istores-resize-font-130 .header-cart .cart-wrapper,
+body.istores-resize-font-140 .header .header-search .form-control,
+body.istores-resize-font-140 .header-cart .cart-wrapper,
+body.istores-resize-font-150 .header .header-search .form-control,
+body.istores-resize-font-150 .header-cart .cart-wrapper ,
+body.istores-resize-font-160 .header .header-search .form-control,
+body.istores-resize-font-160 .header-cart .cart-wrapper ,
+body.istores-resize-font-170 .header .header-search .form-control,
+body.istores-resize-font-170 .header-cart .cart-wrapper ,
+body.istores-resize-font-180 .header .header-search .form-control,
+body.istores-resize-font-180 .header-cart .cart-wrapper  {
+    height: auto !important; 
+}
+
+body.istores-resize-font-120.product-item .thumbnail .caption, body.istores-resize-font-120.product-layout .thumbnail .caption,
+body.istores-resize-font-130.product-item .thumbnail .caption, body.istores-resize-font-130.product-layout .thumbnail .caption,
+body.istores-resize-font-140.product-item .thumbnail .caption, body.istores-resize-font-140.product-layout .thumbnail .caption,
+body.istores-resize-font-150.product-item .thumbnail .caption, body.istores-resize-font-150.product-layout .thumbnail .caption
+,body.istores-resize-font-160.product-item .thumbnail .caption, body.istores-resize-font-160.product-layout .thumbnail .caption
+,body.istores-resize-font-170.product-item .thumbnail .caption, body.istores-resize-font-170.product-layout .thumbnail .caption
+,body.istores-resize-font-180.product-item .thumbnail .caption, body.istores-resize-font-180.product-layout .thumbnail .caption,
+body.istores-resize-font-190.product-item .thumbnail .caption, body.istores-resize-font-190.product-layout .thumbnail .caption {
+    max-height: 240px !important;
+}
+
+body.istores-resize-font-140 .widget-categories ul li a,
+body.istores-resize-font-150 .widget-categories ul li a,
+body.istores-resize-font-160 .widget-categories ul li a,
+body.istores-resize-font-170 .widget-categories ul li a,
+body.istores-resize-font-180 .widget-categories ul li a,
+body.istores-resize-font-190 .widget-categories ul li a {
+    padding: 5px 0 5px 50px;
+}
+
+body.istores-resize-font-120 .footer .footer-widgets .widget-title,
+body.istores-resize-font-130 .footer .footer-widgets .widget-title,
+body.istores-resize-font-140 .footer .footer-widgets .widget-title,
+body.istores-resize-font-150 .footer .footer-widgets .widget-title,
+body.istores-resize-font-160 .footer .footer-widgets .widget-title,
+body.istores-resize-font-170 .footer .footer-widgets .widget-title,
+body.istores-resize-font-180 .footer .footer-widgets .widget-title,
+body.istores-resize-font-190 .footer .footer-widgets .widget-title {
+    color: #232323;
+    max-height: 157px !important;
+}
+
+@media (max-width: 767px) {
+   body.istores-resize-font-120 h1,
+   body.istores-resize-font-130 h1,
+   body.istores-resize-font-140 h1,
+   body.istores-resize-font-150 h1,
+   body.istores-resize-font-160 h1,
+   body.istores-resize-font-170 h1,
+   body.istores-resize-font-180 h1,
+   body.istores-resize-font-190 h1 {
+       font-size: 130% !important;
+   }
+
+   body.istores-resize-font-120 h2 span,
+   body.istores-resize-font-130 h2 span,
+   body.istores-resize-font-140 h2 span,
+   body.istores-resize-font-150 h2 span,
+   body.istores-resize-font-160 h2 span,
+   body.istores-resize-font-170 h2 span,
+   body.istores-resize-font-180 h2 span,
+   body.istores-resize-font-190 h span {
+       font-size: 50% !important;
+}
+     body.istores-resize-font-120 h4,
+   body.istores-resize-font-130 h4,
+   body.istores-resize-font-140 h4,
+   body.istores-resize-font-150 h4,
+   body.istores-resize-font-160 h4,
+   body.istores-resize-font-170 h4,
+   body.istores-resize-font-180 h4,
+   body.istores-resize-font-190 h4 {
+        font-size: 100% !important;
+    }
+
+    body.istores-resize-font-120 span,
+    body.istores-resize-font-130 span,
+    body.istores-resize-font-140 span,
+    body.istores-resize-font-150 span,
+    body.istores-resize-font-160 span,
+    body.istores-resize-font-170 span,
+    body.istores-resize-font-180 span,
+    body.istores-resize-font-190 span {
+          font-size: 100% !important; 
+    } 
+
+
+    body.istores-resize-font-120 .btn.btn-theme,
+    body.istores-resize-font-130 .btn.btn-theme,
+    body.istores-resize-font-140 .btn.btn-theme,
+    body.istores-resize-font-150 .btn.btn-theme,
+    body.istores-resize-font-160 .btn.btn-theme,
+    body.istores-resize-font-170 .btn.btn-theme {
+         font-size: 14px !important;
+    }
+
+     body.istores-resize-font-120 .accordion .panel-title,
+     body.istores-resize-font-130 .accordion .panel-title,
+     body.istores-resize-font-140 .accordion .panel-title,
+     body.istores-resize-font-150 .accordion .panel-title,
+     body.istores-resize-font-160 .accordion .panel-title
+     body.istores-resize-font-170 .accordion .panel-title,
+     body.istores-resize-font-180 .accordion .panel-title,
+     body.istores-resize-font-190 .accordion .panel-title {
+        font-size: 18px !important;
+    }
+
+    body.ltr .widget-categories ul li a {
+        word-break: break-word;
+    }
+}
+
+@media (max-width:375px) {
+      .col-md-3 {
+        flex: 0 0 100%;
+        max-width: 100% !important;
+    }
+}
+
+/****************************************************************/

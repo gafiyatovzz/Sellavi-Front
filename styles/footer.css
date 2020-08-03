@@ -1,0 +1,22 @@
+.footer .footer-meta {
+    padding: 15px 0 !important;
+}
+
+.footer_content_container {
+    height: 25px;
+    display: flex;
+}
+
+.footer_content_text::after{
+    display: none !important;
+}
+
+.footer .copyright_row {
+    display: none;
+}
+
+.footer_content_text {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}

@@ -12,6 +12,7 @@ $(document).ready(function() {
       widCat.text(textRus);
     }
 });
+
 // /* Change policy text DELETE */
 // $(document).ready(function() {
 //     $('.checkout-checkout').ready( function() {

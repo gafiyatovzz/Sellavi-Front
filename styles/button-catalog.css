@@ -1,0 +1,17 @@
+/* Catalog Button */
+
+.thumbnail .price_actions .add_to_cart button {
+    padding: 12px 20px !important;
+    background-color: rgb(86, 135, 191);
+    color: white;
+    width: 100%;
+}
+
+@media only screen and (max-width: 576px) {
+  .mobile_two_columns .thumbnail .price_actions .add_to_cart {
+      display: block !important;
+      padding-bottom: 30px;
+  }
+}
+
+/****************************/

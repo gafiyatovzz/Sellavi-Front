@@ -1,0 +1,13 @@
+/*  Hidden footer menu content */
+
+@media (max-width: 767px) {
+    .widget ul {
+          padding-bottom: 30px;
+          display: none;
+      }
+    
+      .widget:hover ul {
+          display: block
+      }
+}
+/* ****************************************** */
