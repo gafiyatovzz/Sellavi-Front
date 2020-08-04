@@ -1,0 +1,13 @@
+.media{
+  display: inline-block; 
+  overflow: hidden; 
+}
+
+.media img {
+  transition: 1s; 
+  display: block; 
+}
+
+.media img:hover {
+  transform: scale(1.2); 
+}
