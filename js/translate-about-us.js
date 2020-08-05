@@ -12,10 +12,11 @@ $(document).ready(function() {
       widCat.text(textRus);
     }
 });
+
 // /* Change policy text DELETE */
 // $(document).ready(function() {
 //     $('.checkout-checkout').ready( function() {
-//         const checkboxLable =  $('.checkbox>label');
-//         checkboxLable.html('Согласен(-а) с <a href="/terms-return/" " style="text-decoration: none !important; "><b>Условиями</b></a>');
+//         const checkboxLable = $('.checkbox>label');
+//         checkboxLable.html('Согласен(-а) с <a href="/terms-return/" style="text-decoration: none !important; "><b>Условиями</b></a>');
 //   })   
 // })
