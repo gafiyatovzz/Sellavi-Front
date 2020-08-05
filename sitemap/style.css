@@ -1,0 +1,72 @@
+.map__list {
+    list-style-type: none !important;
+}
+
+.map__brunch {
+    position: relative;
+    padding: 8px 0;
+}
+
+.map__brunch > a {
+    border: 2px solid #89c144;
+    transition: all 0.3s;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.map__brunch > a:hover {
+    background: #89c144;
+    color: #ffffff !important;
+}
+
+.map__arrow {
+    position: absolute;
+    top: 15px;
+    left: -30px;
+    border: 10px solid transparent;
+    border-top: 10px solid #89c144;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.map__arrow:hover {
+    border-top: 10px solid #232323;
+}
+
+.map__sublist-hidden {
+    display: none;
+}
+
+.map__sublist {
+    padding: 0 10px;
+    margin: 10px 0 0 0;
+}
+
+.copyright_row {
+    display:none !important;
+}
+
+@media screen and (max-device-width: 576px) {
+    .map {
+        margin-left: 70px;
+    }
+}
+
+.section-title {
+    display: block;
+    background: url('https://jupiterhotel.com/wp-content/uploads/2019/11/Blog-Banner-size-26.png') repeat center/cover;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    z-index: 1;
+}
+
+.section-title:after {
+    content: 'Top Laptop';
+    position: absolute;
+    left: 20px;
+    bottom: -20px;
+    color: #fff;
+    font-size: 30px;
+    z-index: 10;
+}
