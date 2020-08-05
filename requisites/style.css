@@ -37,18 +37,3 @@
     font-family: Hauss, san-serif;
     font-weight: bolder;
 }
-
-.footer-widgets > .container > .row:before {
-    position: relative;
-}
-
-
-.footer-widgets > .container > .row:before {
-    content: '';
-    background: url("https://www.1c-interes.ru/upload/resize_src/e1/e1759c51aa7264220d13e6d68c71260c.jpg") no-repeat center/cover;
-    width: 15%;
-    height: 50%;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-}
