@@ -1,0 +1,12 @@
+body.theme_11 .wrapper .header .header-wrapper .header-search input {
+  border-radius: 0px;
+}
+
+body.theme-black.theme_11 .wrapper .header .header-wrapper .header-search input.form-control {
+  border-color: #000;
+}
+
+input.form-control {
+  border: none;
+  border-bottom: 2px solid #000;
+}
