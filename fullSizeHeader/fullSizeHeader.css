@@ -1,0 +1,47 @@
+#home > div.wrapper.wrapper-closed > div > div > div.position-relative > div > span:nth-child(2) > picture > img {
+    position: relative;
+    top: -127px;
+}
+
+#home > div.wrapper.wrapper-closed > header > div.header-wrapper > div.container-fluid > div.logo {
+    margin-bottom: 20px;
+}
+
+
+body.common-home header.header .header-wrapper {
+    background: transparent !important;
+}
+
+body.theme_10 .wrapper header.header .header-wrapper {
+   background: #24262a;
+   
+}
+
+.header .header-wrapper .mobile-navigation-wrapper a {
+   color: #fff;
+}
+
+.header-cart .cart-wrapper #cart,
+.wrapper .header .header-search button {
+  color: #fff;
+}
+
+#home > div.wrapper.wrapper-closed > header > div.header-wrapper > div > div.header-cart.sticky > div {
+    margin-right: 50px;
+}
+
+@media (max-width: 992px) {
+   #home > div.wrapper.wrapper-closed > header > div.header-wrapper > div > div.header-cart.sticky > div {
+      margin: 0;
+  }
+}
+
+#search > div.search_field > input,
+#home > div.wrapper.wrapper-closed > header > div.header-wrapper > div > div.header-cart.sticky > div,
+body.theme_10 .common-home .header .header-wrapper {
+    background: 0;
+}
+
+.body.theme_10 .wrapper header.header .header-search input:placeholder {
+   color: white !important;
+}
