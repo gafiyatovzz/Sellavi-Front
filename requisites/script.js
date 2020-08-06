@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    if (!location.href.includes('checkout')) {
+    if (location.href.includes('contact')) {
         const root = document.querySelector('.contact-info');
         const contacts = document.createElement("div");
         const info = document.createElement("div");
