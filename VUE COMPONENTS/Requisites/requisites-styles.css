@@ -1,0 +1,54 @@
+.requisites {
+    width: 80vw !important;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+.requisites strong {
+    margin-right: 5px;
+}
+
+.requisite {
+    padding: 65px 0 0 55px;
+    position: relative;
+    border-top: 1px solid #e9e9e9;
+}
+
+.requisite::after {
+    content: "i";
+    position: absolute;
+    top: 25px;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #d3d3d3;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 0 0 10px 16px;
+    line-height: 40px;
+}
+
+.requisite__title {
+    position: absolute;
+    top: 25px;
+    left: 55px;
+    font-family: Hauss, san-serif;
+    font-weight: bolder;
+}
+
+.footer-widgets > .container > .row:before {
+    position: relative;
+}
+
+
+.footer-widgets > .container > .row:before {
+    content: '';
+    background: url("https://www.1c-interes.ru/upload/resize_src/e1/e1759c51aa7264220d13e6d68c71260c.jpg") no-repeat center/cover;
+    width: 15%;
+    height: 50%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
