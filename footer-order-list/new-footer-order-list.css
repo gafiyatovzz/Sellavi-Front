@@ -17,7 +17,7 @@ footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul 
 }
 
 footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul > li:nth-child(4) {
-   order: 5;
+   order: 6;
 }
 
 footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul > li:nth-child(5) {
@@ -25,7 +25,7 @@ footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul 
 }
 
 footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul > li:nth-child(6) {
-    order: 6;
+    order: 5;
 } 
 
 footer > div.footer-widgets > div.container > div > div:nth-child(2) > div > ul > li:nth-child(7) {
