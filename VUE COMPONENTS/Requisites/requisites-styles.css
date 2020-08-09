@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     font-size: 14px;
+    list-style: none;
 }
 
 .requisites strong {
@@ -10,9 +11,13 @@
 }
 
 .requisite {
-    padding: 65px 0 0 55px;
+    padding-top: 65px;
     position: relative;
     border-top: 1px solid #e9e9e9;
+}
+
+.requisite > li {
+    margin-left: 55px;
 }
 
 .requisite::after {
@@ -33,7 +38,7 @@
 .requisite__title {
     position: absolute;
     top: 25px;
-    left: 55px;
+    left: 0;
     font-family: Hauss, san-serif;
     font-weight: bolder;
 }
