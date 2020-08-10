@@ -2,14 +2,17 @@
 document.addEventListener('DOMContentLoaded', function(){
 
     const root = document.querySelector('.custom_section');
-    const container = document.createElement('div').classList.add('container');
-    const slider = document.createElement('slider').classList.add('mb-5');
-    root.append(container);
-    container.append(slider);
+    const container = document.createElement('div');
+    const classContainer = container.setAttribute('id', 'app')
     
-    new Vue({
-        el: '#slider',
+    root.append(container);
+   
+    const elem = new Vue({
         data: {
+slides: [
+              'HEAD',
+               'BREAD',
+             ] 
         },
         template: `
             <div class="custom-slide">
@@ -18,7 +21,9 @@ document.addEventListener('DOMContentLoaded', function(){
                 </div>
             </div>
         `,
-        props: ['slides'],
+        props: {
+              
+        },
         data() {
             return {
                 sliderOptions: {
@@ -71,4 +76,10 @@ document.addEventListener('DOMContentLoaded', function(){
             }
         }
     })
+    const slider = document.createElement('slider');
+    const vOnce = slider.setAttribute('v-once', '')
+     const slides = slider.setAttribute(':slides', 'words')
+    slider.append(elem);
+    container.append(slider)
+
 });
