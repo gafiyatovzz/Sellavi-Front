@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
     
     const pageSection = document.querySelector('.page-section');
-    const container = document.querySelector('.page-section>.container').cloneNode(true);
     const products = document.querySelector('.products')
     const product = products.querySelectorAll('.product-item');
 
@@ -41,12 +40,12 @@ document.addEventListener('DOMContentLoaded', function(){
     monthCont.prepend(titleMonth);
     titleWeek.append(titleWeekSpan);
     titleMonth.append(titleMonthSpan);
-    
+
     const monthRow = document.querySelector('.oneMonth>.products');
     const weekRow = document.querySelector('.twoWeek>.products');
 
-    const monthArr = ['688', '687', '669', '977']
-    const weekArr = ['668', '667']
+    const monthArr = ['688', '687', '669', '977'] // это потом использую для более блатной подгрузки id товаров
+    const weekArr = ['668', '667'] // и это тоже
   
     product.forEach(function (i){
         const attr = i.getAttribute('data-product_id')
