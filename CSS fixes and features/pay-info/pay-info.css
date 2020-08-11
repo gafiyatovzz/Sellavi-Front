@@ -1,0 +1,25 @@
+
+.faq__content--images {
+   align-items: baseline;
+   display: flex;
+   margin-bottom: 32px;
+   overflow: auto;
+}
+
+.faq__content--images figure {
+   margin-right: 50px;
+   text-align: center;
+}
+
+body.information-information .information img {
+   margin-bottom: 20px !important;
+}
+
+body .label-default {
+   color: rgb(130, 130, 130);
+   font-size: 18px;
+   line-height: 28px;
+   letter-spacing: .015em;
+   padding-bottom: 40px;
+   margin: 0 !important;
+}
