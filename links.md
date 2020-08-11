@@ -9,3 +9,5 @@
 - https://www.deepl.com/translator
 ## Lorem Ipsum
 - https://ru.lipsum.com/feed/html
+## Fonts
+- https://fonts.google.com/
