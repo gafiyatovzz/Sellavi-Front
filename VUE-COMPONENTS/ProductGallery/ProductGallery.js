@@ -19,9 +19,12 @@ document.addEventListener('DOMContentLoaded', function(){
         let itemNumber;
 
         if (screen.width > 1080) {
-            itemNumber = 3;
+            itemNumber = 4;
         }
-        if (screen.width <= 1080) {
+        if (screen.width <= 1080 && screen.width > 700) {
+            itemNumber = 2;
+        }
+        if (screen.width < 770) {
             itemNumber = 1;
         }
 
@@ -48,22 +51,30 @@ document.addEventListener('DOMContentLoaded', function(){
                     let newNumber;
                     if (operator) {
                         newNumber = number + itemNumber;
-                        this.currentNumber = newNumber;
-                        this.activeProducts = products.slice(number, newNumber);
+                        if (newNumber >= products.length) {
+                            console.log('something')
+                            this.currentNumber = itemNumber;
+                            this.activeProducts = products.slice(0, itemNumber);
+                        } else {
+                            this.currentNumber = newNumber;
+                            this.activeProducts = products.slice(number, newNumber);
+                        }
                     } else {
                         newNumber = number - itemNumber;
-                        this.currentNumber = newNumber;
-                        this.activeProducts = products.slice(newNumber - itemNumber, newNumber);
+                        if (newNumber <= 0) {
+                            this.currentNumber = products.length;
+                            this.activeProducts = products.slice(products.length - itemNumber, products.length);
+                        } else {
+                            this.currentNumber = newNumber;
+                            this.activeProducts = products.slice(newNumber - itemNumber, newNumber);
+                        }
                     }
-                    console.log(this.activeProducts);
-                    console.log(this.currentNumber);
                 },
             },
             template: `
                 <div class="gallery">
-                    <div @click="changeActive(false)" class="gallery__arrow" style="transform: rotate(135deg)" v-if="currentNumber > 3"></div>
-                    <div class="gallery__arrow gallery__arrow--disabled" style="transform: rotate(135deg)" v-else></div>
-                    
+                    <div @click="changeActive(false)" class="gallery__arrow" style="transform: rotate(135deg)"></div>
+                  
                     <div class="gallery__item" v-for="product in activeProducts">
                         <a :href="product.link">
                             <img :src="product.cover" alt="" class="gallery__cover">
@@ -75,8 +86,8 @@ document.addEventListener('DOMContentLoaded', function(){
                             </p>
                         </a>
                     </div>
-                    <div @click="changeActive(true)" class="gallery__arrow" style="transform: rotate(-45deg);" v-if="currentNumber < products.length"></div>
-                    <div class="gallery__arrow gallery__arrow--disabled" style="transform: rotate(-45deg)" v-else></div>    
+                    <div @click="changeActive(true)" class="gallery__arrow" style="transform: rotate(-45deg);" ></div>
+                        
                 </div>
              `
         })
