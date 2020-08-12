@@ -16,7 +16,16 @@ document.addEventListener('DOMContentLoaded', function(){
             products.push(product);
         }
 
-        const activeProducts = products.slice(0,3);
+        let itemNumber;
+
+        if (screen.width > 1080) {
+            itemNumber = 3;
+        }
+        if (screen.width <= 1080) {
+            itemNumber = 1;
+        }
+
+        const activeProducts = products.slice(0,itemNumber);
         const root = document.querySelector('.section-title');
         const gallery = document.createElement('div');
         gallery.id = 'gallery';
@@ -28,21 +37,23 @@ document.addEventListener('DOMContentLoaded', function(){
             data: {
                 products: products,
                 activeProducts: activeProducts,
-                currentNumber: 3,
+                currentNumber: itemNumber,
+                itemNumber: itemNumber,
             },
             methods: {
                 changeActive(operator) {
+                    const itemNumber = this.itemNumber;
                     const number = this.currentNumber;
                     const products = this.products;
-                    let newNumber
+                    let newNumber;
                     if (operator) {
-                        newNumber = number + 3;
+                        newNumber = number + itemNumber;
                         this.currentNumber = newNumber;
                         this.activeProducts = products.slice(number, newNumber);
                     } else {
-                        newNumber = number - 3;
+                        newNumber = number - itemNumber;
                         this.currentNumber = newNumber;
-                        this.activeProducts = products.slice(newNumber - 3, newNumber);
+                        this.activeProducts = products.slice(newNumber - itemNumber, newNumber);
                     }
                     console.log(this.activeProducts);
                     console.log(this.currentNumber);
