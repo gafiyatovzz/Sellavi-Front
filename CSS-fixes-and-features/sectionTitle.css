@@ -5,6 +5,7 @@ h4, h2 {
   overflow: auto !important;
 }
 
-.section-title {
+.section-title,
+.block-title {
   overflow: hidden !important;
 }
