@@ -5,3 +5,12 @@ $(document).ready(function () {
         })
     }
 });
+
+document.addEventListener('DOMContentLoaded', function(){
+    let val = document.querySelector('.option-group');
+    val.addEventListener('click', () => {
+        if (val.querySelector('.dropdown').classList. contains('show')) {
+            console.log("show")
+        }
+    })
+});

@@ -1,16 +1,17 @@
 $(document).ready(function() {
+    const orgName = 'ООО "АЛЬТАИР"';
+    const orgAdress = '111024, Москва, проезд Энтузиастов, д.19а'
+    const INN = '772205643602';
+    const KPP = '7730715999';
+    const OGRN = '5147746323104';
+    const bankName = 'ПАО "СБЕРБАНК"';
+    const accountNumber = '40702810538000146190';
+    const corrNumber = '30101810400000000225';
+    const BIK = '044525225';
+    const director = 'Першин Александр Дмитриевич';
+    
     if (location.href.includes('contact')) {
-        const orgName = 'ООО "АЛЬТАИР"';
-        const orgAdress = '111024, Москва, проезд Энтузиастов, д.19а'
-        const INN = '772205643602';
-        const KPP = '7730715999';
-        const OGRN = '5147746323104';
-        const bankName = 'ПАО "СБЕРБАНК"';
-        const accountNumber = '40702810538000146190';
-        const corrNumber = '30101810400000000225';
-        const BIK = '044525225';
-        const director = 'Першин Александр Дмитриевич';
-
+        
         let mediaClass = $('<div class="media requisites"></div>'),
             mediaBody = $('<div class="media-body"></div>'),
             mediaStrong = $('<strong>Реквизиты</strong>'),
@@ -19,6 +20,7 @@ $(document).ready(function() {
         $('.media-list').append(mediaClass);
         $('.requisites').append(mediaBody, [mediaStrong, mediaText])
     }
+
     if(location.href.includes('terms-of-use')) {
         let requsitesData = $('<div class="requsites-data"></div>'),
             requsitesText = $('<div class="requsites__data">' + 
@@ -40,3 +42,25 @@ $(document).ready(function() {
     }
 })
  
+
+$('.product-product').ready(function() {
+    $('#button-cart').on('click', function() {
+        const alerts = document.querySelectorAll('.text-danger');
+        for (let alert of alerts) {
+            const alertParent = alert.parentElement;
+            const nameBlock = alertParent.firstElementChild;
+            const name = nameBlock.textContent.toLowerCase();
+            alert.innerHTML = `Поле ${name} обязательно!`
+        }
+    })
+  })
+   const widget = $('.footer-widgets>.container>.row>.col-md-3:first>.widget')
+   const widTitle = widget.find('.widget-title');
+   const widCat = widget.find('.widget-categories>ul>li:first-child>a');
+   let textTrans = 'About us ';
+   let textRus = 'О нас'
+
+   if (widTitle.html() == textTrans || widCat.html() == textTrans) {
+      widTitle.text(textRus);
+      widCat.text(textRus);
+    }
