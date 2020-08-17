@@ -64,3 +64,6 @@ $('.product-product').ready(function() {
       widTitle.text(textRus);
       widCat.text(textRus);
     }
+
+
+ 
