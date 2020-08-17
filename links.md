@@ -15,3 +15,5 @@
 - https://html-css-js.com/css/generator/text-shadow/
 ## Box Shadow
 - https://www.cssmatic.com/box-shadow
+## Remove Background
+- https://www.remove.bg/upload
