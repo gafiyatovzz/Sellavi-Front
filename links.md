@@ -11,4 +11,7 @@
 - https://ru.lipsum.com/feed/html
 ## Fonts
 - https://fonts.google.com/
-## tester
+## Text Shadow
+- https://html-css-js.com/css/generator/text-shadow/
+## Box Shadow
+- https://www.cssmatic.com/box-shadow
