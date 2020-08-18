@@ -11,10 +11,24 @@
     border-top: 1px solid #e9e9e9;
 }
 
+.requsites__title {
+  font-size: 14px;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  font-family: Hauss, san-serif;
+  font-weight: bolder;
+}
+
+.requsites__data {
+  position: relative;
+  padding-top: 32px;
+}
+
 .requisites p {
     font-size: 15px;
-    margin-top: 35px;
-    line-height: 1.5;
+    margin-top: 8px;
+    line-height: 1;
     font-weight: 300;
 }
 
@@ -32,15 +46,8 @@
     padding: 0 0 10px 16px;
     line-height: 40px;
 }
-
-.requisites-title {
-position: absolute;
-top: 25px;
-left: 55px;
-font-family: Hauss, san-serif;
-font-weight: bolder;
+.requsites__elem {
+  margin-bottom: 8px !important;
 }
 
 /******************************/
-
-

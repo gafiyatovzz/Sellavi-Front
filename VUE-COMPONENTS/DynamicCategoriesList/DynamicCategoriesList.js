@@ -1,5 +1,10 @@
 $(document).ready(function () {
 
+  const container = document.querySelector(".latest-section > .container");
+  const preloader = document.createElement('div');
+  preloader.classList.add('loader');
+  container.prepend(preloader);
+
 
   const categoriesArr = Array.from(document.querySelectorAll(".nav .sf-menu > li"));
   const categoriesTrimmed = categoriesArr.slice(1, categoriesArr.length);
@@ -10,13 +15,17 @@ $(document).ready(function () {
     return link;
   });
 
-  const categories = categoriesLinks.map((link) => {
+
+  const categories = [];
+
+  for (let link of categoriesLinks) {
+
     const result = {};
 
     $.ajax({
       url: link,
       type: "get",
-      async: false,
+      async: true,
       success: function (data) {
         const doc = new DOMParser().parseFromString(data, "text/html");
 
@@ -33,33 +42,34 @@ $(document).ready(function () {
         result.title = categoryTitle;
         result.link = categoryLink;
         result.img = imgLink;
+
+        categories.push(result);
+
+        if (categories.length === categoriesLinks.length && Object.keys(categories[ categoriesLinks.length - 1]).length) {
+          render(categories)
+        }
       },
     });
+  }
 
-    return result;
+  const render = (categories) => {
+    const categoriesContainer = document.querySelector(".latest-section > .container");
 
-  });
-  
-  console.log(categories);
+    if (categoriesContainer !== null) {
+      categoriesContainer.firstElementChild.remove();
 
+      const listDiv = document.createElement('div');
+      listDiv.setAttribute('id', 'app');
+      categoriesContainer.prepend(listDiv);
 
-  const categoriesContainer = document.querySelector("#home > div.wrapper.wrapper-closed > div.content-area > section.page-section.homefeatured_category > div");
+      const cat = [...categories];
 
-  if (categoriesContainer !== null) {
-    categoriesContainer.innerHTML = '';
-
-    const listDiv = document.createElement('div');
-    listDiv.setAttribute('id', 'app');
-    categoriesContainer.append(listDiv);
-
-    const cat = [...categories];
-
-    const categoriesList = new Vue({
-      el: '#app',
-      data: {
-        categories: cat
-      },
-      template: `
+      const categoriesList = new Vue({
+        el: '#app',
+        data: {
+          categories: cat
+        },
+        template: `
                  <div class="row">
                    <div class="custom-categories__item" v-for="category of categories">
                      <a :href="category.link">
@@ -69,6 +79,7 @@ $(document).ready(function () {
                    </div>
                  </div>
                `,
-    });
-  }
+      });
+    }
+  };
 });
