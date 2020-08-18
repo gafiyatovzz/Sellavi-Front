@@ -1,5 +1,5 @@
-$('.product-product').ready(function() {
-    $('#button-cart').on('click', function() {
+$('.product-product').ready(function () {
+    $('#button-cart').on('click', function () {
         const alerts = document.querySelectorAll('.text-danger');
         for (let alert of alerts) {
             const alertParent = alert.parentElement;
@@ -8,4 +8,4 @@ $('.product-product').ready(function() {
             alert.innerHTML = `Поле ${name} обязательно!`
         }
     })
-  })
+});
