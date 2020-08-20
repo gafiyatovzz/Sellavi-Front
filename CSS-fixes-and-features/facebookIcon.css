@@ -1,9 +1,14 @@
 .facebook_container {
-  top: 87%;
+  top: 84%;
   background: transparent;
   right: -275px;
 }
 
 .fb_button {
    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+   transition: box-shadow .2s;
+}
+
+.fb_button:hover {
+   box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.4);
 }
