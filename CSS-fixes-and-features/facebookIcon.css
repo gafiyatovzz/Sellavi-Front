@@ -1,7 +1,12 @@
 .facebook_container {
-  top: 84%;
-  background: transparent;
-  right: -275px;
+   z-index: 9999;
+   background: transparent;
+   top: auto;
+   right: 19px;
+   bottom: 100px;
+   position: fixed;
+
+   width: auto;
 }
 
 .fb_button {
