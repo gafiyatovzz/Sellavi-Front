@@ -101,3 +101,9 @@ $(document).ready(function () {
     }
   };
 });
+
+
+const button = document.querySelector('.caption-subtitle span.position-relative');
+button.addEventListener('click', function () {
+  document.querySelector('.products').scrollIntoView({block: "center", behavior: "smooth"});
+});
