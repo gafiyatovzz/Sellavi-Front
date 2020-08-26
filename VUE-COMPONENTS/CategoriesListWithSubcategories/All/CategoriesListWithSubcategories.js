@@ -25,15 +25,12 @@ $(document).ready(function () {
       return result;
     });
 
-    console.log(subcategoriesList);
-
     const categories = [];
 
     for (let link of categoriesLinks) {
 
       const result = {};
       result.subcategories = subcategoriesList[categoriesLinks.indexOf(link)];
-      console.log(result);
 
       $.ajax({
         url: link,
@@ -56,8 +53,6 @@ $(document).ready(function () {
           result.title = categoryTitle;
           result.link = categoryLink;
           result.img = imgLink;
-
-          categories.push(result);
 
           if (categories.length === categoriesLinks.length && Object.keys(categories[categoriesLinks.length - 1]).length) {
             render(categories)
