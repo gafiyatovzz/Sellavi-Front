@@ -1,56 +1,58 @@
 $(document).ready(function () {
 
   const container = document.querySelector(".latest-section > .container");
-  const preloader = document.createElement('div');
-  preloader.classList.add('loader');
-  container.prepend(preloader);
+  if (container !== null) {
+    const preloader = document.createElement('div');
+    preloader.classList.add('loader');
+    container.prepend(preloader);
 
 
-  const categoriesArr = Array.from(document.querySelectorAll(".nav .sf-menu > li"));
-  const categoriesTrimmed = categoriesArr.slice(1, categoriesArr.length);
+    const categoriesArr = Array.from(document.querySelectorAll(".nav .sf-menu > li"));
+    const categoriesTrimmed = categoriesArr.slice(1, categoriesArr.length);
 
-  const categoriesLinks = categoriesTrimmed.map((li) => {
-    const link = li.firstElementChild.href;
+    const categoriesLinks = categoriesTrimmed.map((li) => {
+      const link = li.firstElementChild.href;
 
-    return link;
-  });
-
-
-  const categories = [];
-
-  for (let link of categoriesLinks) {
-
-    const result = {};
-
-    $.ajax({
-      url: link,
-      type: "get",
-      async: true,
-      success: function (data) {
-        const doc = new DOMParser().parseFromString(data, "text/html");
-
-        const categoryTitle = doc.querySelector('.page-header h1').textContent;
-        const categoryLink = link;
-
-        let imgLink;
-
-        if (doc.querySelector('.main-slider .sub img')) {
-          imgLink = doc.querySelector('.main-slider .sub img').src;
-        } else {
-          imgLink = 'https://via.placeholder.com/350x350';
-        }
-
-        result.title = categoryTitle;
-        result.link = categoryLink;
-        result.img = imgLink;
-
-        categories.push(result);
-
-        if (categories.length === categoriesLinks.length && Object.keys(categories[ categoriesLinks.length - 1]).length) {
-          render(categories)
-        }
-      },
+      return link;
     });
+
+
+    const categories = [];
+
+    for (let link of categoriesLinks) {
+
+      const result = {};
+
+      $.ajax({
+        url: link,
+        type: "get",
+        async: true,
+        success: function (data) {
+          const doc = new DOMParser().parseFromString(data, "text/html");
+
+          const categoryTitle = doc.querySelector('.page-header h1').textContent;
+          const categoryLink = link;
+
+          let imgLink;
+
+          if (doc.querySelector('.main-slider .sub img')) {
+            imgLink = doc.querySelector('.main-slider .sub img').src;
+          } else {
+            imgLink = 'https://via.placeholder.com/350x350';
+          }
+
+          result.title = categoryTitle;
+          result.link = categoryLink;
+          result.img = imgLink;
+
+          categories.push(result);
+
+          if (categories.length === categoriesLinks.length && Object.keys(categories[categoriesLinks.length - 1]).length) {
+            render(categories)
+          }
+        },
+      });
+    }
   }
 
   const render = (categories) => {
