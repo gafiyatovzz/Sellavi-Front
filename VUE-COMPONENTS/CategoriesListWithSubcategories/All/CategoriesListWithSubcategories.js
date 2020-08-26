@@ -16,12 +16,24 @@ $(document).ready(function () {
       return link;
     });
 
+    const subcategoriesList = categoriesTrimmed.map((li) => {
+      const subcategoriesLink = Array.from(li.lastElementChild.querySelectorAll('a'));
+      const result = subcategoriesLink.map((link) => {
+        return { title: link.textContent, href: link.href };
+      });
+
+      return result;
+    });
+
+    console.log(subcategoriesList);
 
     const categories = [];
 
     for (let link of categoriesLinks) {
 
       const result = {};
+      result.subcategories = subcategoriesList[categoriesLinks.indexOf(link)];
+      console.log(result);
 
       $.ajax({
         url: link,
@@ -29,19 +41,6 @@ $(document).ready(function () {
         async: true,
         success: function (data) {
           const doc = new DOMParser().parseFromString(data, "text/html");
-
-          const subcategories = [];
-
-          const subcategoryLinks = doc.querySelectorAll('.subcategories_top .media-link');
-
-          for (let link of subcategoryLinks) {
-            const subcategory = {};
-            const title = link.querySelector('.caption-title > span').textContent;
-            const href = link.href;
-            subcategory.title = title;
-            subcategory.href = href;
-            subcategories.push(subcategory);
-          }
 
           const categoryTitle = doc.querySelector('.page-header h1').textContent;
           const categoryLink = link;
@@ -57,7 +56,6 @@ $(document).ready(function () {
           result.title = categoryTitle;
           result.link = categoryLink;
           result.img = imgLink;
-          result.subcategories = subcategories;
 
           categories.push(result);
 
@@ -93,9 +91,10 @@ $(document).ready(function () {
                        <span class="custom-categories__title-container"><h4 class="custom-categories__title">{{ category.title }}</h4></span>
                        <img :src="category.img"></img>
                      </a>
-                     <ul class="custom-categories__subcategories">
-                            <li v-for="subcategory of category.subcategories" class="custom-categories__subcategory"><a :href="subcategory.href" >{{ subcategory.title }}</a></li>
-                     </ul>
+                     <div v-if="category.subcategories.length > 0" class="custom-categories__mask"></div>
+                      <ul class="custom-categories__subcategories" v-if="category.subcategories.length > 0">
+                        <li v-for="subcategory of category.subcategories" class="custom-categories__subcategory"><a :href="subcategory.href" >{{ subcategory.title }}</a></li>
+                      </ul>
                    </div>
                  </div>
                `,
