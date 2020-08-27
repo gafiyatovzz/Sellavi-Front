@@ -1,0 +1,4112 @@
+[
+    {
+       "type":"Feature",
+       "id":0,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            55.8109,
+            37.0128
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Немецкая Оптика» Покровское<br><ul style='font-weight: 300'><li>Истринский район, деревня Покровское Центральная улица, 27, ТЦ Покровский</li><li><a href='tel:74954191203'>+7 (968) 483-33-38</a></li></ul>",
+          "balloonContentHeader":"«Немецкая Оптика» Покровское<br><ul style='font-weight: 300'><li>Истринский район, деревня Покровское Центральная улица, 27, ТЦ Покровский</li><li><a href='tel:74954191203'>+7 (968) 483-33-38</a></li></ul>",
+          "clusterCaption":"«Немецкая Оптика»",
+          "hintContent":"«Немецкая Оптика» Покровское"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":2,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            55.8091,
+            37.1267
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Немецкая Оптика» Новинки<br><ul style='font-weight: 300'><li>ТЦ «Павлово Подворье Московская область, Истринский район, Павло-Слободское сельское поселение, деревня Новинки, дом 115, строение 1 </li><li><a href='tel:79684833339'>+7 (968) 483-33-39</a></li></ul>",
+          "balloonContentHeader":"«Немецкая Оптика» Новинки<br><ul style='font-weight: 300'><li>ТЦ «Павлово Подворье Московская область, Истринский район, Павло-Слободское сельское поселение, деревня Новинки, дом 115, строение 1 </li><li><a href='tel:79684833339'>+7 (968) 483-33-39</a></li></ul>",
+          "clusterCaption":"«Немецкая Оптика»",
+          "hintContent":"«Немецкая Оптика» Новинки"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":3,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            56.8461,
+            60.6304
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Очки для Вас» Блюхера <br><ul style='font-weight: 300'><li>Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:73433653844'>+7 (343) 365-38-44</a></li></ul>",
+          "balloonContentHeader":"«Очки для Вас» Блюхера <br><ul style='font-weight: 300'><li>Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:73433653844'>+7 (343) 365-38-44</a></li></ul>",
+          "clusterCaption":"«Очки для Вас»",
+          "hintContent":"«Очки для Вас» Блюхера"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":4,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            56.888,
+            60.6082
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Очки для Вас» Кузнецова<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Кузнецова, 2</li><li><a href='tel:73432867081'>+7 (343) 286-70-81</a></li></ul>",
+          "balloonContentHeader":"«Очки для Вас» Кузнецова<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Кузнецова, 2</li><li><a href='tel:73432867081'>+7 (343) 286-70-81</a></li></ul>",
+          "clusterCaption":"«Очки для Вас»",
+          "hintContent":"«Очки для Вас» Кузнецова"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":5,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            56.8355,
+            60.6152
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Очки для Вас» Малышева<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Малышева, 84</li><li><a href='tel:73433502632'>+7 (343) 350-26-32</a></li></ul>",
+          "balloonContentHeader":"«Очки для Вас» Малышева<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Малышева, 84</li><li><a href='tel:73433502632'>+7 (343) 350-26-32</a></li></ul>",
+          "clusterCaption":"«Очки для Вас»",
+          "hintContent":"«Очки для Вас» Малышева"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":6,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            56.8068,
+            60.5948
+          ]
+       },
+       "properties":{
+          "balloonContent":"«Очки для Вас» Щорса<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Щорса, 109</li><li><a href='tel:73432860699'>+7 (343) 286-06-99</a></li></ul>",
+          "balloonContentHeader":"«Очки для Вас» Щорса<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Щорса, 109</li><li><a href='tel:73432860699'>+7 (343) 286-06-99</a></li></ul>",
+          "clusterCaption":"«Очки для Вас»",
+          "hintContent":"«Очки для Вас» Щорса"
+       }
+    },
+    {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8324,
+            60.5869
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Прозрение<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Малышева, 16</li><li><a href='tel:73433850232'>+7 (343) 385-02-32</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Прозрение<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Малышева, 16</li><li><a href='tel:73433850232'>+7 (343) 385-02-32</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Прозрение"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.9766,
+            60.5583
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Пышма<br><ul style='font-weight: 300'><li>г. Верхняя Пышма, пр. Успенский, 111</li><li><a href='tel:73436852440'>+7 (343) 685-24-40</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Пышма<br><ul style='font-weight: 300'><li>г. Верхняя Пышма, пр. Успенский, 111</li><li><a href='tel:73436852440'>+7 (343) 685-24-40</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Пышма"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            57.9082,
+            59.9785
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Блюхера <br><ul style='font-weight: 300'><li>г. Нижний Тагил, ул. Строителей, 10</li><li><a href='tel:73435418298'>+7 (343) 541-82-98</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Блюхера <br><ul style='font-weight: 300'><li>г. Нижний Тагил, ул. Строителей, 10</li><li><a href='tel:73435418298'>+7 (343) 541-82-98</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Н-Т Строителей"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.9017,
+            59.9416
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Первоуральск<br><ul style='font-weight: 300'><li>г. Первоуральск, ул. Герцена, 23</li><li><a href='tel:73439621162'>+7 (3439) 62-11-62</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Первоуральск<br><ul style='font-weight: 300'><li>г. Первоуральск, ул. Герцена, 23</li><li><a href='tel:73439621162'>+7 (3439) 62-11-62</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Первоуральск"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8461,
+            60.6327
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Интернет-магазин<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:78002002050'>8 800 200-20-50</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Интернет-магазин<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:78002002050'>8 800 200-20-50</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Интернет-магазин"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6765,
+            39.2094
+           ]
+        },
+        "properties":{
+           "balloonContent":"ОПТИЧЕСКИЙ САЛОН<br><ul style='font-weight: 300'><li>Воронеж, Ф. Энгельса, 12</li><li><a href='tel:74732299719'>+7 (473) 229-97-19</a></li></ul>",
+           "balloonContentHeader":"ОПТИЧЕСКИЙ САЛОН<br><ul style='font-weight: 300'><li>Воронеж, Ф. Энгельса, 12</li><li><a href='tel:74732299719'>+7 (473) 229-97-19</a></li></ul>",
+           "clusterCaption":"ОПТИЧЕСКИЙ САЛОН",
+           "hintContent":"ОПТИЧЕСКИЙ САЛОН"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.6106,
+            37.3335
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Фаворит-оптика» Московский<br><ul style='font-weight: 300'><li>Салон «Внуково» г. Москва пос. Московский, дер. Лапшина, вл. 8, корп 1</li><li><a href='tel:74955877798'>8(495)587-77-98</a></li></ul>",
+           "balloonContentHeader":"«Фаворит-оптика» Московский<br><ul style='font-weight: 300'><li>Салон «Внуково» г. Москва пос. Московский, дер. Лапшина, вл. 8, корп 1</li><li><a href='tel:74955877798'>8(495)587-77-98</a></li></ul>",
+           "clusterCaption":"«Фаворит-оптика»",
+           "hintContent":"«Фаворит-оптика» Московский"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9803,
+            37.2993
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Фаворит-оптика» Черная Грязь<br><ul style='font-weight: 300'><li>г. Химки д.Черная Грязь, ул. Торгово-промышленная, стр. 6 А</li><li><a href='tel:74957347247'>8(495) 734-72-47</a></li></ul>",
+           "balloonContentHeader":"«Фаворит-оптика» Черная Грязь<br><ul style='font-weight: 300'><li>г. Химки д.Черная Грязь, ул. Торгово-промышленная, стр. 6 А</li><li><a href='tel:74957347247'>8(495) 734-72-47</a></li></ul>",
+           "clusterCaption":"«Фаворит-оптика»",
+           "hintContent":"«Фаворит-оптика» Черная Грязь"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.5949,
+            37.037
+           ]
+        },
+        "properties":{
+           "balloonContent":"центр «Аквамед» <br><ul style='font-weight: 300'><li>г.Краснознаменск, ул. Краснознаменская, д.23</li><li><a href='tel:74955441818'>8 (495)544-18-18</a></li></ul>",
+           "balloonContentHeader":"центр «Аквамед» <br><ul style='font-weight: 300'><li>г.Краснознаменск, ул. Краснознаменская, д.23</li><li><a href='tel:74955441818'>8 (495)544-18-18</a></li></ul>",
+           "clusterCaption":"центр «Аквамед»",
+           "hintContent":"центр «Аквамед»"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.732,
+            37.1487
+           ]
+        },
+        "properties":{
+           "balloonContent":"GLAZOMER<br><ul style='font-weight: 300'><li>МО, г. Дубна,  пр-т Боголюбова , д. 31  ( ТЦ  БУМ )</li><li><a href='tel:79253520210'>8 (925) 352-02-10</a></li></ul>",
+           "balloonContentHeader":"GLAZOMER<br><ul style='font-weight: 300'><li>МО, г. Дубна,  пр-т Боголюбова , д. 31  ( ТЦ  БУМ )</li><li><a href='tel:79253520210'>8 (925) 352-02-10</a></li></ul>",
+           "clusterCaption":"GLAZOMER",
+           "hintContent":"GLAZOMER"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9801,
+            37.1739
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.834</li><li><a href='tel:+79296049875'>8(929)604-98-75</a></li></ul>",
+           "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.834</li><li><a href='tel:+79296049875'>8(929)604-98-75</a></li></ul>",
+           "clusterCaption":"Салоны «Lokamed» ",
+           "hintContent":"Салоны «Lokamed» "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9809,
+            37.168
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салоны «Lokamed»<br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.1824</li><li><a href='tel:79292302606'>8(929)2302606</a></li></ul>",
+           "balloonContentHeader":"Салоны «Lokamed»<br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.1824</li><li><a href='tel:79292302606'>8(929)2302606</a></li></ul>",
+           "clusterCaption":"Салоны «Lokamed»",
+           "hintContent":"Салоны «Lokamed»"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9739,
+            37.1624
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салоны «Lokamed»<br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.2008</li><li><a href='tel:79299114657'>8(929)911-46-57</a></li></ul>",
+           "balloonContentHeader":"Салоны «Lokamed»<br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.2008</li><li><a href='tel:79299114657'>8(929)911-46-57</a></li></ul>",
+           "clusterCaption":"Салоны «Lokamed»",
+           "hintContent":"Салоны «Lokamed»"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.995,
+            37.1891
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.1204</li><li><a href='tel:79296049876'>8(929)604-98-76</a></li></ul>",
+           "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.1204</li><li><a href='tel:79296049876'>8(929)604-98-76</a></li></ul>",
+           "clusterCaption":"Салоны «Lokamed» ",
+           "hintContent":"Салоны «Lokamed» "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9891,
+            37.2129
+           ]
+        },
+        "properties":{
+            "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.241</li><li><a href='tel:79262772808'>8(926)2772808</a></li></ul>",
+            "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Москва, г.Зеленоград, к.241</li><li><a href='tel:79262772808'>8(926)2772808</a></li></ul>",
+            "clusterCaption":"Салоны «Lokamed» ",
+            "hintContent":"Салоны «Lokamed» "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.8954,
+            37.4524
+           ]
+        },
+        "properties":{
+            "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Химки, Ленинский пр-т, д. 1, стр. 1</li><li><a href='tel:79299402443'>8(929)940-24-43</a></li></ul>",
+            "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г. Химки, Ленинский пр-т, д. 1, стр. 1</li><li><a href='tel:79299402443'>8(929)940-24-43</a></li></ul>",
+            "clusterCaption":"Салоны «Lokamed» ",
+            "hintContent":"Салоны «Lokamed» "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.984,
+            37.1425
+           ]
+        },
+        "properties":{
+            "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>Солнечногорский р-н., п.Андреевка, ул. Жилинская, д.1 ТЦ Энергия</li><li><a href='tel:8(926)230-26-33'>8(926)230-26-33</a></li></ul>",
+            "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>Солнечногорский р-н., п.Андреевка, ул. Жилинская, д.1 ТЦ Энергия</li><li><a href='tel:8(926)230-26-33'>8(926)230-26-33</a></li></ul>",
+            "clusterCaption":"Салоны «Lokamed» ",
+            "hintContent":"Салоны «Lokamed» "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.6811,
+                37.2906
+           ]
+        },
+        "properties":{
+            "balloonContent":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г.Одинцово, Можайское шоссе, д.66 б</li><li><a href='tel:79296049816'>8(929)604-98-16</a></li></ul>",
+            "balloonContentHeader":"Салоны «Lokamed» <br><ul style='font-weight: 300'><li>г.Одинцово, Можайское шоссе, д.66 б</li><li><a href='tel:79296049816'>8(929)604-98-16</a></li></ul>",
+            "clusterCaption":"Салоны «Lokamed» ",
+            "hintContent":"Салоны «Lokamed» "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.8114,
+            37.0133
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Немецкая Оптика» Покровское<br><ul style='font-weight: 300'><li>Московская Область, деревня Покровское, ул. Центральная 27, ТЦ Покровский</li><li><a href='tel:79859314054'>8 (985) 931-40-54</a></li></ul>",
+           "balloonContentHeader":"«Немецкая Оптика» Покровское<br><ul style='font-weight: 300'><li>Московская Область, деревня Покровское, ул. Центральная 27, ТЦ Покровский</li><li><a href='tel:79859314054'>8 (985) 931-40-54</a></li></ul>",
+           "clusterCaption":"«Немецкая Оптика»",
+           "hintContent":"«Немецкая Оптика» Покровское"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.8081,
+            37.129
+           ]
+        },
+        "properties":{
+           "balloonContent":"Немецкая оптика ТРК Павлово Подворье<br><ul style='font-weight: 300'><li>Московская область, Истринский район, пос.Павлово-Слободское, дер.Новинки, д.115, ТРК Павлово Подворье</li><li><a href='tel:79684833339'>+7 (968) 483-33-39</a></li></ul>",
+           "balloonContentHeader":"Немецкая оптика ТРК Павлово Подворье<br><ul style='font-weight: 300'><li>Московская область, Истринский район, пос.Павлово-Слободское, дер.Новинки, д.115, ТРК Павлово Подворье</li><li><a href='tel:79684833339'>+7 (968) 483-33-39</a></li></ul>",
+           "clusterCaption":"Немецкая оптика ТРК Павлово Подворье",
+           "hintContent":"Немецкая оптика ТРК Павлово Подворье"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.7947,
+            37.928
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Фаворит ТЦ Светофор<br><ul style='font-weight: 300'><li>8 (495) 931-46-72</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "balloonContentHeader":"Оптика Фаворит ТЦ Светофор<br><ul style='font-weight: 300'><li>8 (495) 931-46-72</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "clusterCaption":"Оптика Фаворит ТЦ Светофор",
+           "hintContent":"Оптика Фаворит ТЦ Светофор"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+             56.888,
+             60.6082
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Фаворит ТЦ Океан<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "balloonContentHeader":"Оптика Фаворит ТЦ Океан<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "clusterCaption":"Оптика Фаворит ТЦ Океан",
+           "hintContent":"Оптика Фаворит ТЦ Океан"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+             56.8355,
+             60.6152
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Очки для Вас» Малышева<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Малышева, 84</li><li><a href='tel:73433502632'>+7 (343) 350-26-32</a></li></ul>",
+           "balloonContentHeader":"«Очки для Вас» Малышева<br><ul style='font-weight: 300'><li>Екатеринбург, ул. Малышева, 84</li><li><a href='tel:73433502632'>+7 (343) 350-26-32</a></li></ul>",
+           "clusterCaption":"«Очки для Вас»",
+           "hintContent":"«Очки для Вас» Малышева"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.6146,
+                37.3183
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Фаворит Vnukovo Outlet Village<br><ul style='font-weight: 300'><li>Краснопрудная ул., 22/24 \r\nвход с улицы Нижняя Красносельская</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "balloonContentHeader":"Оптика Фаворит Vnukovo Outlet Village<br><ul style='font-weight: 300'><li>Краснопрудная ул., 22/24 \r\nвход с улицы Нижняя Красносельская</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "clusterCaption":"Оптика Фаворит Vnukovo Outlet Village",
+           "hintContent":"Оптика Фаворит Vnukovo Outlet Village"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                53.257,
+                34.3277
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Фаворит Vnukovo Outlet Village<br><ul style='font-weight: 300'><li>Краснопрудная ул., 22/24 \r\nвход с улицы Нижняя Красносельская</li><li><a href='tel:74959314672'>8 (495) 931-46-72</a></li></ul>",
+           "balloonContentHeader":"ВСЁ ВИЖУ Самолёт<br><ul style='font-weight: 300'><li>Авиационная, 8</li><li><a href='tel:79155324555'>8 (915) 532–45–55</a></li></ul>",
+           "clusterCaption":"ВСЁ ВИЖУ Самолёт",
+           "hintContent":"ВСЁ ВИЖУ Самолёт"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                64.5532,
+                39.8009
+           ]
+        },
+        "properties":{
+           "balloonContent":"Мода Оптик на Ломоносова<br><ul style='font-weight: 300'><li>ул. Ломоносова, дом № 73</li><li><a href='tel:78184529633'>8 (8184) 52–96–33</a></li></ul>",
+           "balloonContentHeader":"Мода Оптик на Ломоносова<br><ul style='font-weight: 300'><li>ул. Ломоносова, дом № 73</li><li><a href='tel:78184529633'>8 (8184) 52–96–33</a></li></ul>",
+           "clusterCaption":"Мода Оптик на Ломоносова",
+           "hintContent":"Мода Оптик на Ломоносова"
+        }
+     },{
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                64.5643,
+                39.823
+           ]
+        },
+        "properties":{
+           "balloonContent":"Мода Оптик на Советской<br><ul style='font-weight: 300'><li>ул. Советская, д. 50/12</li><li><a href='tel:78184580780'>8 (8184) 58–07–80</a></li></ul>",
+           "balloonContentHeader":"Мода Оптик на Советской<br><ul style='font-weight: 300'><li>ул. Советская, д. 50/12</li><li><a href='tel:78184580780'>8 (8184) 58–07–80</a></li></ul>",
+           "clusterCaption":"Мода Оптик на Советской",
+           "hintContent":"Мода Оптик на Советской"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                64.543,
+                40.5118
+           ]
+        },
+        "properties":{
+           "balloonContent":"Мода Оптик на набережной<br><ul style='font-weight: 300'><li>ул. набережная Северной Двины, д. 93</li><li><a href='tel:78182201005'>8 (8182) 20–10–05</a></li></ul>",
+           "balloonContentHeader":"Мода Оптик на набережной<br><ul style='font-weight: 300'><li>ул. набережная Северной Двины, д. 93</li><li><a href='tel:78182201005'>8 (8182) 20–10–05</a></li></ul>",
+           "clusterCaption":"Мода Оптик на набережной",
+           "hintContent":"Мода Оптик на набережной"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                53.0693,
+                158.618
+           ]
+        },
+        "properties":{
+           "balloonContent":"Медио Оптика  ТЦ Серебряный город<br><ul style='font-weight: 300'><li>Серебряный город, 8 Марта, 32</li><li><a href='tel:84932933106'>8 (4932) 93–31–06</a></li></ul>",
+           "balloonContentHeader":"Медио Оптика  ТЦ Серебряный город<br><ul style='font-weight: 300'><li>Серебряный город, 8 Марта, 32</li><li><a href='tel:84932933106'>8 (4932) 93–31–06</a></li></ul>",
+           "clusterCaption":"Медио Оптика  ТЦ Серебряный город",
+           "hintContent":"Медио Оптика  ТЦ Серебряный город"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.084,
+                38.7619
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика «Волшебница» №3<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:84966140376'>8 (496) 614–03–76</a></li></ul>",
+           "balloonContentHeader":"Оптика «Волшебница» №3<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:84966140376'>8 (496) 614–03–76</a></li></ul>",
+           "clusterCaption":"Оптика «Волшебница» №3",
+           "hintContent":"Оптика «Волшебница» №3<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:84966140376'>8 (496) 614–03–76</a></li></ul>"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                53.0693,
+                158.618
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика «Волшебница» №3<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:84966140376'>8 (496) 614–03–76</a></li></ul>",
+           "balloonContentHeader":"Оптика-Имидж ТЦ Евразия<br><ul style='font-weight: 300'><li>Кавказская, 49</li><li><a href='tel:79638318899'>8 (963) 831–88–99</a></li></ul>",
+           "clusterCaption":"Оптика-Имидж ТЦ Евразия",
+           "hintContent":"Оптика-Имидж ТЦ Евразия"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.0553,
+                38.7467
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика «Волшебница» №1<br><ul style='font-weight: 300'><li>ул. Гаврилова, д. 4</li><li><a href='tel:74966100340'>8 (496) 610-03-40</a></li></ul>",
+           "balloonContentHeader":"Оптика «Волшебница» №1<br><ul style='font-weight: 300'><li>ул. Гаврилова, д. 4</li><li><a href='tel:74966100340'>8 (496) 610-03-40</a></li></ul>",
+           "clusterCaption":"Оптика «Волшебница» №1",
+           "hintContent":"Оптика «Волшебница» №1"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            61.3687,
+            63.5477
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптический центр Взгляд<br><ul style='font-weight: 300'><li>ул. Киевская, дом 57/1</li><li><a href='tel:83467534448'>8 (34675) 3-44-48</a></li></ul>",
+           "balloonContentHeader":"Оптический центр Взгляд<br><ul style='font-weight: 300'><li>ул. Киевская, дом 57/1</li><li><a href='tel:83467534448'>8 (34675) 3-44-48</a></li></ul>",
+           "clusterCaption":"Оптический центр Взгляд",
+           "hintContent":"Оптический центр Взгляд"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                65.9878,
+                57.5515
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салон оптики<br><ul style='font-weight: 300'><li>ул. 60 лет Октября, 1</li><li><a href='tel:88214423660'>8 (82144) 2-36-60</a></li></ul>",
+           "balloonContentHeader":"Салон оптики<br><ul style='font-weight: 300'><li>ул. 60 лет Октября, 1</li><li><a href='tel:88214423660'>8 (82144) 2-36-60</a></li></ul>",
+           "clusterCaption":"Салон оптики",
+           "hintContent":"Салон оптики"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                61.0958,
+                72.6162
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салон-магазин ОПТИКА<br><ul style='font-weight: 300'><li>6 микрорайон, 2 дом</li><li><a href='tel:83463224910'>8 (3463) 22‑49-10</a></li></ul>",
+           "balloonContentHeader":"Салон-магазин ОПТИКА<br><ul style='font-weight: 300'><li>6 микрорайон, 2 дом</li><li><a href='tel:83463224910'>8 (3463) 22‑49-10</a></li></ul>",
+           "clusterCaption":"Салон-магазин ОПТИКА",
+           "hintContent":"Салон-магазин ОПТИКА"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.6578,
+                37.9839
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗемОптика<br><ul style='font-weight: 300'><li>пгт Красково, ул. Карла Маркса, 61</li><li><a href='tel:84959718651'>8 (495) 971–86–51</a></li></ul>",
+           "balloonContentHeader":"ЗемОптика<br><ul style='font-weight: 300'><li>пгт Красково, ул. Карла Маркса, 61</li><li><a href='tel:84959718651'>8 (495) 971–86–51</a></li></ul>",
+           "clusterCaption":"ЗемОптика",
+           "hintContent":"ЗемОптика"
+        }
+     },
+     {
+       "type":"Feature",
+       "id":0,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            61.0029,
+            69.0307
+          ]
+       },
+       "properties":{
+          "balloonContent":"Оптика для вас<br><ul style='font-weight: 300'><li>ул. Лопарева, 14</li><li><a href='tel:83467330255'>8 (3467) 33-02-55</a></li></ul>",
+          "balloonContentHeader":"Оптика для вас<br><ul style='font-weight: 300'><li>ул. Лопарева, 14</li><li><a href='tel:83467330255'>8 (3467) 33-02-55</a></li></ul>",
+          "clusterCaption":"Оптика для вас",
+          "hintContent":"Оптика для вас"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":2,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            62.0327,
+            129.721
+          ]
+       },
+       "properties":{
+          "balloonContent":"Оптика для вас<br><ul style='font-weight: 300'><li>ул. Лопарева, 14</li><li><a href='tel:83467330255'>8 (3467) 33-02-55</a></li></ul>",
+          "balloonContentHeader":"Точка Зрения<br><ul style='font-weight: 300'><li>ТЦ Силуэт, Кирова, 30 36 павильон 2 этаж</li><li><a href='tel:89142751221'>8 (914) 2–751–221</a></li></ul>",
+          "clusterCaption":"Точка Зрения",
+          "hintContent":"Точка Зрения"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":3,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            61.0809,
+            72.6198
+          ]
+       },
+       "properties":{
+          "balloonContent":"Салон оптики <br><ul style='font-weight: 300'><li>16а микрорайон, 52</li><li><a href='tel:89324114167'>8 (932) 411–41–67</a></li></ul>",
+          "balloonContentHeader":"Салон оптики <br><ul style='font-weight: 300'><li>16а микрорайон, 52</li><li><a href='tel:89324114167'>8 (932) 411–41–67</a></li></ul>",
+          "clusterCaption":"Салон оптики",
+          "hintContent":"Салон оптики"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":4,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            61.0303,
+            76.1073
+          ]
+       },
+       "properties":{
+          "balloonContent":"Новый взгляд<br><ul style='font-weight: 300'><li>7-й микрорайон, Заречная, 1/3/li><li><a href='tel:83464332901'>8 (34643) 3–29–01</a></li></ul>",
+          "balloonContentHeader":"Новый взгляд<br><ul style='font-weight: 300'><li>7-й микрорайон, Заречная, 1/3/li><li><a href='tel:83464332901'>8 (34643) 3–29–01</a></li></ul>",
+          "clusterCaption":"Новый взгляд",
+          "hintContent":"Новый взгляд"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":5,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            55.4318,
+            37.5457
+          ]
+       },
+       "properties":{
+          "balloonContent":"ВижуВсе на Ленина<br><ul style='font-weight: 300'><li>Проспект Ленина, 150/54</li><li><a href='tel:84959843534'>8 (495) 984 35 34</a></li></ul>",
+          "balloonContentHeader":"ВижуВсе на Ленина<br><ul style='font-weight: 300'><li>Проспект Ленина, 150/54</li><li><a href='tel:84959843534'>8 (495) 984 35 34</a></li></ul>",
+          "clusterCaption":"ВижуВсе на Ленина",
+          "hintContent":"ВижуВсе на Ленина"
+       }
+    },
+    {
+       "type":"Feature",
+       "id":6,
+       "geometry":{
+          "type":"Point",
+          "coordinates":[
+            55.4312,
+            37.5473
+          ]
+       },
+       "properties":{
+          "balloonContent":"ВижуВсе на Комсомольской<br><ul style='font-weight: 300'><li>ул. Комсомольская, 46</li><li><a href='tel:84959843534'>8 (495) 984 35 34</a></li></ul>",
+          "balloonContentHeader":"ВижуВсе на Комсомольской<br><ul style='font-weight: 300'><li>ул. Комсомольская, 46</li><li><a href='tel:84959843534'>8 (495) 984 35 34</a></li></ul>",
+          "clusterCaption":"ВижуВсе на Комсомольской",
+          "hintContent":"ВижуВсе на Комсомольской"
+       }
+    },
+    {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.469,
+            37.5463
+           ]
+        },
+        "properties":{
+           "balloonContent":"ВижуВсе на Тепличной<br><ul style='font-weight: 300'><li>ул. Тепличная, 12</li><li><a href='tel:84959843534'>8 (495) 984-35-34</a></li></ul>",
+           "balloonContentHeader":"ВижуВсе на Тепличной<br><ul style='font-weight: 300'><li>ул. Тепличная, 12</li><li><a href='tel:84959843534'>8 (495) 984-35-34</a></li></ul>",
+           "clusterCaption":"ВижуВсе на Тепличной",
+           "hintContent":"ВижуВсе на Тепличной"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.4853,
+            37.3039
+           ]
+        },
+        "properties":{
+           "balloonContent":"ВижуВсе на Академической Троицк<br><ul style='font-weight: 300'><li>г. Троицк, Академическая площадь, 1</li><li><a href='tel:84959843534'>8 (495) 984-35-34</a></li></ul>",
+           "balloonContentHeader":"ВижуВсе на Академической Троицк<br><ul style='font-weight: 300'><li>г. Троицк, Академическая площадь, 1</li><li><a href='tel:84959843534'>8 (495) 984-35-34</a></li></ul>",
+           "clusterCaption":"ВижуВсе на Академической Троицк",
+           "hintContent":"ВижуВсе на Академической Троицк"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.6082,
+            38.0911
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Фаворит ТЦ Океан<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:84959314672'>8 (495) 931-46-72</a></li></ul>",
+           "balloonContentHeader":"Оптика Фаворит ТЦ Океан<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:84959314672'>8 (495) 931-46-72</a></li></ul>",
+           "clusterCaption":"Оптика Фаворит ТЦ Океан",
+           "hintContent":"Оптика Фаворит ТЦ Океан"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            62.0286,
+            129.718
+           ]
+        },
+        "properties":{
+           "balloonContent":"АИСТ<br><ul style='font-weight: 300'><li>Якутск,Ломоносова, 45</li><li><a href='tel:84112321193'>8 (4112) 32-11-93</a></li></ul>",
+           "balloonContentHeader":"АИСТ<br><ul style='font-weight: 300'><li>Якутск,Ломоносова, 45</li><li><a href='tel:84112321193'>8 (4112) 32-11-93</a></li></ul>",
+           "clusterCaption":"АИСТ",
+           "hintContent":"АИСТ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.5573,
+            150.803
+           ]
+        },
+        "properties":{
+           "balloonContent":"КРОФТ-Оптика Офтальмологический центр<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:84132628547'>8(4132) 62–85–47</a></li></ul>",
+           "balloonContentHeader":"КРОФТ-Оптика Офтальмологический центр<br><ul style='font-weight: 300'><li>г. Екатеринбург, ул. Блюхера, 3</li><li><a href='tel:84132628547'>8(4132) 62–85–47</a></li></ul>",
+           "clusterCaption":"КРОФТ-Оптика Офтальмологический центр",
+           "hintContent":"КРОФТ-Оптика Офтальмологический центр"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8603,
+            35.9088
+           ]
+        },
+        "properties":{
+           "balloonContent":"Тверская оптика<br><ul style='font-weight: 300'><li>Тверь,Тверской проспект, 15</li><li><a href='tel:84822320684'>84822320684</a></li></ul>",
+           "balloonContentHeader":"Тверская оптика<br><ul style='font-weight: 300'><li>Тверь,Тверской проспект, 15</li><li><a href='tel:84822320684'>84822320684</a></li></ul>",
+           "clusterCaption":"Тверская оптика",
+           "hintContent":"Тверская оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            57.6261,
+            39.8497
+           ]
+        },
+        "properties":{
+           "balloonContent":"ОфтаКит Офтальмологическая клиника<br><ul style='font-weight: 300'><li>ТЦ Венге, Свободы, 91</li><li><a href='tel:84852745645'>8(4852)74–56–45</a></li></ul>",
+           "balloonContentHeader":"ОфтаКит Офтальмологическая клиника<br><ul style='font-weight: 300'><li>ТЦ Венге, Свободы, 91</li><li><a href='tel:84852745645'>8(4852)74–56–45</a></li></ul>",
+           "clusterCaption":"ОфтаКит Офтальмологическая клиника",
+           "hintContent":"ОфтаКит Офтальмологическая клиника"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8568,
+            35.8687
+           ]
+        },
+        "properties":{
+           "balloonContent":"Клиника Современной Офтальмологии<br><ul style='font-weight: 300'><li>Тверь, Виноградова, 1</li><li><a href='tel:84822741202'>8 (4822) 74–12–02</a></li></ul>",
+           "balloonContentHeader":"Клиника Современной Офтальмологии<br><ul style='font-weight: 300'><li>Тверь, Виноградова, 1</li><li><a href='tel:84822741202'>8 (4822) 74–12–02</a></li></ul>",
+           "clusterCaption":"Клиника Современной Офтальмологии",
+           "hintContent":"Клиника Современной Офтальмологии"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.6046,
+            38.0817
+           ]
+        },
+        "properties":{
+           "balloonContent":"Позитив Оптика <br><ul style='font-weight: 300'><li>ТРЦ Авиатор, Баженова, 2а, 1 этаж</li><li><a href='tel:89250408697'>8 (925) 040–86–97</a></li></ul>",
+           "balloonContentHeader":"Позитив Оптика <br><ul style='font-weight: 300'><li>ТРЦ Авиатор, Баженова, 2а, 1 этаж</li><li><a href='tel:89250408697'>8 (925) 040–86–97</a></li></ul>",
+           "clusterCaption":"Позитив Оптика",
+           "hintContent":"Позитив Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            52.2652,
+            104.207
+           ]
+        },
+        "properties":{
+           "balloonContent":"На Рябиковом бульваре<br><ul style='font-weight: 300'><li>Рябикова бульвар, 8а</li><li><a href='tel:83952600964'>8 (3952) 600–964</a></li></ul>",
+           "balloonContentHeader":"На Рябиковом бульваре<br><ul style='font-weight: 300'><li>Рябикова бульвар, 8а</li><li><a href='tel:83952600964'>8 (3952) 600–964</a></li></ul>",
+           "clusterCaption":"На Рябиковом бульваре",
+           "hintContent":"На Рябиковом бульваре"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            52.2721,
+            104.31
+           ]
+        },
+        "properties":{
+           "balloonContent":"На Партизанской <br><ul style='font-weight: 300'><li>Партизанская, 107</li><li><a href='tel:+83952606576'>8 (3952) 606–576</a></li></ul>",
+           "balloonContentHeader":"На Партизанской <br><ul style='font-weight: 300'><li>Партизанская, 107</li><li><a href='tel:+83952606576'>8 (3952) 606–576</a></li></ul>",
+           "clusterCaption":"На Партизанской",
+           "hintContent":"На Партизанской "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            62.0395,
+            129.743
+           ]
+        },
+        "properties":{
+           "balloonContent":"На Партизанской <br><ul style='font-weight: 300'><li>Партизанская, 107</li><li><a href='tel:+83952606576'>8 (3952) 606–576</a></li></ul>",
+           "balloonContentHeader":"Оптика № 1<br><ul style='font-weight: 300'><li>Дзержинского, 16/4</li><li><a href='tel:89142708808'>8 (914) 2–708–808</a></li></ul>",
+           "clusterCaption":"Оптика № 1",
+           "hintContent":"Оптика № 1"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.9582,
+            34.1016
+           ]
+        },
+        "properties":{
+           "balloonContent":"ВИТАПРОВ<br><ul style='font-weight: 300'><li>ул. Шполянской, 7\/9</li><li><a href='tel:73652620354'>+7 (3652) 62-03-54</a></li></ul>",
+           "balloonContentHeader":"ВИТАПРОВ<br><ul style='font-weight: 300'><li>ул. Шполянской, 7\/9</li><li><a href='tel:73652620354'>+7 (3652) 62-03-54</a></li></ul>",
+           "clusterCaption":"ВИТАПРОВ",
+           "hintContent":"ВИТАПРОВ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.8176,
+            37.6403
+           ]
+        },
+        "properties":{
+           "balloonContent":"Окулист-А<br><ul style='font-weight: 300'><li>Космонавтов ул, дом № 2, корпус 1</li><li><a href='tel:78512999814'>+7 (8512) 99-98-14</a></li></ul>",
+           "balloonContentHeader":"Окулист-А<br><ul style='font-weight: 300'><li>Космонавтов ул, дом № 2, корпус 1</li><li><a href='tel:78512999814'>+7 (8512) 99-98-14</a></li></ul>",
+           "clusterCaption":"Окулист-А",
+           "hintContent":"Окулист-А "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.6032,
+            44.4197
+           ]
+        },
+        "properties":{
+            "balloonContent":"Кредо<br><ul style='font-weight: 300'><li>ул. 64-й Армии, 65</li><li><a href='tel:78442661632'>+7 (8442) 66-16-32</a></li></ul>",
+            "balloonContentHeader":"Кредо<br><ul style='font-weight: 300'><li>ул. 64-й Армии, 65</li><li><a href='tel:78442661632'>+7 (8442) 66-16-32</a></li></ul>",
+            "clusterCaption":"Кредо",
+            "hintContent":"Кредо"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.637,
+            41.9374
+           ]
+        },
+        "properties":{
+            "balloonContent":"Кредо<br><ul style='font-weight: 300'><li>ул. 64-й Армии, 65</li><li><a href='tel:78442661632'>+7 (8442) 66-16-32</a></li></ul>",
+            "balloonContentHeader":"Оптика <br><ul style='font-weight: 300'><li>ул. Менделеева, 22</li><li><a href='tel:78655458388'>+7 (86554) 5-83-88</a></li></ul>",
+            "clusterCaption":"Оптика",
+            "hintContent":"Оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.1951,
+            43.1322
+           ]
+        },
+        "properties":{
+            "balloonContent":"Очи оптика <br><ul style='font-weight: 300'><li>просп. 22-го Партсъезда, 137/3</li><li><a href='tel:79283228885'>+7 (928) 322-88-85</a></li></ul>",
+            "balloonContentHeader":"Очи оптика <br><ul style='font-weight: 300'><li>просп. 22-го Партсъезда, 137/3</li><li><a href='tel:79283228885'>+7 (928) 322-88-85</a></li></ul>",
+            "clusterCaption":"Очи оптика",
+            "hintContent":"Очи оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                47.2284,
+                38.9083
+           ]
+        },
+        "properties":{
+            "balloonContent":"Ирис<br><ul style='font-weight: 300'><li>ул. Ленина 159</li><li><a href='tel:78634623333'>7 (8634) 62-33-33</a></li></ul>",
+            "balloonContentHeader":"Ирис<br><ul style='font-weight: 300'><li>ул. Ленина 159</li><li><a href='tel:78634623333'>7 (8634) 62-33-33</a></li></ul>",
+            "clusterCaption":"Ирис",
+            "hintContent":"Ирис "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.2137,
+            38.9207
+           ]
+        },
+        "properties":{
+            "balloonContent":"Оптика <br><ul style='font-weight: 300'><li>Комсомольский пер. 3/li><li><a href='tel:78634378290'>8-8634-378-290</a></li></ul>",
+            "balloonContentHeader":"Оптика <br><ul style='font-weight: 300'><li>Комсомольский пер. 3/li><li><a href='tel:78634378290'>8-8634-378-290</a></li></ul>",
+            "clusterCaption":"Оптика",
+            "hintContent":"Оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.2192,
+            39.7077
+           ]
+        },
+        "properties":{
+           "balloonContent":"Колинз-Р<br><ul style='font-weight: 300'><li>пр.Буденовский, дом № 21\/50, этаж 3, офис 309.</li><li><a href='tel:78632625212'>+7 (863) 262-52-12</a></li></ul>",
+           "balloonContentHeader":"Колинз-Р<br><ul style='font-weight: 300'><li>пр.Буденовский, дом № 21\/50, этаж 3, офис 309.</li><li><a href='tel:78632625212'>+7 (863) 262-52-12</a></li></ul>",
+           "clusterCaption":"Колинз-Р",
+           "hintContent":"Колинз-Р"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.4156,
+            40.0956
+           ]
+        },
+        "properties":{
+            "balloonContent":"Оптика <br><ul style='font-weight: 300'><li>л. Дубовского, дом № 37</li><li><a href='tel:79054523139'>+7 (905) 452-31-39</a></li></ul>",
+            "balloonContentHeader":"Оптика <br><ul style='font-weight: 300'><li>л. Дубовского, дом № 37</li><li><a href='tel:79054523139'>+7 (905) 452-31-39</a></li></ul>",
+            "clusterCaption":"Оптика",
+            "hintContent":"Оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                43.3216,
+                45.6937
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ирис<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:79389018589'>7 (938) 901-85-89</a></li></ul>",
+           "balloonContentHeader":"Ирис<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:79389018589'>7 (938) 901-85-89</a></li></ul>",
+           "clusterCaption":"Ирис",
+           "hintContent":"Ирис"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                62.0215,
+                129.713
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ирис<br><ul style='font-weight: 300'><li>Жуковский, ул. Гагарина, 67, ТЦ Океан</li><li><a href='tel:79389018589'>7 (938) 901-85-89</a></li></ul>",
+           "balloonContentHeader":"Студенческая <br><ul style='font-weight: 300'><li>Каландаришвили, 7</li><li><a href='tel:89246616261'>8 (924) 661–62–61</a></li></ul>",
+           "clusterCaption":"Студенческая",
+           "hintContent":"Студенческая"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            62.0365,
+            129.718
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новый Взгляд Айсберг<br><ul style='font-weight: 300'><li>Айсберг, Лермонтова, 62/4 3 этаж</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "balloonContentHeader":"Новый Взгляд Айсберг<br><ul style='font-weight: 300'><li>Айсберг, Лермонтова, 62/4 3 этаж</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "clusterCaption":"Новый Взгляд Айсберг",
+           "hintContent":"Новый Взгляд Айсберг"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            62.0305,
+            129.736
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новый Взгляд ТЦ Глобус<br><ul style='font-weight: 300'><li>ТЦ Глобус, Короленко, 2а</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "balloonContentHeader":"Новый Взгляд ТЦ Глобус<br><ul style='font-weight: 300'><li>ТЦ Глобус, Короленко, 2а</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "clusterCaption":"Новый Взгляд ТЦ Глобус",
+           "hintContent":"Новый Взгляд ТЦ Глобус"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            62.0403,
+            129.729
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новый Взгляд ТК Вавилон<br><ul style='font-weight: 300'><li>ТК Вавилон, Лермонтова, 42</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "balloonContentHeader":"Новый Взгляд ТК Вавилон<br><ul style='font-weight: 300'><li>ТК Вавилон, Лермонтова, 42</li><li><a href='tel:89142264545'>8 (914) 226–45–45</a></li></ul>",
+           "clusterCaption":"Новый Взгляд ТК Вавилон",
+           "hintContent":"Новый Взгляд ТК Вавилон"
+        }
+     },{
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.7246,
+            52.385
+        ]
+        },
+        "properties":{
+           "balloonContent":"МКДЦ Яхина М.Г.<br><ul style='font-weight: 300'><li>проспект Мира 6а, помещение 6</li><li><a href='tel:78552358358'>+7 (8552) 35-83-58</a></li></ul>",
+           "balloonContentHeader":"МКДЦ Яхина М.Г.<br><ul style='font-weight: 300'><li>проспект Мира 6а, помещение 6</li><li><a href='tel:78552358358'>+7 (8552) 35-83-58</a></li></ul>",
+           "clusterCaption":"МКДЦ Яхина М.Г.",
+           "hintContent":"МКДЦ Яхина М.Г."
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                56.8458,
+                53.2891
+           ]
+        },
+        "properties":{
+           "balloonContent":"Салон оптики<br><ul style='font-weight: 300'><li>ТЦ КИТ, Ленина, 138 Старый Аэропорт, Первомайский район</li><li><a href='tel:73412576186'>+7 (3412) 57–61–86</a></li></ul>",
+           "balloonContentHeader":"Салон оптики<br><ul style='font-weight: 300'><li>ТЦ КИТ, Ленина, 138 Старый Аэропорт, Первомайский район</li><li><a href='tel:73412576186'>+7 (3412) 57–61–86</a></li></ul>",
+           "clusterCaption":"Салон оптики",
+           "hintContent":"Салон оптики"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                57.7586,
+                40.9569
+           ]
+        },
+        "properties":{
+           "balloonContent":"Сокол<br><ul style='font-weight: 300'><li>Лагерная, 4 Центральный район, Кострома</li><li><a href='tel:74942421342'>+7 (4942) 42–13–42</a></li></ul>",
+           "balloonContentHeader":"Сокол<br><ul style='font-weight: 300'><li>Лагерная, 4 Центральный район, Кострома</li><li><a href='tel:74942421342'>+7 (4942) 42–13–42</a></li></ul>",
+           "clusterCaption":"Сокол",
+           "hintContent":"Сокол"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                66.5302,
+                66.6159
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ямал-Оптика<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:73492247877'>+7 (34922) 4–78–77</a></li></ul>",
+           "balloonContentHeader":"Ямал-Оптика<br><ul style='font-weight: 300'><li>Дзержинского, 82</li><li><a href='tel:73492247877'>+7 (34922) 4–78–77</a></li></ul>",
+           "clusterCaption":"Ямал-Оптика",
+           "hintContent":"Ямал-Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                56.3418,
+                30.5338
+           ]
+        },
+        "properties":{
+           "balloonContent":"Зеница Ока<br><ul style='font-weight: 300'><li>ул. Дьяконова, 13, Великие Луки</li><li><a href='tel:78115354135'>+7 81153 5‑41-35</a></li></ul>",
+           "balloonContentHeader":"Зеница Ока<br><ul style='font-weight: 300'><li>ул. Дьяконова, 13, Великие Луки</li><li><a href='tel:78115354135'>+7 81153 5‑41-35</a></li></ul>",
+           "clusterCaption":"Зеница Ока",
+           "hintContent":"Зеница Ока"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                55.7022,
+                52.3368
+           ]
+        },
+        "properties":{
+           "balloonContent":"Клиника ПроЗрения<br><ul style='font-weight: 300'><li>ул. Гаврилова, д. 4</li><li><a href='tel:78552343434'>+7 (855) 234-34-34</a></li></ul>",
+           "balloonContentHeader":"Клиника ПроЗрения<br><ul style='font-weight: 300'><li>ул. Гаврилова, д. 4</li><li><a href='tel:78552343434'>+7 (855) 234-34-34</a></li></ul>",
+           "clusterCaption":"Клиника ПроЗрения",
+           "hintContent":"Клиника ПроЗрения"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.9197,
+            37.8251
+           ]
+        },
+        "properties":{
+           "balloonContent":"Profo Радуем глаза на Циолковского<br><ul style='font-weight: 300'><li>Московская обл, Королев г, Циолковского, дом № 23, корпус А</li><li><a href='tel:74954112708'>+7 (495) 411 27 08</a></li></ul>",
+           "balloonContentHeader":"Profo Радуем глаза на Циолковского<br><ul style='font-weight: 300'><li>Московская обл, Королев г, Циолковского, дом № 23, корпус А</li><li><a href='tel:74954112708'>+7 (495) 411 27 08</a></li></ul>",
+           "clusterCaption":"Profo Радуем глаза на Циолковского",
+           "hintContent":"Profo Радуем глаза на Циолковского"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                62.0458,
+                129.74
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптик-Центр<br><ul style='font-weight: 300'><li>ул. Дзержинского, 32. ТД Апельсин, Этаж 1-ый</li><li><a href='tel:79142734461'>+7 (914) 2-734-461</a></li></ul>",
+           "balloonContentHeader":"Оптик-Центр<br><ul style='font-weight: 300'><li>ул. Дзержинского, 32. ТД Апельсин, Этаж 1-ый</li><li><a href='tel:79142734461'>+7 (914) 2-734-461</a></li></ul>",
+           "clusterCaption":"Оптик-Центр",
+           "hintContent":"Оптик-Центр"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                42.874,
+                47.637
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз г. Дербент<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Дербент ул. Агасиева, 29а</li><li><a href='tel:79280531059'>8 (928) 053 10 59</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз г. Дербент<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Дербент ул. Агасиева, 29а</li><li><a href='tel:79280531059'>8 (928) 053 10 59</a></li></ul>",
+           "clusterCaption":"Глазалмаз г. Дербент",
+           "hintContent":"Глазалмаз г. Дербент"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.5628,
+            47.8668
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз г. Дербент<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Дербент ул. Агасиева, 29а</li><li><a href='tel:79280531059'>8 (928) 053 10 59</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз г. Избербаш<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Избербаш ул. Маяковского 121</li><li><a href='tel:79285375442'>8 (928) 537 54 42</a></li></ul>",
+           "clusterCaption":"Глазалмаз г. Избербаш",
+           "hintContent":"Глазалмаз г. Избербаш"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            43.2435,
+            46.5824
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз г. Хасавюрт<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Хасавюрт ул. Фабричная, 9</li><li><a href='tel:89298722721'>8 (929) 872-27-21</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз г. Хасавюрт<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Хасавюрт ул. Фабричная, 9</li><li><a href='tel:89298722721'>8 (929) 872-27-21</a></li></ul>",
+           "clusterCaption":"Глазалмаз г. Хасавюрт",
+           "hintContent":"Глазалмаз г. Хасавюрт"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9808,
+            47.5101
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз г. Хасавюрт<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Хасавюрт ул. Фабричная, 9</li><li><a href='tel:89298722721'>8 (929) 872-27-21</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз пр. Р. Гамзатова<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала пр. Р. Гамзатова (Ленина), 25</li><li><a href='tel:78722670555'>8 (8722) 67-05-55</a></li></ul>",
+           "clusterCaption":"Глазалмаз пр. Р. Гамзатова",
+           "hintContent":"Глазалмаз пр. Р. Гамзатова"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9615,
+            47.5501
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз пр. Петра I (Насрутдинова)<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала пр. Петра I (Насрутдинова), 49е</li><li><a href='tel:88722654757'>8(8722) 65-47-57</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз пр. Петра I (Насрутдинова)<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала пр. Петра I (Насрутдинова), 49е</li><li><a href='tel:88722654757'>8(8722) 65-47-57</a></li></ul>",
+           "clusterCaption":"Глазалмаз пр. Петра I (Насрутдинова)",
+           "hintContent":"Глазалмаз пр. Петра I (Насрутдинова)"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9816,
+            47.4992
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз пр. Петра I (Насрутдинова)<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала пр. Петра I (Насрутдинова), 49е</li><li><a href='tel:88722654757'>8(8722) 65-47-57</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Коркмасова (Советская)<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Коркмасова (Советская), 27б</li><li><a href='tel:88722671510'>8 (8722) 67-15-10</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Коркмасова (Советская)",
+           "hintContent":"Глазалмаз ул. Коркмасова (Советская)"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9765,
+            47.4915
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз пр. Петра I (Насрутдинова)<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала пр. Петра I (Насрутдинова), 49е</li><li><a href='tel:88722654757'>8(8722) 65-47-57</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Ляхова, 49<br><ul style='font-weight: 300'><li>ул. Ляхова, 49</li><li><a href='tel:89285543402'>8 (928) 554-34-02</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Ляхова, 49",
+           "hintContent":"Глазалмаз ул. Ляхова, 49"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.983,
+            47.4976
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз ул. Толстого, 5<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Толстого, 5</li><li><a href='tel:88722673705'>8 (8722) 67-37-05</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Толстого, 5<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Толстого, 5</li><li><a href='tel:88722673705'>8 (8722) 67-37-05</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Толстого, 5",
+           "hintContent":"Глазалмаз ул. Толстого, 5"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9756,
+            47.4921
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз ул. Ш. Алиева, 4а<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Ш. Алиева, 4а</li><li><a href='tel:88722781084'>8 (8722) 78-10-84</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Ш. Алиева, 4а<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Ш. Алиева, 4а</li><li><a href='tel:88722781084'>8 (8722) 78-10-84</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Ш. Алиева, 4а",
+           "hintContent":"Глазалмаз ул. Ш. Алиева, 4а"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9785,
+            47.4891
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз ул. Ш. Алиева, 4а<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Ш. Алиева, 4а</li><li><a href='tel:88722781084'>8 (8722) 78-10-84</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Шихсаидова (Гоголя), 34<br><ul style='font-weight: 300'><li>Респ. Дагестан, г. Махачкала ул. Шихсаидова (Гоголя), 34</li><li><a href='tel:89285069945'>8 (928) 506-99-45</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Шихсаидова (Гоголя), 34",
+           "hintContent":"Глазалмаз ул. Шихсаидова (Гоголя), 34"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            42.9765,
+            47.5137
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазалмаз ул. Ярагского, 29 <br><ul style='font-weight: 300'><li>ул. Ярагского, 29</li><li><a href='tel:88722673510'>8 (8722) 67-35-10</a></li></ul>",
+           "balloonContentHeader":"Глазалмаз ул. Ярагского, 29 <br><ul style='font-weight: 300'><li>ул. Ярагского, 29</li><li><a href='tel:88722673510'>8 (8722) 67-35-10</a></li></ul>",
+           "clusterCaption":"Глазалмаз ул. Ярагского, 29",
+           "hintContent":"Глазалмаз ул. Ярагского, 29"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            66.0874,
+            76.6856
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ямал Оптика в Новом Уренгое<br><ul style='font-weight: 300'><li>26 Съезда КПСС, 10 1-й м-н, Новый Уренгой</li><li><a href='tel:89224534950'>8 (922) 453-49-50</a></li></ul>",
+           "balloonContentHeader":"Ямал Оптика в Новом Уренгое<br><ul style='font-weight: 300'><li>26 Съезда КПСС, 10 1-й м-н, Новый Уренгой</li><li><a href='tel:89224534950'>8 (922) 453-49-50</a></li></ul>",
+           "clusterCaption":"Ямал Оптика в Новом Уренгое",
+           "hintContent":"Ямал Оптика в Новом Уренгое"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.3525,
+            37.5204
+           ]
+        },
+        "properties":{
+           "balloonContent":"«Оптик-сити» Дмитров <br><ul style='font-weight: 300'><li>г. Дмитров, ул. Профессиональная, д.7</li><li><a href='tel:74962219078'>+7 (496) 221-90-78</a></li></ul>",
+           "balloonContentHeader":"«Оптик-сити» Дмитров <br><ul style='font-weight: 300'><li>г. Дмитров, ул. Профессиональная, д.7</li><li><a href='tel:74962219078'>+7 (496) 221-90-78</a></li></ul>",
+           "clusterCaption":"«Оптик-сити» Дмитров",
+           "hintContent":"«Оптик-сити» Дмитров "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.5072,
+            34.1692
+           ]
+        },
+        "properties":{
+           "balloonContent":"Взгляд на Алькор<br><ul style='font-weight: 300'><li>Ялта, Республика Крым, Россия,Московская ул. 35</li><li><a href='tel:+79788547393'>+7 (978) 854-73-93</a></li></ul>",
+           "balloonContentHeader":"Взгляд на Алькор<br><ul style='font-weight: 300'><li>Ялта, Республика Крым, Россия,Московская ул. 35</li><li><a href='tel:+79788547393'>+7 (978) 854-73-93</a></li></ul>",
+           "clusterCaption":"Взгляд на Алькор",
+           "hintContent":"Взгляд на Алькор"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.957321, 34.090248
+           ]
+        },
+        "properties":{
+           "balloonContent":"Крымский центр реабилитации зрения<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Долгоруковская ул, дом № 38</li><li><a href='tel:73652600551'>+7 (3652) 60-05-51</a></li></ul>",
+           "balloonContentHeader":"Крымский центр реабилитации зрения<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Долгоруковская ул, дом № 38</li><li><a href='tel:73652600551'>+7 (3652) 60-05-51</a></li></ul>",
+           "clusterCaption":"Крымский центр реабилитации зрения",
+           "hintContent":"Крымский центр реабилитации зрения"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.494,
+            34.1647
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Статус<br><ul style='font-weight: 300'><li>Ялта, Республика Крым, Россия, Морская ул., 3</li><li><a href='tel:79782010608'>+7 (978) 201-06-08</a></li></ul>",
+           "balloonContentHeader":"Оптика Статус<br><ul style='font-weight: 300'><li>Ялта, Республика Крым, Россия, Морская ул., 3</li><li><a href='tel:79782010608'>+7 (978) 201-06-08</a></li></ul>",
+           "clusterCaption":"Оптика Статус",
+           "hintContent":"Оптика Статус "
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.9731,
+            34.0988
+           ]
+        },
+        "properties":{
+            "balloonContent":"Оптика Добро<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Киевская улица, 133 </li><li><a href='tel:79781121215'>+7 (978) 112-12-15</a></li></ul>",
+            "balloonContentHeader":"Оптика Добро<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Киевская улица, 133 </li><li><a href='tel:79781121215'>+7 (978) 112-12-15</a></li></ul>",
+            "clusterCaption":"Оптика Добро",
+            "hintContent":"Оптика Добро"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.6024,
+            33.5162
+           ]
+        },
+        "properties":{
+            "balloonContent":"Горизонт оптика <br><ul style='font-weight: 300'><li>Севастополь, Россия, улица Адмирала Октябрьского, 20</li><li><a href='tel:79780379008'>8-978-037-90-08 </a></li></ul>",
+            "balloonContentHeader":"Горизонт оптика <br><ul style='font-weight: 300'><li>Севастополь, Россия, улица Адмирала Октябрьского, 20</li><li><a href='tel:79780379008'>8-978-037-90-08 </a></li></ul>",
+            "clusterCaption":"Горизонт оптика",
+            "hintContent":"Горизонт оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.9731,
+            34.0988
+           ]
+        },
+        "properties":{
+            "balloonContent":"МЦ Оптика <br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия,  Адмирала Октябрьского ул, дом № 13</li><li><a href='tel:78692546612'>+7 (8692) 54-66-12</a></li></ul>",
+            "balloonContentHeader":"МЦ Оптика <br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия,  Адмирала Октябрьского ул, дом № 13</li><li><a href='tel:78692546612'>+7 (8692) 54-66-12</a></li></ul>",
+            "clusterCaption":"МЦ Оптика",
+            "hintContent":"МЦ Оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.9545,
+                34.0828
+           ]
+        },
+        "properties":{
+            "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Калинина ул, дом № 123</li><li><a href='tel:78795160446'>+7 (87951) 6-04-46</a></li></ul>",
+            "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>Симферополь, Республика Крым, Россия, Калинина ул, дом № 123</li><li><a href='tel:78795160446'>+7 (87951) 6-04-46</a></li></ul>",
+            "clusterCaption":"Оптика",
+            "hintContent":"Оптика "
+         }
+     },
+     {
+        "type":"Feature",
+        "id":0,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.5129,
+            36.2653
+           ]
+        },
+        "properties":{
+            "balloonContent":"Слепая курица Калуга ул. Кирова, 70 <br><ul style='font-weight: 300'><li>г. Калуга, ул. Кирова, 70</li><li><a href='tel:84951203427'>8 (495) 120-34-27</a></li></ul>",
+            "balloonContentHeader":"Слепая курица Калуга ул. Кирова, 70 <br><ul style='font-weight: 300'><li>г. Калуга, ул. Кирова, 70</li><li><a href='tel:84951203427'>8 (495) 120-34-27</a></li></ul>",
+            "clusterCaption":"Слепая курица Калуга ул. Кирова, 70",
+            "hintContent":"Слепая курица Калуга ул. Кирова, 70"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":2,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.5146,
+            36.2531
+           ]
+        },
+        "properties":{
+           "balloonContent":"Слепая курица Калуга ул. Кирова, 26<br><ul style='font-weight: 300'><li>г. Калуга, ул. Кирова, 26</li><li><a href='tel:84951203427'>8 (495) 120-34-27</a></li></ul>",
+           "balloonContentHeader":"Слепая курица Калуга ул. Кирова, 26<br><ul style='font-weight: 300'><li>г. Калуга, ул. Кирова, 26</li><li><a href='tel:84951203427'>8 (495) 120-34-27</a></li></ul>",
+           "clusterCaption":"Слепая курица Калуга ул. Кирова, 26",
+           "hintContent":"Слепая курица Калуга ул. Кирова, 26"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":3,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8539,
+            30.2102
+           ]
+        },
+        "properties":{
+            "balloonContent":"Оптика Европа Ленинский проспект <br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Ленинский проспект д. 93</li><li><a href='tel:78129832220'>+7 (812) 983-22-20</a></li></ul>",
+            "balloonContentHeader":"Оптика Европа Ленинский проспект <br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Ленинский проспект д. 93</li><li><a href='tel:78129832220'>+7 (812) 983-22-20</a></li></ul>",
+            "clusterCaption":"Оптика Европа Ленинский проспект",
+            "hintContent":"Оптика Европа Ленинский проспект"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":4,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                59.8725,
+                30.3818
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Европа ул. Белы Куна<br><ul style='font-weight: 300'><li>г. Санкт-Петербург, ул. Белы Куна д. 8</li><li><a href='tel:78129820003'>+7 (812) 982-00-03</a></li></ul>",
+           "balloonContentHeader":"Оптика Европа ул. Белы Куна<br><ul style='font-weight: 300'><li>г. Санкт-Петербург, ул. Белы Куна д. 8</li><li><a href='tel:78129820003'>+7 (812) 982-00-03</a></li></ul>",
+           "clusterCaption":"Оптика Европа ул. Белы Куна",
+           "hintContent":"Оптика Европа ул. Белы Куна"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":5,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                59.9492,
+                30.2344
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика <br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Железноводская, дом № 68</li><li><a href='tel:79219559234'>+7 (921) 955-92-34</a></li></ul>",
+           "balloonContentHeader":"Оптика <br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Железноводская, дом № 68</li><li><a href='tel:79219559234'>+7 (921) 955-92-34</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9492,
+            30.2344
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Железноводская 68<br><ul style='font-weight: 300'><li>ул. Железноводская, дом № 68</li><li><a href='tel:+7 (921) 955-92-34'>+7 (921) 955-92-34</a></li></ul>",
+           "balloonContentHeader":"Оптика Железноводская 68<br><ul style='font-weight: 300'><li>ул. Железноводская, дом № 68</li><li><a href='tel:+7 (921) 955-92-34'>+7 (921) 955-92-34</a></li></ul>",
+           "clusterCaption":"Оптика Железноводская 68",
+           "hintContent":"Оптика Железноводская 68"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0174,
+            30.3175
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новое зрение Костромской проезд<br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Костромской проезд, д. 25</li><li><a href='tel:78125544146'>+7 (812) 554-41-46</a></li></ul>",
+           "balloonContentHeader":"Новое зрение Костромской проезд<br><ul style='font-weight: 300'><li>г. Санкт-Петербург, Костромской проезд, д. 25</li><li><a href='tel:78125544146'>+7 (812) 554-41-46</a></li></ul>",
+           "clusterCaption":"Новое зрение Костромской проезд",
+           "hintContent":"Новое зрение Костромской проезд"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.53,
+            46.0514
+           ]
+        },
+        "properties":{
+           "balloonContent":"ВИЖУ, ул. Московская<br><ul style='font-weight: 300'><li>г. Саратов, ул. Московская, д. 18И</li><li><a href='tel:7452406175'>+7(452) 40-61-75</a></li></ul>",
+           "balloonContentHeader":"ВИЖУ, ул. Московская<br><ul style='font-weight: 300'><li>г. Саратов, ул. Московская, д. 18И</li><li><a href='tel:7452406175'>+7(452) 40-61-75</a></li></ul>",
+           "clusterCaption":"ВИЖУ, ул. Московская",
+           "hintContent":"ВИЖУ, ул. Московская"
+        }
+     },{
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.5248,
+           46.0203
+        ]
+        },
+        "properties":{
+           "balloonContent":"ВИЖУ, ул. Бахметьевская.<br><ul style='font-weight: 300'><li>г. Саратов, ул. Бахметьевская, д. 18</li><li><a href='tel:7452228601'>+7 (452) 228601</a></li></ul>",
+           "balloonContentHeader":"ВИЖУ, ул. Бахметьевская.<br><ul style='font-weight: 300'><li>г. Саратов, ул. Бахметьевская, д. 18</li><li><a href='tel:7452228601'>+7 (452) 228601</a></li></ul>",
+           "clusterCaption":"ВИЖУ, ул. Бахметьевская.",
+           "hintContent":"ВИЖУ, ул. Бахметьевская."
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                59.9507,
+                30.2968
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новое зрение пр. Добролюбова<br><ul style='font-weight: 300'><li>Санкт-Петербург, просп. Добролюбова, 27  (этаж 1)</li><li><a href='tel:88124981694'>8 (812) 498-16-94</a></li></ul>",
+           "balloonContentHeader":"Новое зрение пр. Добролюбова<br><ul style='font-weight: 300'><li>Санкт-Петербург, просп. Добролюбова, 27  (этаж 1)</li><li><a href='tel:88124981694'>8 (812) 498-16-94</a></li></ul>",
+           "clusterCaption":"Новое зрение пр. Добролюбова",
+           "hintContent":"Новое зрение пр. Добролюбова"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                59.9499,
+                30.2334
+           ]
+        },
+        "properties":{
+           "balloonContent":"Новое зрение ул. Наличная<br><ul style='font-weight: 300'><li>Санкт-Петербург, ул. Наличная, 49</li><li><a href='tel:79215555642'>+7 (921) 555-56-42</a></li></ul>",
+           "balloonContentHeader":"Новое зрение ул. Наличная<br><ul style='font-weight: 300'><li>Санкт-Петербург, ул. Наличная, 49</li><li><a href='tel:79215555642'>+7 (921) 555-56-42</a></li></ul>",
+           "clusterCaption":"Новое зрение ул. Наличная",
+           "hintContent":"Новое зрение ул. Наличная"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.671,
+                34.4112
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика г. Алушта<br><ul style='font-weight: 300'><li>Республика Крым, Алушта, ул. Горького д.4 Е</li><li></li></ul>",
+           "balloonContentHeader":"Оптика г. Алушта<br><ul style='font-weight: 300'><li>Республика Крым, Алушта, ул. Горького д.4 Е</li><li></li></ul>",
+           "clusterCaption":"Оптика г. Алушта",
+           "hintContent":"Оптика г. Алушта"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.6687,
+                34.4108
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика г. Алушта<br><ul style='font-weight: 300'><li>Республика Крым, Алушта, улица Октябрьская д. 5</li><li></li></ul>",
+           "balloonContentHeader":"Оптика г. Алушта<br><ul style='font-weight: 300'><li>Республика Крым, Алушта, улица Октябрьская д. 5</li><li></li></ul>",
+           "clusterCaption":"Оптика г. Алушта",
+           "hintContent":"Оптика г. Алушта"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.4895,
+                34.1607
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика г. Ялта<br><ul style='font-weight: 300'><li>Республика Крым, г. Ялта, улица Гоголя д. 4</li></ul>",
+           "balloonContentHeader":"Оптика г. Ялта<br><ul style='font-weight: 300'><li>Республика Крым, г. Ялта, улица Гоголя д. 4</li></ul>",
+           "clusterCaption":"Оптика г. Ялта",
+           "hintContent":"Оптика г. Ялта"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.6002,
+                33.5225
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ваша Оптика<br><ul style='font-weight: 300'><li>Республика Крым, г. Севастополь, ул. Гоголя 4</li></ul>",
+           "balloonContentHeader":"Ваша Оптика<br><ul style='font-weight: 300'><li>Республика Крым, г. Севастополь, ул. Гоголя 4</li></ul>",
+           "clusterCaption":"Ваша Оптика",
+           "hintContent":"Ваша Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.961,
+            34.0863
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Взгляд<br><ul style='font-weight: 300'><li>Республика Крым, г. Симферополь, бульвар имени Ленина д.7</li></ul>",
+           "balloonContentHeader":"Оптика Взгляд<br><ul style='font-weight: 300'><li>Республика Крым, г. Симферополь, бульвар имени Ленина д.7</li></ul>",
+           "clusterCaption":"Оптика Взгляд",
+           "hintContent":"Оптика Взгляд"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                44.5814,
+               33.5181
+           ]
+        },
+        "properties":{
+           "balloonContent":"Париж Оптика<br><ul style='font-weight: 300'><li>Республика Крым, г. Севастополь, проспект Генерала Острякова д. 52</li><li><a href='tel:+79782079850'>+7 (978) 207-98-50</a></li></ul>",
+           "balloonContentHeader":"Париж Оптика<br><ul style='font-weight: 300'><li>Республика Крым, г. Севастополь, проспект Генерала Острякова д. 52</li><li><a href='tel:+79782079850'>+7 (978) 207-98-50</a></li></ul>",
+           "clusterCaption":"Париж Оптика",
+           "hintContent":"Париж Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+                56.3394,
+                43.9562
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ТРЦ 7 НЕБО<br><ul style='font-weight: 300'><li>Н. Новгород, ул.Бетанкура, д.1 ТРЦ «7 НЕБО»</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ТРЦ 7 НЕБО<br><ul style='font-weight: 300'><li>Н. Новгород, ул.Бетанкура, д.1 ТРЦ «7 НЕБО»</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ТРЦ 7 НЕБО",
+           "hintContent":"Оптика Cronos ТРЦ 7 НЕБО"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.3121,
+            43.9897
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ул.Б.Покровская<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ул.Б.Покровская<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ул.Б.Покровская",
+           "hintContent":"Оптика Cronos ул.Б.Покровская"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.3179,
+            43.9254
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ТРЦ РИО<br><ul style='font-weight: 300'><li>Нижний Новгород, Московское шоссе, д.12 ТРЦ РИО</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ТРЦ РИО<br><ul style='font-weight: 300'><li>Нижний Новгород, Московское шоссе, д.12 ТРЦ РИО</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ТРЦ РИО",
+           "hintContent":"Оптика Cronos ТРЦ РИО"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.3203,
+            43.9476
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ТЦ Республика<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ТЦ Республика<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ТЦ Республика",
+           "hintContent":"Оптика Cronos ТЦ Республика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.3076,
+            44.0739
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ТРЦ Фантастика<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Родионова, д.187</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ТРЦ Фантастика<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Родионова, д.187</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ТРЦ Фантастика",
+           "hintContent":"Оптика Cronos ТРЦ Фантастика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.326,
+            44.0098
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ул.Ульянова<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Ульянова, д.5</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ул.Ульянова<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Ульянова, д.5</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ул.Ульянова",
+           "hintContent":"Оптика Cronos ул.Ульянова"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.2272,
+            44.047
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos ТРЦ Мега<br><ul style='font-weight: 300'><li>Кстовский р-он, Федяково, ул. Любимая, стр. 1 ТРЦ Мега</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos ТРЦ Мега<br><ul style='font-weight: 300'><li>Кстовский р-он, Федяково, ул. Любимая, стр. 1 ТРЦ Мега</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos ТРЦ Мега",
+           "hintContent":"Оптика Cronos ТРЦ Мега"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.6533,
+            37.8442
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Cronos Мега. Белая Дача<br><ul style='font-weight: 300'><li>Люберецкий р-он., г. Котельники,  1-й Покровский пр-д, д. 5 Мега. Белая Дача</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Cronos Мега. Белая Дача<br><ul style='font-weight: 300'><li>Люберецкий р-он., г. Котельники,  1-й Покровский пр-д, д. 5 Мега. Белая Дача</li><li><a href='tel:88002341199'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Cronos Мега. Белая Дача",
+           "hintContent":"Оптика Cronos Мега. Белая Дача"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.0107,
+            38.3086
+           ]
+        },
+        "properties":{
+           "balloonContent":"Клиника микрохирургии глаза ВЗГЛЯД<br><ul style='font-weight: 300'><li>Россия, г. Новомосковск, ул. Кукунина, 9</li><li><a href='tel:74876220440'>+7 (48762) 2-04-40</a></li></ul>",
+           "balloonContentHeader":"Клиника микрохирургии глаза ВЗГЛЯД<br><ul style='font-weight: 300'><li>Россия, г. Новомосковск, ул. Кукунина, 9</li><li><a href='tel:74876220440'>+7 (48762) 2-04-40</a></li></ul>",
+           "clusterCaption":"Клиника микрохирургии глаза ВЗГЛЯД",
+           "hintContent":"Клиника микрохирургии глаза ВЗГЛЯД"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.4136,
+            38.2747
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Оптик-А<br><ul style='font-weight: 300'><li>Бронницы улица Льва Толстого, 9</li><li><a href='tel:74991362248'>+7 (499) 136 22 48</a></li></ul>",
+           "balloonContentHeader":"Оптика Оптик-А<br><ul style='font-weight: 300'><li>Бронницы улица Льва Толстого, 9</li><li><a href='tel:74991362248'>+7 (499) 136 22 48</a></li></ul>",
+           "clusterCaption":"Оптика Оптик-А",
+           "hintContent":"Оптика Оптик-А"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.8161,
+            37.3406
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптик-А Станция Павшино<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:74991305558'>+7 (499) 130 55 58</a></li></ul>",
+           "balloonContentHeader":"Оптик-А Станция Павшино<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:74991305558'>+7 (499) 130 55 58</a></li></ul>",
+           "clusterCaption":"Оптик-А Станция Павшино",
+           "hintContent":"Оптик-А Станция Павшино"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0536,
+            30.3343
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS ПРОСПЕКТ ПРОСВЕЩЕНИЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ПРОСВЕЩЕНИЯ ПР., Д.34 ZEISS</li><li><a href='tel:78124976301'>7 (812) 497-63-01</a></li></ul>",
+           "balloonContentHeader":"ZEISS ПРОСПЕКТ ПРОСВЕЩЕНИЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ПРОСВЕЩЕНИЯ ПР., Д.34 ZEISS</li><li><a href='tel:78124976301'>7 (812) 497-63-01</a></li></ul>",
+           "clusterCaption":"ZEISS ПРОСПЕКТ ПРОСВЕЩЕНИЯ",
+           "hintContent":"ZEISS ПРОСПЕКТ ПРОСВЕЩЕНИЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9297,
+            30.3474
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS ВЛАДИМИРСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ВЛАДИМИРСКИЙ ПР., Д.13/9</li><li><a href='tel:78123105652'>+7 (812) 310-56-52</a></li></ul>",
+           "balloonContentHeader":"ZEISS ВЛАДИМИРСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ВЛАДИМИРСКИЙ ПР., Д.13/9</li><li><a href='tel:78123105652'>+7 (812) 310-56-52</a></li></ul>",
+           "clusterCaption":"ZEISS ВЛАДИМИРСКАЯ",
+           "hintContent":"ZEISS ВЛАДИМИРСКАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9334,
+            30.3689
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS КОМЕНДАНТСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, СУВОРОВСКИЙ ПР., Д.8</li><li><a href='tel:78124326808'>+7 (812) 432-68-08</a></li></ul>",
+           "balloonContentHeader":"ZEISS КОМЕНДАНТСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, СУВОРОВСКИЙ ПР., Д.8</li><li><a href='tel:78124326808'>+7 (812) 432-68-08</a></li></ul>",
+           "clusterCaption":"ZEISS КОМЕНДАНТСКИЙ ПРОСПЕКТ",
+           "hintContent":"ZEISS КОМЕНДАНТСКИЙ ПРОСПЕКТ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9988,
+            30.2983
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS ПИОНЕРСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КОЛОМЯЖСКИЙ ПР., Д.20</li><li><a href='tel:78123010374'>+7 (812) 301 03 74</a></li></ul>",
+           "balloonContentHeader":"ZEISS ПИОНЕРСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КОЛОМЯЖСКИЙ ПР., Д.20</li><li><a href='tel:78123010374'>+7 (812) 301 03 74</a></li></ul>",
+           "clusterCaption":"ZEISS ПИОНЕРСКАЯ",
+           "hintContent":"ZEISS ПИОНЕРСКАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9614,
+            30.3045
+           ]
+        },
+        "properties":{
+           "balloonContent":"EISS ПЕТРОГРАДСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, БОЛЬШОЙ ПР. ПС, Д. 60</li><li><a href='tel:78122324546'>+7 (812) 232-45-46</a></li></ul>",
+           "balloonContentHeader":"EISS ПЕТРОГРАДСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, БОЛЬШОЙ ПР. ПС, Д. 60</li><li><a href='tel:78122324546'>+7 (812) 232-45-46</a></li></ul>",
+           "clusterCaption":"EISS ПЕТРОГРАДСКАЯ",
+           "hintContent":"EISS ПЕТРОГРАДСКАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9362,
+            30.3514
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS ПЛОЩАДЬ ВОССТАНИЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЖУКОВСКОГО УЛ., Д.6</li><li><a href='tel:78122725766'>+7 (812) 272-57-66</a></li></ul>",
+           "balloonContentHeader":"ZEISS ПЛОЩАДЬ ВОССТАНИЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЖУКОВСКОГО УЛ., Д.6</li><li><a href='tel:78122725766'>+7 (812) 272-57-66</a></li></ul>",
+           "clusterCaption":"ZEISS ПЛОЩАДЬ ВОССТАНИЯ",
+           "hintContent":"ZEISS ПЛОЩАДЬ ВОССТАНИЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9775,
+            30.3177
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS, ТЦ РИВЕР ХАУС<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, АК. ПАВЛОВА УЛ., Д.5</li><li><a href='tel:78127777916'>+7 (812) 777-79-16</a></li></ul>",
+           "balloonContentHeader":"ZEISS, ТЦ РИВЕР ХАУС<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, АК. ПАВЛОВА УЛ., Д.5</li><li><a href='tel:78127777916'>+7 (812) 777-79-16</a></li></ul>",
+           "clusterCaption":"ZEISS, ТЦ РИВЕР ХАУС",
+           "hintContent":"ZEISS, ТЦ РИВЕР ХАУС"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0054,
+            30.299
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS, ТРК СИТИ МОЛЛ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КОЛОМЯЖСКИЙ ПР., Д.17</li><li><a href='tel:79315385419'>+7 (931) 538 54 19</a></li></ul>",
+           "balloonContentHeader":"ZEISS, ТРК СИТИ МОЛЛ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КОЛОМЯЖСКИЙ ПР., Д.17</li><li><a href='tel:79315385419'>+7 (931) 538 54 19</a></li></ul>",
+           "clusterCaption":"ZEISS, ТРК СИТИ МОЛЛ",
+           "hintContent":"ZEISS, ТРК СИТИ МОЛЛ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9265,
+            30.3208
+           ]
+        },
+        "properties":{
+           "balloonContent":"ZEISS ТРК ПИК<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ПИК, ЕФИМОВА УЛ., Д.2</li><li><a href='tel:79291279451'>+7 (929) 127-94-51</a></li></ul>",
+           "balloonContentHeader":"ZEISS ТРК ПИК<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ПИК, ЕФИМОВА УЛ., Д.2</li><li><a href='tel:79291279451'>+7 (929) 127-94-51</a></li></ul>",
+           "clusterCaption":"ZEISS ТРК ПИК",
+           "hintContent":"ZEISS ТРК ПИК"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8523,
+            30.2656
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛЕНИНСКИЙ ПР., Д.128</li><li><a href='tel:79312394682'>+7 (931) 239-46-82</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛЕНИНСКИЙ ПР., Д.128</li><li><a href='tel:79312394682'>+7 (931) 239-46-82</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9424,
+            30.2799
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ВАСИЛЕОСТРОВСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-МЕТЕРБУРГ, 6-Я ЛИНИЯ В.О., Д.27 (ПЕШEХОДНАЯ ЗОНА)</li><li><a href='tel:78123233720'>+7 (812) 323-37-20</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ВАСИЛЕОСТРОВСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-МЕТЕРБУРГ, 6-Я ЛИНИЯ В.О., Д.27 (ПЕШEХОДНАЯ ЗОНА)</li><li><a href='tel:78123233720'>+7 (812) 323-37-20</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ВАСИЛЕОСТРОВСКАЯ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ВАСИЛЕОСТРОВСКАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9297,
+            30.3474
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ВЛАДИМИРСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ВЛАДИМИРСКИЙ ПР., Д.13/9</li><li><a href='tel:78127750051'>+7 (812) 775-00-51</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ВЛАДИМИРСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ВЛАДИМИРСКИЙ ПР., Д.13/9</li><li><a href='tel:78127750051'>+7 (812) 775-00-51</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ВЛАДИМИРСКИЙ ПРОСПЕКТ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ВЛАДИМИРСКИЙ ПРОСПЕКТ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0109,
+            30.3941
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ АКАДЕМИЧЕСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ГРАЖДАНСКИЙ ПР., Д.36</li><li><a href='tel:78125341861'>+7 (812) 534-18-61</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ АКАДЕМИЧЕСКАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ГРАЖДАНСКИЙ ПР., Д.36</li><li><a href='tel:78125341861'>+7 (812) 534-18-61</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ АКАДЕМИЧЕСКАЯ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ АКАДЕМИЧЕСКАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9273,
+            30.3166
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ПЕРЕУЛОК ГРИВЦОВА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ГРИВЦОВА ПЕР., Д.13\/11</li><li><a href='tel:78123107406'>+7 (812) 310-74-06</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ПЕРЕУЛОК ГРИВЦОВА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ГРИВЦОВА ПЕР., Д.13\/11</li><li><a href='tel:78123107406'>+7 (812) 310-74-06</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ПЕРЕУЛОК ГРИВЦОВА",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ПЕРЕУЛОК ГРИВЦОВА"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9662,
+            30.3078
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ КАМЕННООСТРОВСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КАМЕННООСТРОВСКИЙ ПР., Д.42Б</li><li><a href='tel:78123461957'>+7 (812) 346-19-57</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ КАМЕННООСТРОВСКИЙ ПРОСПЕКТ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, КАМЕННООСТРОВСКИЙ ПР., Д.42Б</li><li><a href='tel:78123461957'>+7 (812) 346-19-57</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ КАМЕННООСТРОВСКИЙ ПРОСПЕКТ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ КАМЕННООСТРОВСКИЙ ПРОСПЕКТ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8525,
+            30.2671
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ БУЛЬВАР НОВАТОРОВ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, Б-Р НОВАТОРОВ., Д.9</li><li><a href='tel:79291282578'>+7 (929) 128-25-78</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ БУЛЬВАР НОВАТОРОВ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, Б-Р НОВАТОРОВ., Д.9</li><li><a href='tel:79291282578'>+7 (929) 128-25-78</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ БУЛЬВАР НОВАТОРОВ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ БУЛЬВАР НОВАТОРОВ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9895,
+            30.2023
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ УЛИЦА САВУШКИНА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, САВУШКИНА УЛ., Д. 143</li><li><a href='tel:79315784591'>+7 (931) 578-45-91</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ УЛИЦА САВУШКИНА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, САВУШКИНА УЛ., Д. 143</li><li><a href='tel:79315784591'>+7 (931) 578-45-91</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ УЛИЦА САВУШКИНА",
+           "hintContent":"ЗАЙДИ УВИДИШЬ УЛИЦА САВУШКИНА"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8514,
+            30.274
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ 131<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛЕНИНСКИЙ ПРОСПЕКТ Д.131</li><li><a href='tel:79219456878'>+7 (921) 945-68-78</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ 131<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛЕНИНСКИЙ ПРОСПЕКТ Д.131</li><li><a href='tel:79219456878'>+7 (921) 945-68-78</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ 131",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ЛЕНИНСКИЙ ПРОСПЕКТ 131"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9218,
+            30.3554
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ЛИГОВСКИЙ ПРОСПЕКТ 76<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛИГОВСКИЙ ПРОСПЕКТ Д.76</li><li><a href='tel:78122722898'>+7 (812) 272-28-98</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ЛИГОВСКИЙ ПРОСПЕКТ 76<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЛИГОВСКИЙ ПРОСПЕКТ Д.76</li><li><a href='tel:78122722898'>+7 (812) 272-28-98</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ЛИГОВСКИЙ ПРОСПЕКТ 76",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ЛИГОВСКИЙ ПРОСПЕКТ 76"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9372,
+            30.3478
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ЛИТЕЙНЫЙ ПРОСПЕКТ 51<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78122722898'>+7 (812) 272-28-98</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ЛИТЕЙНЫЙ ПРОСПЕКТ 51<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78122722898'>+7 (812) 272-28-98</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ЛИТЕЙНЫЙ ПРОСПЕКТ 51",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ЛИТЕЙНЫЙ ПРОСПЕКТ 51"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9329,
+            30.3547
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ МАЯКОВСКОГО 1<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, МАЯКОВСКОГО УЛ., Д.1</li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ МАЯКОВСКОГО 1<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, МАЯКОВСКОГО УЛ., Д.1</li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ МАЯКОВСКОГО 1",
+           "hintContent":"ЗАЙДИ УВИДИШЬ МАЯКОВСКОГО 1"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0508,
+            30.3321
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ЭНГЕЛЬСА 138<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЭНГЕЛЬСА ПР., Д. 138</li><li><a href='tel:79291128160'>+7 (929) 112-81-60</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ЭНГЕЛЬСА 138<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЭНГЕЛЬСА ПР., Д. 138</li><li><a href='tel:79291128160'>+7 (929) 112-81-60</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ЭНГЕЛЬСА 138",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ЭНГЕЛЬСА 138"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0519,
+            30.3356
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ПРОСВЕЩЕНИЯ 21<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78125976558'>+7 (812) 597-65-58</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ПРОСВЕЩЕНИЯ 21<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78125976558'>+7 (812) 597-65-58</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ПРОСВЕЩЕНИЯ 21",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ ПРОСВЕЩЕНИЯ 21"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9416,
+            30.2728
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ СРЕДНИЙ ПР. В.О., 47<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, СРЕДНИЙ ПР. В.О., Д.47</li><li><a href='tel:78123231253'>+7 (812) 323-12-53</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ СРЕДНИЙ ПР. В.О., 47<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, СРЕДНИЙ ПР. В.О., Д.47</li><li><a href='tel:78123231253'>+7 (812) 323-12-53</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ СРЕДНИЙ ПР. В.О., 47",
+           "hintContent":"ЗАЙДИ УВИДИШЬ СРЕДНИЙ ПР. В.О., 47"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9284,
+            30.4075
+           ]
+        },
+        "properties":{
+           "balloonContent":"АЙДИ УВИДИШЬ ЗАНЕВСКИЙ ПРОСПЕКТ 8<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЗАНЕВСКИЙ ПР., Д.8</li><li><a href='tel:78125284769'>+7 (812) 528-47-69</a></li></ul>",
+           "balloonContentHeader":"АЙДИ УВИДИШЬ ЗАНЕВСКИЙ ПРОСПЕКТ 8<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЗАНЕВСКИЙ ПР., Д.8</li><li><a href='tel:78125284769'>+7 (812) 528-47-69</a></li></ul>",
+           "clusterCaption":"АЙДИ УВИДИШЬ ЗАНЕВСКИЙ ПРОСПЕКТ 8",
+           "hintContent":"АЙДИ УВИДИШЬ ЗАНЕВСКИЙ ПРОСПЕКТ 8"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.055,
+            30.3353
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ УЛИЦА ЭНГЕЛЬСА 150<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЭНГЕЛЬСА УЛ., Д.150</li><li><a href='tel:78126801137'>+7 (812) 680-11-37</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ УЛИЦА ЭНГЕЛЬСА 150<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ЭНГЕЛЬСА УЛ., Д.150</li><li><a href='tel:78126801137'>+7 (812) 680-11-37</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ УЛИЦА ЭНГЕЛЬСА 150",
+           "hintContent":"ЗАЙДИ УВИДИШЬ УЛИЦА ЭНГЕЛЬСА 150"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.053,
+            30.3119
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТЦ АВЕНЮ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТЦ АВЕНЮ, ВЫБОРГСКОЕ Ш., Д.15</li><li><a href='tel:78126432751'>+7 (812) 643-27-51</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТЦ АВЕНЮ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТЦ АВЕНЮ, ВЫБОРГСКОЕ Ш., Д.15</li><li><a href='tel:78126432751'>+7 (812) 643-27-51</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТЦ АВЕНЮ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТЦ АВЕНЮ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9874,
+            30.2043
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ САВУШКИНА 126<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК АТЛАНТИК-СИТИ, САВУШКИНА УЛ., Д.126</li><li><a href='tel:78123342643'>+7 (812) 334-26-43</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ САВУШКИНА 126<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК АТЛАНТИК-СИТИ, САВУШКИНА УЛ., Д.126</li><li><a href='tel:78123342643'>+7 (812) 334-26-43</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ САВУШКИНА 126",
+           "hintContent":"ЗАЙДИ УВИДИШЬ САВУШКИНА 126"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8283,
+            30.3781
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРК БАЛКАНСКИЙ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК БАЛКАНСКИЙ, БАЛКАНСКАЯ ПЛ., Д.5</li><li><a href='tel:78127777816'>+7 (812) 777-78-16</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРК БАЛКАНСКИЙ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК БАЛКАНСКИЙ, БАЛКАНСКАЯ ПЛ., Д.5</li><li><a href='tel:78127777816'>+7 (812) 777-78-16</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК БАЛКАНСКИЙ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК БАЛКАНСКИЙ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0591,
+            30.335
+           ]
+        },
+        "properties":{
+           "balloonContent":"ОЗАЙДИ УВИДИШЬ ТРК ГРАНД КАНЬОНbr><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78126124187'>+7 (812) 612-41-87</a></li></ul>",
+           "balloonContentHeader":"ОЗАЙДИ УВИДИШЬ ТРК ГРАНД КАНЬОНbr><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78126124187'>+7 (812) 612-41-87</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК ГРАНД КАНЬОН",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК ГРАНД КАНЬОН"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.067,
+            30.3363
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТК ПАРНАС СИТИ<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78127770316'>+7 (812) 777-03-16</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТК ПАРНАС СИТИ<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:78127770316'>+7 (812) 777-03-16</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТК ПАРНАС СИТИ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТК ПАРНАС СИТИ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9259,
+            30.3199
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТК СЕННАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТК СЕННАЯ, ЕФИМОВА УЛ., Д.3</li><li><a href='tel:78123359398'>+7 (812) 335-93-98</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТК СЕННАЯ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТК СЕННАЯ, ЕФИМОВА УЛ., Д.3</li><li><a href='tel:78123359398'>+7 (812) 335-93-98</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТК СЕННАЯ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТК СЕННАЯ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8198,
+            30.3173
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРК ЛЕТО<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ЛЕТО, ПУЛКОВСКОЕ Ш., Д.25</li><li><a href='tel:78122404819'>+7 (812) 240-48-19</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРК ЛЕТО<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ЛЕТО, ПУЛКОВСКОЕ Ш., Д.25</li><li><a href='tel:78122404819'>+7 (812) 240-48-19</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК ЛЕТО",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК ЛЕТО"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9909,
+            30.2058
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРК МЕРКУРИЙ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК МЕРКУРИЙ, САВУШКИНА УЛ., Д.141</li><li><a href='tel:78126004245'>+7 (812) 600-42-45</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРК МЕРКУРИЙ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК МЕРКУРИЙ, САВУШКИНА УЛ., Д.141</li><li><a href='tel:78126004245'>+7 (812) 600-42-45</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК МЕРКУРИЙ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК МЕРКУРИЙ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9401,
+            30.4184
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРЦ ОХТА МОЛЛ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРЦ ОХТА МОЛЛ, БРАНТОВСКАЯ ДОРОГА, Д. 3</li><li><a href='tel:78122450955'>+7 (812) 245-09-55</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРЦ ОХТА МОЛЛ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРЦ ОХТА МОЛЛ, БРАНТОВСКАЯ ДОРОГА, Д. 3</li><li><a href='tel:78122450955'>+7 (812) 245-09-55</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРЦ ОХТА МОЛЛ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРЦ ОХТА МОЛЛ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8689,
+            30.3505
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРК ПИТЕР РАДУГА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ПИТЕР РАДУГА, КОСМОНАВТОВ ПР., Д.14</li><li><a href='tel:78124481250'>+7 (812) 448-12-50</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРК ПИТЕР РАДУГА<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ПИТЕР РАДУГА, КОСМОНАВТОВ ПР., Д.14</li><li><a href='tel:78124481250'>+7 (812) 448-12-50</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК ПИТЕР РАДУГА",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК ПИТЕР РАДУГА"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9462,
+            30.474
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ТРК ИЮНЬ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ИЮНЬ, ИНДУСТРИАЛЬНЫЙ ПР. 24, ЛИТ А</li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ТРК ИЮНЬ<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, ТРК ИЮНЬ, ИНДУСТРИАЛЬНЫЙ ПР. 24, ЛИТ А</li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ТРК ИЮНЬ",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ТРК ИЮНЬ"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0029,
+            30.2285
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ БОГАТЫРСКИЙ ПРОСПЕКТ 42<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, О'КЕЙ БОГАТЫРСКИЙ ПР., Д.42</li><li><a href='tel:78124956090'>+7 (812) 495-60-90</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ БОГАТЫРСКИЙ ПРОСПЕКТ 42<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, О'КЕЙ БОГАТЫРСКИЙ ПР., Д.42</li><li><a href='tel:78124956090'>+7 (812) 495-60-90</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ БОГАТЫРСКИЙ ПРОСПЕКТ 42",
+           "hintContent":"ЗАЙДИ УВИДИШЬ БОГАТЫРСКИЙ ПРОСПЕКТ 42"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.912,
+            30.4801
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ БОЛЬШЕВИКОВ 10<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, БОЛЬШЕВИКОВ ПР., Д.10</li><li><a href='tel:78123806834'>+7 (812) 380-68-34</a></li></ul>",
+           "balloonContentHeader":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ БОЛЬШЕВИКОВ 10<br><ul style='font-weight: 300'><li>САНКТ-ПЕТЕРБУРГ, БОЛЬШЕВИКОВ ПР., Д.10</li><li><a href='tel:78123806834'>+7 (812) 380-68-34</a></li></ul>",
+           "clusterCaption":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ БОЛЬШЕВИКОВ 10",
+           "hintContent":"ЗАЙДИ УВИДИШЬ ПРОСПЕКТ БОЛЬШЕВИКОВ 10"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            46.9556,
+            142.738
+           ]
+        },
+        "properties":{
+           "balloonContent":"ЦМГ Финист<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:74242436019'>+7 (4242) 43 60 19</a></li></ul>",
+           "balloonContentHeader":"ЦМГ Финист<br><ul style='font-weight: 300'><li>Нижний Новгород, ул.Б.Покровская, д.60</li><li><a href='tel:74242436019'>+7 (4242) 43 60 19</a></li></ul>",
+           "clusterCaption":"ЦМГ Финист",
+           "hintContent":"ЦМГ Финист"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            57.0558,
+            53.994
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>г. Воткинск, Марата ул, дом № 11</li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>г. Воткинск, Марата ул, дом № 11</li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.832,
+            55.1535
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика ГлазGO<br><ul style='font-weight: 300'><li>Город Оренбург, улица Салмышская 29</li><li><a href='tel:73532559751'>(3532)55-97-51</a></li></ul>",
+           "balloonContentHeader":"Оптика ГлазGO<br><ul style='font-weight: 300'><li>Город Оренбург, улица Салмышская 29</li><li><a href='tel:73532559751'>(3532)55-97-51</a></li></ul>",
+           "clusterCaption":"Оптика ГлазGO",
+           "hintContent":"Оптика ГлазGO"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.6303,
+            39.726
+           ]
+        },
+        "properties":{
+           "balloonContent":"Клиника МедСити – офтальмологический центр<br><ul style='font-weight: 300'><li>Первомайский пр-т, д. 40, корп. 1</li><li><a href='tel:84912274742'>8 (4912) 27-47-42</a></li></ul>",
+           "balloonContentHeader":"Клиника МедСити – офтальмологический центр<br><ul style='font-weight: 300'><li>Первомайский пр-т, д. 40, корп. 1</li><li><a href='tel:84912274742'>8 (4912) 27-47-42</a></li></ul>",
+           "clusterCaption":"Клиника МедСити – офтальмологический центр",
+           "hintContent":"Клиника МедСити – офтальмологический центр"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.6094,
+            39.7112
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика-Сервис на Гагарина<br><ul style='font-weight: 300'><li>Гагарина, 81</li><li><a href='tel:84912773037'>8 (4912) 77‒30‒37</a></li></ul>",
+           "balloonContentHeader":"Оптика-Сервис на Гагарина<br><ul style='font-weight: 300'><li>Гагарина, 81</li><li><a href='tel:84912773037'>8 (4912) 77‒30‒37</a></li></ul>",
+           "clusterCaption":"Оптика-Сервис на Гагарина",
+           "hintContent":"Оптика-Сервис на Гагарина"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.6293,
+            39.7145
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика-Сервис на Первомайском<br><ul style='font-weight: 300'><li>Первомайский проспект, 64</li><li><a href='tel:84912470101'>8 (4912) 470‒101</a></li></ul>",
+           "balloonContentHeader":"Оптика-Сервис на Первомайском<br><ul style='font-weight: 300'><li>Первомайский проспект, 64</li><li><a href='tel:84912470101'>8 (4912) 470‒101</a></li></ul>",
+           "clusterCaption":"Оптика-Сервис на Первомайском",
+           "hintContent":"Оптика-Сервис на Первомайском"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.5986,
+            39.8315
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика-Сервис<br><ul style='font-weight: 300'><li>Новосёлов, 62</li><li><a href='tel:84912551550'>8 (4912) 55‒15‒50</a></li></ul>",
+           "balloonContentHeader":"Оптика-Сервис<br><ul style='font-weight: 300'><li>Новосёлов, 62</li><li><a href='tel:84912551550'>8 (4912) 55‒15‒50</a></li></ul>",
+           "clusterCaption":"Оптика-Сервис",
+           "hintContent":"Оптика-Сервис"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.5986,
+            39.8315
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика-Сервис<br><ul style='font-weight: 300'><li>Новосёлов, 62</li><li><a href='tel:84912551550'>8 (4912) 55‒15‒50</a></li></ul>",
+           "balloonContentHeader":"Оптика-Сервис<br><ul style='font-weight: 300'><li>Новосёлов, 62</li><li><a href='tel:84912551550'>8 (4912) 55‒15‒50</a></li></ul>",
+           "clusterCaption":"Оптика-Сервис",
+           "hintContent":"Оптика-Сервис"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.6344,
+            39.6885
+           ]
+        },
+        "properties":{
+           "balloonContent":"Мой Взгляд<br><ul style='font-weight: 300'><li>Московское шоссе, 21</li><li><a href='tel:84912937756'>8 (4912) 93‒77‒56</a></li></ul>",
+           "balloonContentHeader":"Мой Взгляд<br><ul style='font-weight: 300'><li>Московское шоссе, 21</li><li><a href='tel:84912937756'>8 (4912) 93‒77‒56</a></li></ul>",
+           "clusterCaption":"Мой Взгляд",
+           "hintContent":"Мой Взгляд"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            54.6231,
+            39.7504
+           ]
+        },
+        "properties":{
+           "balloonContent":"MonView<br><ul style='font-weight: 300'><li>Введенская, 80</li><li><a href='tel:84912937752'>8 (4912) 93‒77‒52</a></li></ul>",
+           "balloonContentHeader":"MonView<br><ul style='font-weight: 300'><li>Введенская, 80</li><li><a href='tel:84912937752'>8 (4912) 93‒77‒52</a></li></ul>",
+           "clusterCaption":"MonView",
+           "hintContent":"MonView"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7459,
+            36.1939
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>Ленина ул, дом № 90</li><li><a href='tel:84712585869'>8 (4712) 58-58-69</a></li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>Ленина ул, дом № 90</li><li><a href='tel:84712585869'>8 (4712) 58-58-69</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.3122,
+            37.9081
+           ]
+        },
+        "properties":{
+           "balloonContent":"Здравушка<br><ul style='font-weight: 300'><li>Восточная ул, дом № 2а</li><li><a href='tel:84725436105'>8 (4725) 43-61-05</a></li></ul>",
+           "balloonContentHeader":"Здравушка<br><ul style='font-weight: 300'><li>Восточная ул, дом № 2а</li><li><a href='tel:84725436105'>8 (4725) 43-61-05</a></li></ul>",
+           "clusterCaption":"Здравушка",
+           "hintContent":"Здравушка"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            50.6015,
+            36.5812
+           ]
+        },
+        "properties":{
+           "balloonContent":"Фокус<br><ul style='font-weight: 300'><li>Народный б-р, дом № 101</li><li><a href='tel:84722325015'>8 (4722) 32-50-15</a></li></ul>",
+           "balloonContentHeader":"Фокус<br><ul style='font-weight: 300'><li>Народный б-р, дом № 101</li><li><a href='tel:84722325015'>8 (4722) 32-50-15</a></li></ul>",
+           "clusterCaption":"Фокус",
+           "hintContent":"Фокус"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            50.6012,
+            36.5904
+           ]
+        },
+        "properties":{
+            "balloonContent":"Фокус<br><ul style='font-weight: 300'><li>Попова ул, дом № 42</li><li><a href='tel:84722325015'>8 (4722) 32-50-15</a></li></ul>",
+            "balloonContentHeader":"Фокус<br><ul style='font-weight: 300'><li>Попова ул, дом № 42</li><li><a href='tel:84722325015'>8 (4722) 32-50-15</a></li></ul>",
+            "clusterCaption":"Фокус",
+            "hintContent":"Фокус"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            50.5779,
+            36.5882
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика взрослым и детям<br><ul style='font-weight: 300'><li>Костюкова ул, дом № 55</li><li><a href='tel:89155637771'>8 (915) 563-77-71</a></li></ul>",
+           "balloonContentHeader":"Оптика взрослым и детям<br><ul style='font-weight: 300'><li>Костюкова ул, дом № 55</li><li><a href='tel:89155637771'>8 (915) 563-77-71</a></li></ul>",
+           "clusterCaption":"Оптика взрослым и детям",
+           "hintContent":"Оптика взрослым и детям"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            50.603,
+            36.5816
+           ]
+        },
+        "properties":{
+           "balloonContent":"Поколение<br><ul style='font-weight: 300'><li>Б.Хмельницкого пр-кт, дом № 50-А</li><li><a href='tel:84722586035'>8 (4722) 58-60-35</a></li></ul>",
+           "balloonContentHeader":"Поколение<br><ul style='font-weight: 300'><li>Б.Хмельницкого пр-кт, дом № 50-А</li><li><a href='tel:84722586035'>8 (4722) 58-60-35</a></li></ul>",
+           "clusterCaption":"Поколение",
+           "hintContent":"Поколение"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6691,
+            39.1961
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Элеганс<br><ul style='font-weight: 300'><li>Средне-Московская ул, дом № 32Б</li><li><a href='tel:89521061599'>8 800 234 11 99</a></li></ul>",
+           "balloonContentHeader":"Оптика Элеганс<br><ul style='font-weight: 300'><li>Средне-Московская ул, дом № 32Б</li><li><a href='tel:89521061599'>8 800 234 11 99</a></li></ul>",
+           "clusterCaption":"Оптика Элеганс",
+           "hintContent":"Оптика Элеганс"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6762,
+            39.2093
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптические товары<br><ul style='font-weight: 300'><li>Мира ул, дом № 3</li><li><a href='tel:84733003677'>8 (473) 300-36-77</a></li></ul>",
+           "balloonContentHeader":"Оптические товары<br><ul style='font-weight: 300'><li>Мира ул, дом № 3</li><li><a href='tel:84733003677'>8 (473) 300-36-77</a></li></ul>",
+           "clusterCaption":"Оптические товары",
+           "hintContent":"Оптические товары"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.708,
+            39.1633
+           ]
+        },
+        "properties":{
+           "balloonContent":"Офтальмика<br><ul style='font-weight: 300'><li>60 Армии ул, дом № 21</li><li><a href='tel:84732418363'>8 (4732) 41-83-63</a></li></ul>",
+           "balloonContentHeader":"Офтальмика<br><ul style='font-weight: 300'><li>60 Армии ул, дом № 21</li><li><a href='tel:84732418363'>8 (4732) 41-83-63</a></li></ul>",
+           "clusterCaption":"Офтальмика",
+           "hintContent":"Офтальмика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6462,
+            39.1382
+           ]
+        },
+        "properties":{
+           "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТК Армада, ул. Героев Сибиряков, 65А, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+           "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТК Армада, ул. Героев Сибиряков, 65А, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+           "clusterCaption":"Точка зрения",
+           "hintContent":"Точка зрения"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6734,
+            39.1996
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Кольцовская, 34, Воронеж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Кольцовская, 34, Воронеж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6547,
+            39.188
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТЦ Дом Быта, ул. 20-летия Октября, 119, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТЦ Дом Быта, ул. 20-летия Октября, 119, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7177,
+            39.1785
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТРЦ Московский проспект, Московский просп., 129\/1, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТРЦ Московский проспект, Московский просп., 129\/1, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7125,
+            39.1578
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>б-р Победы, 42</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>б-р Победы, 42</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6968,
+            39.2729
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТРЦ Максимир, Ленинский пр-т., 174П</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТРЦ Максимир, Ленинский пр-т., 174П</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7109,
+            39.1598
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТРК Арена, б-р Победы, 23Б</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТРК Арена, б-р Победы, 23Б</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.673,
+            39.196
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ВОКОБ, ул. Революции 1905 года, 22, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ВОКОБ, ул. Революции 1905 года, 22, 1 этаж</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6662,
+            39.1916
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Кольцовская, 35</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Кольцовская, 35</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6625,
+            39.1984
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ТЦ Гостиный дворик, Плехановская ул., 9</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ТЦ Гостиный дворик, Плехановская ул., 9</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.6444,
+            39.2385
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>Ленинский пр-т., 24\/1</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>Ленинский пр-т., 24\/1</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.3091,
+            37.873
+           ]
+        },
+        "properties":{
+            "balloonContent":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Ольминского микрорайон, 17, 1 этаж, ТРЦ БОШЕ</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "balloonContentHeader":"Точка зрения<br><ul style='font-weight: 300'><li>ул. Ольминского микрорайон, 17, 1 этаж, ТРЦ БОШЕ</li><li><a href='tel:88005001215'>8 (800) 500-12-15</a></li></ul>",
+            "clusterCaption":"Точка зрения",
+            "hintContent":"Точка зрения"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7418,
+            36.1846
+           ]
+        },
+        "properties":{
+            "balloonContent":"Офтальмологическая больница<br><ul style='font-weight: 300'><li>ул. Садовая, 42-а</li><li><a href='tel:89107401844'>8 (910) 740-18-44</a></li></ul>",
+            "balloonContentHeader":"Офтальмологическая больница<br><ul style='font-weight: 300'><li>ул. Садовая, 42-а</li><li><a href='tel:89107401844'>8 (910) 740-18-44</a></li></ul>",
+            "clusterCaption":"Офтальмологическая больница",
+            "hintContent":"Офтальмологическая больница"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.7474,
+            36.1949
+           ]
+        },
+        "properties":{
+            "balloonContent":"ТМарко Оптикаbr><ul style='font-weight: 300'><li>Ленина ул, дом № 95</li><li><a href='tel:84712586975'>8 (4712) 58-69-75</a></li></ul>",
+            "balloonContentHeader":"ТМарко Оптикаbr><ul style='font-weight: 300'><li>Ленина ул, дом № 95</li><li><a href='tel:84712586975'>8 (4712) 58-69-75</a></li></ul>",
+            "clusterCaption":"Марко Оптика",
+            "hintContent":"Марко Оптика"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            52.6158,
+            39.5984
+           ]
+        },
+        "properties":{
+           "balloonContent":"Гранд Оптика<br><ul style='font-weight: 300'><li>Желябова ул, дом № 31А</li><li><a href='tel:84742275336'>8 (4742) 27-53-36</a></li></ul>",
+           "balloonContentHeader":"Гранд Оптика<br><ul style='font-weight: 300'><li>Желябова ул, дом № 31А</li><li><a href='tel:84742275336'>8 (4742) 27-53-36</a></li></ul>",
+           "clusterCaption":"Гранд Оптика",
+           "hintContent":"Гранд Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            49.9343,
+            40.5612
+           ]
+        },
+        "properties":{
+           "balloonContent":"Лика<br><ul style='font-weight: 300'><li>Шолохова ул, дом № 7/1</li><li><a href='tel:89204199640'>8 (920) 419-96-40</a></li></ul>",
+           "balloonContentHeader":"Лика<br><ul style='font-weight: 300'><li>Шолохова ул, дом № 7/1</li><li><a href='tel:89204199640'>8 (920) 419-96-40</a></li></ul>",
+           "clusterCaption":"Лика",
+           "hintContent":"Лика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            50.8619,
+            39.0771
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>ул. Крамского, дом № 15\/5</li><li><a href='tel:89204199640'>8 (920) 419-96-40</a></li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>ул. Крамского, дом № 15\/5</li><li><a href='tel:89204199640'>8 (920) 419-96-40</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            51.2783,
+            37.5016
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Мариоко<br><ul style='font-weight: 300'><li>Кирова ул, дом № 43</li><li><a href='tel:84724152242'>8 (47241) 5-22-42</a></li></ul>",
+           "balloonContentHeader":"Оптика Мариоко<br><ul style='font-weight: 300'><li>Кирова ул, дом № 43</li><li><a href='tel:84724152242'>8 (47241) 5-22-42</a></li></ul>",
+           "clusterCaption":"Оптика Мариоко",
+           "hintContent":"Оптика Мариоко"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.7092,
+            44.5193
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ваша оптика<br><ul style='font-weight: 300'><li>пр. имени В.И. Ленина, 15</li><li><a href='tel:89610721119'>8 (961) 072-11-19</a></li></ul>",
+           "balloonContentHeader":"Ваша оптика<br><ul style='font-weight: 300'><li>пр. имени В.И. Ленина, 15</li><li><a href='tel:89610721119'>8 (961) 072-11-19</a></li></ul>",
+           "clusterCaption":"Ваша оптика",
+           "hintContent":"Ваша оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.8045,
+            44.5981
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазочки<br><ul style='font-weight: 300'><li>ул. Дзержинского, 22</li><li><a href='tel:89377505755'>8 (937) 750-57-55</a></li></ul>",
+           "balloonContentHeader":"Глазочки<br><ul style='font-weight: 300'><li>ул. Дзержинского, 22</li><li><a href='tel:89377505755'>8 (937) 750-57-55</a></li></ul>",
+           "clusterCaption":"Глазочки",
+           "hintContent":"Глазочки"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.7127,
+            44.516
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазочки<br><ul style='font-weight: 300'><li>Коммунистическая ул., 11</li><li><a href='tel:89377505755'>89377505755</a></li></ul>",
+           "balloonContentHeader":"Глазочки<br><ul style='font-weight: 300'><li>Коммунистическая ул., 11</li><li><a href='tel:89377505755'>89377505755</a></li></ul>",
+           "clusterCaption":"Глазочки",
+           "hintContent":"Глазочки"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.7998,
+            44.6044
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазочки<br><ul style='font-weight: 300'><li>35:пл. Дзержинского, 1Б</li><li><a href='tel:89377505755'>8 (937) 750-57-55</a></li></ul>",
+           "balloonContentHeader":"Глазочки<br><ul style='font-weight: 300'><li>35:пл. Дзержинского, 1Б</li><li><a href='tel:89377505755'>8 (937) 750-57-55</a></li></ul>",
+           "clusterCaption":"Глазочки",
+           "hintContent":"Глазочки"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.513,
+            44.5716
+           ]
+        },
+        "properties":{
+           "balloonContent":"Глазной+<br><ul style='font-weight: 300'><li>ул. 40 лет ВЛКСМ, 9</li><li><a href='tel:8(844)2501848'>8 (844) 250-18-48</a></li></ul>",
+           "balloonContentHeader":"Глазной+<br><ul style='font-weight: 300'><li>ул. 40 лет ВЛКСМ, 9</li><li><a href='tel:8(844)2501848'>8 (844) 250-18-48</a></li></ul>",
+           "clusterCaption":"Глазной+",
+           "hintContent":"Глазной+"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.6889,
+            44.4914
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Радуга<br><ul style='font-weight: 300'><li>ул. Циолковского, 39</li><li><a href='tel:88442498892'>8 (844) 249-88-92</a></li></ul>",
+           "balloonContentHeader":"Оптика Радуга<br><ul style='font-weight: 300'><li>ул. Циолковского, 39</li><li><a href='tel:88442498892'>8 (844) 249-88-92</a></li></ul>",
+           "clusterCaption":"Оптика Радуга",
+           "hintContent":"Оптика Радуга"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.7127,
+            44.5252
+           ]
+        },
+        "properties":{
+           "balloonContent":"О очки<br><ul style='font-weight: 300'><li>Пр. Ленина, 23</li><li><a href='tel:89377131055'>8 (937) 713-10-55</a></li></ul>",
+           "balloonContentHeader":"О очки<br><ul style='font-weight: 300'><li>Пр. Ленина, 23</li><li><a href='tel:89377131055'>8 (937) 713-10-55</a></li></ul>",
+           "clusterCaption":"О очки",
+           "hintContent":"О очки"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.5144,
+            44.5461
+           ]
+        },
+        "properties":{
+           "balloonContent":"LUX оптика<br><ul style='font-weight: 300'><li>пр-т. имени Героев Сталинграда, 35</li><li><a href='tel:88442990409'>8 (844) 299-04-09</a></li></ul>",
+           "balloonContentHeader":"LUX оптика<br><ul style='font-weight: 300'><li>пр-т. имени Героев Сталинграда, 35</li><li><a href='tel:88442990409'>8 (844) 299-04-09</a></li></ul>",
+           "clusterCaption":"LUX оптика",
+           "hintContent":"LUX оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.6589,
+            44.4378
+           ]
+        },
+        "properties":{
+           "balloonContent":"LUX оптика<br><ul style='font-weight: 300'><li>Университетский осп., 62А</li><li><a href='tel:88442490397'>8 (844) 249-03-97</a></li></ul>",
+           "balloonContentHeader":"LUX оптика<br><ul style='font-weight: 300'><li>Университетский осп., 62А</li><li><a href='tel:88442490397'>8 (844) 249-03-97</a></li></ul>",
+           "clusterCaption":"LUX оптика",
+           "hintContent":"LUX оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.7483,
+            44.506
+           ]
+        },
+        "properties":{
+           "balloonContent":"1я оптика<br><ul style='font-weight: 300'><li>ул. 8-й Воздушной Армии, 9А</li><li><a href='tel:88442912789'>8 (844) 291-27-89</a></li></ul>",
+           "balloonContentHeader":"1я оптика<br><ul style='font-weight: 300'><li>ул. 8-й Воздушной Армии, 9А</li><li><a href='tel:88442912789'>8 (844) 291-27-89</a></li></ul>",
+           "clusterCaption":"1я оптика",
+           "hintContent":"1я оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            48.2809,
+            46.1704
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>ул. Жуковского, 15 Г</li><li><a href='tel:89881794403'>8 (988) 179-44-03</a></li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>ул. Жуковского, 15 Г</li><li><a href='tel:89881794403'>8 (988) 179-44-03</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            46.3655,
+            48.0708
+           ]
+        },
+        "properties":{
+           "balloonContent":"Окулист-А<br><ul style='font-weight: 300'><li>ул. Яблочкова, 21</li><li><a href='tel:89066023656'>8 (906) 602-36-56</a></li></ul>",
+           "balloonContentHeader":"Окулист-А<br><ul style='font-weight: 300'><li>ул. Яблочкова, 21</li><li><a href='tel:89066023656'>8 (906) 602-36-56</a></li></ul>",
+           "clusterCaption":"Окулист-А",
+           "hintContent":"Окулист-А"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.5163,
+            42.1967
+           ]
+        },
+        "properties":{
+           "balloonContent":"Сияние<br><ul style='font-weight: 300'><li>пр. Строителей, 13</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+           "balloonContentHeader":"Сияние<br><ul style='font-weight: 300'><li>пр. Строителей, 13</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+           "clusterCaption":"Сияние",
+           "hintContent":"Сияние"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.5344,
+            42.1602
+           ]
+        },
+        "properties":{
+            "balloonContent":"Сияние<br><ul style='font-weight: 300'><li>50 лет СССР ул., 4-а</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+            "balloonContentHeader":"Сияние<br><ul style='font-weight: 300'><li>50 лет СССР ул., 4-а</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+            "clusterCaption":"Сияние",
+            "hintContent":"Сияние"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            47.5275,
+            42.2039
+           ]
+        },
+        "properties":{
+            "balloonContent":"Сияние<br><ul style='font-weight: 300'><li>ул. Академика Королева, 1a</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+            "balloonContentHeader":"Сияние<br><ul style='font-weight: 300'><li>ул. Академика Королева, 1a</li><li><a href='tel:88639220839'>8 (863) 922-08-39</a></li></ul>",
+            "clusterCaption":"Сияние",
+            "hintContent":"Сияние"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9463,
+            30.4743
+           ]
+        },
+        "properties":{
+           "balloonContent":"ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>Идустриальный пр. 24, ТК Июнь, 1эт</li><li><a href='tel:89633010631'>8 (963) 301-06-31</a></li></ul>",
+           "balloonContentHeader":"ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>Идустриальный пр. 24, ТК Июнь, 1эт</li><li><a href='tel:89633010631'>8 (963) 301-06-31</a></li></ul>",
+           "clusterCaption":"ИП Полянская Очки, аксессуары",
+           "hintContent":"ИП Полянская Очки, аксессуары"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8196,
+            30.3168
+           ]
+        },
+        "properties":{
+           "balloonContent":"ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>Пулковское ш. 25, ТРК Лето,  2эт</li><li><a href='tel:89643975208'>8 (964) 397-52-08</a></li></ul>",
+           "balloonContentHeader":"ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>Пулковское ш. 25, ТРК Лето,  2эт</li><li><a href='tel:89643975208'>8 (964) 397-52-08</a></li></ul>",
+           "clusterCaption":"ИП Полянская Очки, аксессуары",
+           "hintContent":"ИП Полянская Очки, аксессуары"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.8773,
+            30.3583
+           ]
+        },
+        "properties":{
+           "balloonContent": "ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>ул. Фучика 2, ТРК Рио, 1 эт</li><li><a href='tel:89627008956'>8 (962) 700-89-56</a></li></ul>",
+           "balloonContentHeader":"ИП Полянская Очки, аксессуары<br><ul style='font-weight: 300'><li>ул. Фучика 2, ТРК Рио, 1 эт</li><li><a href='tel:89627008956'>8 (962) 700-89-56</a></li></ul>",
+           "clusterCaption":"ИП Полянская Очки, аксессуары",
+           "hintContent":"ИП Полянская Очки, аксессуары"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            59.9615,
+            30.2923
+           ]
+        },
+        "properties":{
+           "balloonContent":"Офтакон Эксперт офтальмологический центр<br><ul style='font-weight: 300'><li>Большая Зеленина 13</li><li><a href='tel:88122350272'>8 (812) 235-02-72</a></li></ul>",
+           "balloonContentHeader":"Офтакон Эксперт офтальмологический центр<br><ul style='font-weight: 300'><li>Большая Зеленина 13</li><li><a href='tel:88122350272'>8 (812) 235-02-72</a></li></ul>",
+           "clusterCaption":"Офтакон Эксперт офтальмологический центр",
+           "hintContent":"Офтакон Эксперт офтальмологический центр"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0146,
+            30.3935
+           ]
+        },
+        "properties":{
+           "balloonContent":"Линз-очки<br><ul style='font-weight: 300'><li>пр. Науки 12</li><li><a href='tel:88129292958'>8 (812) 929-29-58</a></li></ul>",
+           "balloonContentHeader":"Линз-очки<br><ul style='font-weight: 300'><li>пр. Науки 12</li><li><a href='tel:88129292958'>8 (812) 929-29-58</a></li></ul>",
+           "clusterCaption":"Линз-очки",
+           "hintContent":"Линз-очки"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            60.0502,
+            30.3415
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика Европа<br><ul style='font-weight: 300'><li>ул. Есенина 33</li><li><a href='tel:88129844808'>8 (812) 984-48-08</a></li></ul>",
+           "balloonContentHeader":"Оптика Европа<br><ul style='font-weight: 300'><li>ул. Есенина 33</li><li><a href='tel:88129844808'>8 (812) 984-48-08</a></li></ul>",
+           "clusterCaption":"оптика Европа",
+           "hintContent":"Оптика Европа"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            58.5293,
+            31.2718
+           ]
+        },
+        "properties":{
+           "balloonContent": "Оптика<br><ul style='font-weight: 300'><li>Большая Санкт-петербургская ул. 14</li><li><a href='tel:88162772382'>8 (816) 277-23-82</a></li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>Большая Санкт-петербургская ул. 14</li><li><a href='tel:88162772382'>8 (816) 277-23-82</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            58.5438,
+            31.2458
+           ]
+        },
+        "properties":{
+            "balloonContent":"оптика Щурий<br><ul style='font-weight: 300'><li>пр. Александра Корсунова  21а,  ТЦ Панорама, 3эт</li><li><a href='tel:89539023707'>8 (953) 902-37-07</a></li></ul>",
+            "balloonContentHeader":"оптика Щурий<br><ul style='font-weight: 300'><li>пр. Александра Корсунова  21а,  ТЦ Панорама, 3эт</li><li><a href='tel:89539023707'>8 (953) 902-37-07</a></li></ul>",
+            "clusterCaption":"оптика Щурий",
+            "hintContent":"оптика Щурий"
+         }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            68.959,
+            33.071
+           ]
+        },
+        "properties":{
+           "balloonContent":"Glazburg<br><ul style='font-weight: 300'><li>пр. Ленина,48</li><li><a href='tel:8815473684'>8 (815) 473-684</a></li></ul>",
+           "balloonContentHeader":"Glazburg<br><ul style='font-weight: 300'><li>пр. Ленина,48</li><li><a href='tel:8815473684'>8 (815) 473-684</a></li></ul>",
+           "clusterCaption":"Glazburg",
+           "hintContent":"Glazburg"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            68.9606,
+            33.1101
+           ]
+        },
+        "properties":{
+           "balloonContent":"Glazburg<br><ul style='font-weight: 300'><li>Рогозерская ул. 4, ТЦ Плазма</li><li><a href='tel:8815202600'>8 (815) 202-600</a></li></ul>",
+           "balloonContentHeader":"Glazburg<br><ul style='font-weight: 300'><li>Рогозерская ул. 4, ТЦ Плазма</li><li><a href='tel:8815202600'>8 (815) 202-600</a></li></ul>",
+           "clusterCaption":"Glazburg",
+           "hintContent":"Glazburg"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            67.6383,
+            52.9917
+           ]
+        },
+        "properties":{
+           "balloonContent":"Будь здоров<br><ul style='font-weight: 300'><li>ул. Ленина 39А</li><li><a href='tel:88185349722'>8 (81853) 49-722</a></li></ul>",
+           "balloonContentHeader":"Будь здоров<br><ul style='font-weight: 300'><li>ул. Ленина 39А</li><li><a href='tel:88185349722'>8 (81853) 49-722</a></li></ul>",
+           "clusterCaption":"Будь здоров",
+           "hintContent":"Будь здоров"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            45.0321,
+            35.3804
+           ]
+        },
+        "properties":{
+           "balloonContent":"Оптика<br><ul style='font-weight: 300'><li>Галерейная ул., 10</li><li><a href='tel:83656230213'>8 (36562) 3-02-13</a></li></ul>",
+           "balloonContentHeader":"Оптика<br><ul style='font-weight: 300'><li>Галерейная ул., 10</li><li><a href='tel:83656230213'>8 (36562) 3-02-13</a></li></ul>",
+           "clusterCaption":"Оптика",
+           "hintContent":"Оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.9498,
+            34.1009
+           ]
+        },
+        "properties":{
+           "balloonContent": "Око<br><ul style='font-weight: 300'><li>Кирова пр-кт, дом № 68</li><li><a href='tel:83652601161'>8 (3652) 60-11-61</a></li></ul>",
+           "balloonContentHeader":"Око<br><ul style='font-weight: 300'><li>Кирова пр-кт, дом № 68</li><li><a href='tel:83652601161'>8 (3652) 60-11-61</a></li></ul>",
+           "clusterCaption":"Око",
+           "hintContent":"Око"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.9537,
+            34.1182
+           ]
+        },
+        "properties":{
+           "balloonContent":"Медицинские линзы Логос-Лаб<br><ul style='font-weight: 300'><li>Киевская ул, дом № 36, корпус 6</li><li><a href='tel:89787248067'>8 (978) 724-80-67</a></li></ul>",
+           "balloonContentHeader":"Медицинские линзы Логос-Лаб<br><ul style='font-weight: 300'><li>Киевская ул, дом № 36, корпус 6</li><li><a href='tel:89787248067'>8 (978) 724-80-67</a></li></ul>",
+           "clusterCaption":"Медицинские линзы Логос-Лаб",
+           "hintContent":"Медицинские линзы Логос-Лаб"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            44.6103,
+            33.5204
+           ]
+        },
+        "properties":{
+           "balloonContent":"Ваша оптика<br><ul style='font-weight: 300'><li>Большая Морская ул, дом № 6</li><li><a href='tel:89787888070'>8 (978) 788-80-70</a></li></ul>",
+           "balloonContentHeader":"Ваша оптика<br><ul style='font-weight: 300'><li>Большая Морская ул, дом № 6</li><li><a href='tel:89787888070'>8 (978) 788-80-70</a></li></ul>",
+           "clusterCaption":"Ваша оптика",
+           "hintContent":"Ваша оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            43.2312,
+            44.7691
+           ]
+        },
+        "properties":{
+           "balloonContent":"Первая оптика<br><ul style='font-weight: 300'><li>Осканова ул, дом № 56</li><li><a href='tel:89287272140'>8 (928) 727-21-40</a></li></ul>",
+           "balloonContentHeader":"Первая оптика<br><ul style='font-weight: 300'><li>Осканова ул, дом № 56</li><li><a href='tel:89287272140'>8 (928) 727-21-40</a></li></ul>",
+           "clusterCaption":"Первая оптика",
+           "hintContent":"Первая оптика"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.6915,
+            37.9041
+           ]
+        },
+        "properties":{
+           "balloonContent":"Институт здоровья<br><ul style='font-weight: 300'><li>Люберцы, Комсомольский просп., 11Б</li><li><a href='tel:74955056056'>+7 (495) 505-60-56</a></li></ul>",
+           "balloonContentHeader":"Институт здоровья<br><ul style='font-weight: 300'><li>Люберцы, Комсомольский просп., 11Б</li><li><a href='tel:74955056056'>+7 (495) 505-60-56</a></li></ul>",
+           "clusterCaption":"Институт здоровья",
+           "hintContent":"Институт здоровья"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            55.685,
+            37.878
+           ]
+        },
+        "properties":{
+           "balloonContent":"Kepler<br><ul style='font-weight: 300'><li>Люберцы, Октябрьский просп., 112 1 этаж</li><li><a href='tel:74951080639'>+7 495 108-06-39</a></li></ul>",
+           "balloonContentHeader":"Kepler<br><ul style='font-weight: 300'><li>Люберцы, Октябрьский просп., 112 1 этаж</li><li><a href='tel:74951080639'>+7 495 108-06-39</a></li></ul>",
+           "clusterCaption":"Kepler",
+           "hintContent":"Kepler"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            46.9635,
+            142.733
+           ]
+        },
+        "properties":{
+           "balloonContent": "Острое зрение<br><ul style='font-weight: 300'><li>Невельская улица, 52\/1, Южно-Сахалинск</li><li><a href='tel:79625801010'>+79625801010</a></li></ul>",
+           "balloonContentHeader":"Острое зрение<br><ul style='font-weight: 300'><li>Невельская улица, 52\/1, Южно-Сахалинск</li><li><a href='tel:79625801010'>+79625801010</a></li></ul>",
+           "clusterCaption":"Острое зрение",
+           "hintContent":"Острое зрение"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8382,
+            53.2153
+           ]
+        },
+        "properties":{
+           "balloonContent":"Линза<br><ul style='font-weight: 300'><li>ул. К. Либкнехта, 19</li><li><a href='tel:73412529393'>+7 (3412)52-93-93</a></li></ul>",
+           "balloonContentHeader":"Линза<br><ul style='font-weight: 300'><li>ул. К. Либкнехта, 19</li><li><a href='tel:73412529393'>+7 (3412)52-93-93</a></li></ul>",
+           "clusterCaption":"Линза",
+           "hintContent":"Линза"
+        }
+     },
+     {
+        "type":"Feature",
+        "id":6,
+        "geometry":{
+           "type":"Point",
+           "coordinates":[
+            56.8691,
+            53.2073
+           ]
+        },
+        "properties":{
+           "balloonContent":"Линза<br><ul style='font-weight: 300'><li>ул. Пушкинская, 283</li><li><a href='tel:73412970250'>+7 (3412)970-250</a></li></ul>",
+           "balloonContentHeader":"Линза<br><ul style='font-weight: 300'><li>ул. Пушкинская, 283</li><li><a href='tel:73412970250'>+7 (3412)970-250</a></li></ul>",
+           "clusterCaption":"Линза",
+           "hintContent":"Линза"
+        }
+     }     
+  ]
