@@ -169,6 +169,16 @@ body .content-area .page-section {
   }
 }
 
+.custom-categories__main-title {
+  font-family: Hauss;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  color: #454f5b;
+  margin-top: 20px;
+}
+
 .custom-categories__title {
   display: inline-block;
   font-size: 25px;
