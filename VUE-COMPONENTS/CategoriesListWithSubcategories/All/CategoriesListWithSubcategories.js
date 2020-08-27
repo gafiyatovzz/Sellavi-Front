@@ -53,6 +53,8 @@ $(document).ready(function () {
           result.title = categoryTitle;
           result.link = categoryLink;
           result.img = imgLink;
+          
+          categories.push(result);
 
           if (categories.length === categoriesLinks.length && Object.keys(categories[categoriesLinks.length - 1]).length) {
             render(categories)

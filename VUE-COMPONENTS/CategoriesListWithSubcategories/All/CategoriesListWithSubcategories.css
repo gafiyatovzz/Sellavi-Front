@@ -5,6 +5,7 @@
 .custom-categories__item {
   position: relative;
   box-shadow: 0 4px 16px #7a7a7a;
+  border-radius: 10px;
   margin: 15px 5px 5px;
   max-width: 100%;
 
@@ -14,7 +15,7 @@
 }
 
 .custom-categories__item:hover {
-  box-shadow: 0 4px 26px #7a7a7a;
+  box-shadow: 0 4px 26px black;
 }
 
 @keyframes inition {
@@ -155,7 +156,7 @@ body .content-area .page-section {
 }
 
 .custom-categories__item:hover {
-  box-shadow: 0 4px 26px #7a7a7a;
+  box-shadow: 0 4px 26px black;
 }
 
 @keyframes inition {
