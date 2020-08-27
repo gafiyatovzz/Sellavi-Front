@@ -53,7 +53,7 @@ $(document).ready(function () {
           result.title = categoryTitle;
           result.link = categoryLink;
           result.img = imgLink;
-          
+
           categories.push(result);
 
           if (categories.length === categoriesLinks.length && Object.keys(categories[categoriesLinks.length - 1]).length) {
@@ -82,19 +82,25 @@ $(document).ready(function () {
           categories: cat
         },
         template: `
-                 <div class="row">
-                   <div class="custom-categories__item" v-for="category of categories">
-                     <a :href="category.link">
-                       <span class="custom-categories__title-container"><h4 class="custom-categories__title">{{ category.title }}</h4></span>
-                       <img :src="category.img"></img>
-                     </a>
-                     <div v-if="category.subcategories.length > 0" class="custom-categories__mask"></div>
-                      <ul class="custom-categories__subcategories" v-if="category.subcategories.length > 0">
-                        <li v-for="subcategory of category.subcategories" class="custom-categories__subcategory"><a :href="subcategory.href" >{{ subcategory.title }}</a></li>
-                      </ul>
-                   </div>
-                 </div>
-               `,
+          <div class="custom-categories">
+            <h2 class="custom-categories__main-title">Лыжи? Лыжи!</h2>
+            <div class="row">
+              <div class="custom-categories__item" v-for="category of categories">
+                <a :href="category.link">
+                  <span class="custom-categories__title-container">
+                    <h4 class="custom-categories__title">{{ category.title }}</h4>
+                  </span>
+                  <img :src="category.img"></img>
+                </a>
+                <div v-if="category.subcategories.length > 0" class="custom-categories__mask"></div>
+                <ul class="custom-categories__subcategories" v-if="category.subcategories.length > 0">
+                  <li v-for="subcategory of category.subcategories" class="custom-categories__subcategory"><a
+                  :href="subcategory.href">{{ subcategory.title }}</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        `,
       });
     }
   };
