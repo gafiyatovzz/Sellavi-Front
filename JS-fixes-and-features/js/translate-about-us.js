@@ -5,7 +5,7 @@ $(document).ready(function () {
   const widTitle = widget.find('.widget-title');
   const widCat = widget.find('.widget-categories>ul>li:first-child>a');
   let textTrans = 'About us ';
-  let textRus = 'О нас'
+  let textRus = 'О нас';
 
   if (widTitle.html() == textTrans || widCat.html() == textTrans) {
     widTitle.text(textRus);
