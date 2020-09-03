@@ -1,0 +1,55 @@
+.banner-bg-img {
+    /* The image used */
+    background-image: url("https://simplegreen.com/images/news_media/9-spring-cleaning-tips-made-simple-large.jpg");
+
+    min-height: 450px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+/* Add styles to the form container */
+.custom-banner-container {
+    position: absolute;
+    right: 25px;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+}
+
+/* Full-width input fields */
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Set a style for the submit button */
+.custom-banner-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.custom-banner-btn:hover {
+    opacity: 1;
+}
+
+#home > div.wrapper.wrapper-closed > div > div.main-slider.content_center > div.custom_banner > div > form > h1 {
+    font-size: 24px;
+}
