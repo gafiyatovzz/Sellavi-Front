@@ -1,0 +1,25 @@
+.partners-info__title {
+  text-align: center;
+}
+
+.partners-info__list {
+  width: 100%;
+  overflow: scroll;
+  scrollbar-width: none;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: no-wrap;
+}
+
+.partners-info__item {
+  min-width: 150px;
+}
+
+.partners-info__item:not(:first-child) {
+   margin-left: 30px;
+}
+
+.partners-info__img {
+  width: 100%;
+}
