@@ -1,3 +1,7 @@
+.partners-info__container {
+  padding: 30px 0;
+}
+
 .partners-info__title {
   text-align: center;
 }
@@ -16,7 +20,7 @@
 .partners-info__item {
   min-width: 100px;
   margin: 0 50px;
-  animation: appearance 0.3s linear 1;
+  animation: appearance 0.7s linear 1;
   animation-fill-mode: both;
 }
 

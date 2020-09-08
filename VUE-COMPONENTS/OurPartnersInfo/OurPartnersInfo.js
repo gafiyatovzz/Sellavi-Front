@@ -31,14 +31,14 @@ $(document).ready(() => {
         changeActive () {
           setInterval(() => {
             this.activePartners = [];
-          }, 4999);
+          }, 7999);
           setInterval(() => {
             this.startIndex += this.partnersToShow;
             if (this.startIndex >= this.partnersLogos.length) {
               this.startIndex = 0;
             }
             this.activePartners = this.partnersLogos.slice(this.startIndex, this.startIndex + this.partnersToShow);
-          }, 5000)
+          }, 8000)
         }
       },
       mounted() {
