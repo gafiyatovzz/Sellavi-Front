@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             selectProperty(name, value) {
                 this.selectedProperties[name] = value;
-                console.log(this.selectedProperties)
+                this.activeSelectors.splice(this.activeSelectors.indexOf(name), 1);
             },
             addFeatures(event, name) {
                 if(!this.selectedProperties[name]) {
