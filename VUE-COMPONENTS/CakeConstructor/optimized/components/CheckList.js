@@ -8,12 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         template: `
                 <div class="constructor__checklist">
-                    <span>Выбери {{title}}</span>
+                    <h3 class="constructor__checklist-title">Выбери {{title}}</h3>
                     <div class="constructor__checklist-group">
-                        <div class="constructor__checklist-box" v-for="option of options">
+                        <label class="constructor__checklist-box" v-for="option of options">
                             <span class="constructor__description">{{option}}</span>
                             <input class="constructor__checkbox" type="checkbox" :value="option" @change="addFeatures($event, name)">
-                        </div>
+                            <span class="custom-checkbox"></span>
+                        </label>
                     </div>
                 </div>
             `

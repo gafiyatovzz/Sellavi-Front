@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 this.$emit('add-features', event, name);
             },
             saveAndBuy() {
-                this.$emit('save-and-buy')
+                this.$emit('save-and-buy');
             }
         },
         template: `
@@ -75,21 +75,23 @@ document.addEventListener('DOMContentLoaded', () => {
                             ></selector>
                             </div>
                             
-                            <check-list :options="berries"
-                               :title="'ягоды для украшения'"
-                               :name="'berries'"
-                               @add-features="addFeatures"
-                            ></check-list>
-                            <check-list :options="decors"
-                               :title="'декор'"
-                               :name="'decor'"
-                               @add-features="addFeatures"
-                            ></check-list>
+                            <div class="constructor__checklist-container">
+                                <check-list :options="berries"
+                                    :title="'ягоды для украшения'"
+                                    :name="'berries'"
+                                    @add-features="addFeatures"
+                                ></check-list>
+                                <check-list :options="decors"
+                                    :title="'декор'"
+                                    :name="'decor'"
+                                    @add-features="addFeatures"
+                                ></check-list>
+                            </div>
                         </div>
                         <div class="constructor__window">
             
                         </div>
-                        <button @click="saveAndBuy">Заказать торт!</button>
+                        <button class="constructor__button" @click="saveAndBuy">Заказать торт!</button>
                     </div>
                 </div>
             `
