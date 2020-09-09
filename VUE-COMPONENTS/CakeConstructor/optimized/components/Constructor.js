@@ -88,10 +88,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                 ></check-list>
                             </div>
                         </div>
-                        <div class="constructor__window">
-            
-                        </div>
-                        <button class="constructor__button" @click="saveAndBuy">Заказать торт!</button>
+                        <constructor-window :selected-properties="selectedProperties"></constructor-window>
+                        <button @click="saveAndBuy">Заказать торт!</button>
                     </div>
                 </div>
             `
