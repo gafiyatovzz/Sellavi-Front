@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 this.$emit('add-features', event, name);
             },
             saveAndBuy() {
-                this.$emit('save-and-buy')
+                this.$emit('save-and-buy');
             }
         },
         template: `
@@ -75,16 +75,18 @@ document.addEventListener('DOMContentLoaded', () => {
                             ></selector>
                             </div>
                             
-                            <check-list :options="berries"
-                               :title="'ягоды для украшения'"
-                               :name="'berries'"
-                               @add-features="addFeatures"
-                            ></check-list>
-                            <check-list :options="decors"
-                               :title="'декор'"
-                               :name="'decor'"
-                               @add-features="addFeatures"
-                            ></check-list>
+                            <div class="constructor__checklist-container">
+                                <check-list :options="berries"
+                                    :title="'ягоды для украшения'"
+                                    :name="'berries'"
+                                    @add-features="addFeatures"
+                                ></check-list>
+                                <check-list :options="decors"
+                                    :title="'декор'"
+                                    :name="'decor'"
+                                    @add-features="addFeatures"
+                                ></check-list>
+                            </div>
                         </div>
                         <constructor-window :selected-properties="selectedProperties"></constructor-window>
                         <button @click="saveAndBuy">Заказать торт!</button>
