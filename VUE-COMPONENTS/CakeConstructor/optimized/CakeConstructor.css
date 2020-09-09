@@ -70,9 +70,32 @@ body {
   width: 100%;
   background: #fff;
   left: 0;
-  padding: 15px;
+  padding: 0px;
   list-style: none;
   border-radius: 0 0 5px 5px;
+  margin: 17px 0px;
+  box-shadow: 0 5px 4px #807182;
+  overflow: hidden;
+  animation: options-list-appear 0.2s linear 1;
+  animation-fill-mode: both;
+}
+
+@keyframes options-list-appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: auto;
+  }
+}
+
+@keyframes options-item-appear {
+  0% {
+    padding: 0 7px;
+  }
+  100% {
+    padding: 7px;
+  }
 }
 
 .constructor__selector-icon {
@@ -210,9 +233,23 @@ body {
 }
 
 @media (max-width: 474px) {
-    .constructor__extra-options .constructor__selector-group:not(:last-child) {
-        margin-right: 0px;
-    }
+  .constructor__extra-options .constructor__selector-group:not(:last-child) {
+    margin-right: 0px;
+  }
+}
+.constructor__selector-option {
+  text-align: center;
+  padding: 7px;
+
+  transition: all 0.1s linear;
+  animation: options-item-appear 0.2s linear 1;
+  animation-fill-mode: both;
+}
+
+.constructor__selector-option:hover {
+  background-color: #f2877c;
+  cursor: pointer;
+  user-select: none;
 }
 
 .constructor__cake-tire {

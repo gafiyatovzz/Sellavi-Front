@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             </div>
                         </div>
                         <constructor-window :selected-properties="selectedProperties"></constructor-window>
-                        <button @click="saveAndBuy">Заказать торт!</button>
+                        <button @click="saveAndBuy" class="constructor__button">Заказать торт!</button>
                     </div>
                 </div>
             `
