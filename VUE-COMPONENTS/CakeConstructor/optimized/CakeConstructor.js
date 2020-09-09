@@ -33,10 +33,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(!this.selectedProperties[name]) {
                     this.selectedProperties[name] = [];
                 }
-                if(event.target.checked) {
+                if(event.target.checked || !this.selectedProperties[name].includes(event.target.value)) {
                     this.selectedProperties[name] = [...this.selectedProperties[name] , event.target.value];
                 } else {
-                    this.activeSelectors[name].splice(this.activeSelectors[name].indexOf(event.target.value), 1);
+                    this.selectedProperties[name] ? this.selectedProperties[name].splice(this.selectedProperties[name].indexOf(event.target.value), 1) : console.log(this.selectedProperties[name]);
                 }
                 console.log(this.selectedProperties)
             },
