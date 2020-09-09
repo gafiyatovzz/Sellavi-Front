@@ -86,9 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                @add-features="addFeatures"
                             ></check-list>
                         </div>
-                        <div class="constructor__window">
-            
-                        </div>
+                        <constructor-window :selected-properties="selectedProperties"></constructor-window>
                         <button @click="saveAndBuy">Заказать торт!</button>
                     </div>
                 </div>
