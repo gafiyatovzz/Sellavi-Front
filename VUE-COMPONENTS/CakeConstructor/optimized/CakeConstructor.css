@@ -54,7 +54,26 @@ body {
     justify-content: space-between;
     background: #fff;
     padding: 8px 15px;
-    border-radius: 15px;
+    border-radius: 5px;
     width: 150px;
-    overflow: hidden;
+    position: relative;
+}
+
+.constructor__selector-options {
+    position: absolute;
+    top: 10px;
+    z-index: 10;
+    width: 100%;
+    background: #fff;
+    left: 0;
+    padding: 15px;
+    list-style: none;
+    border-radius: 0 0 5px 5px;
+}
+
+.constructor__selector-icon {
+    border: 8px solid transparent;
+    border-top: 8px solid green;
+    content: '';
+    margin: 5px 0 0 0;
 }
