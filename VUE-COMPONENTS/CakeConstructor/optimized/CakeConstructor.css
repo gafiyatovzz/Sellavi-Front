@@ -210,9 +210,10 @@ body {
 }
 
 @media (max-width: 474px) {
-  .constructor__extra-options .constructor__selector-group:not(:last-child) {
-    margin-right: 0px;
-  }
+    .constructor__extra-options .constructor__selector-group:not(:last-child) {
+        margin-right: 0px;
+    }
+}
 
 .constructor__cake-tire {
     list-style: none;
