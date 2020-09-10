@@ -8,8 +8,12 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         template: `
                 <div class="constructor__checklist">
-                    <h3 class="constructor__checklist-title constructor__checklist-title--berries" v-if="title === 'ягоды для украшения'">Выбери {{title}}</h3>
-                    <h3 class="constructor__checklist-title constructor__checklist-title--decor" v-else>Выбери {{title}}</h3>
+                  <span class="constructor__checklist-title-container" v-if="title === 'ягоды'">
+                    <h3 class="constructor__checklist-title constructor__checklist-title--berries">Выбери {{title}}</h3>
+                  </span>
+                  <span class="constructor__checklist-title-container" v-else>
+                    <h3 class="constructor__checklist-title constructor__checklist-title--decor">Выбери {{title}}</h3>
+                  </span>
                     <div class="constructor__checklist-group">
                         <label class="constructor__checklist-box" v-for="option of options">
                             <span class="constructor__description">{{option}}</span>

@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap') format('woff2');
+}
+
 * {
   box-sizing: border-box;
+  font-family: Roboto, sans-serif;
 }
 
 body {
@@ -123,7 +129,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin-top: 20px;
   padding: 10px 10px 0px 10px;
   border-radius: 10px;
   background-color: #fff;
@@ -132,6 +137,12 @@ body {
 
 .constructor__checklist {
   flex: 0 0 40%;
+}
+
+.constructor__checklist-title-container {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
 }
 
 .constructor__checklist-title {
@@ -145,23 +156,30 @@ body {
 
 .constructor__checklist-title--berries::after {
   position: absolute;
-  top: 0px;
+  top: -5px;
   left: -11px;
   content: '';
   width: 30px;
   height: 30px;
   background: url('https://www.flaticon.com/svg/static/icons/svg/851/851337.svg') center center no-repeat;
+  background-size: contain;
 }
 
 .constructor__checklist-title--decor::after {
   position: absolute;
-  top: 0px;
+  top: -5px;
   left: -11px;
   content: '';
   width: 30px;
   height: 30px;
   background: url('https://www.flaticon.com/svg/static/icons/svg/2913/2913895.svg') center center no-repeat;
   background-size: contain;
+}
+
+@media (max-width: 372px) {
+  .constructor__checklist-title--berries::after {
+    left: 11px;
+  }
 }
 
 .constructor__extra-options {
