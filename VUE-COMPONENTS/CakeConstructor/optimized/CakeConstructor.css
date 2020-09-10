@@ -300,31 +300,31 @@ body {
 }
 
 .cake-layer--vanilla {
-    background: #e1d99a;
+    background: #d9ab5e;
 }
 
 .cake-layer--chococream {
-    background: #5c4e45;
+    background: #8a5742;
 }
 
 .cake-layer--chocolate {
-    background: #352e2b;
+    background: #3b2726;
 }
 
 .cake-layer--marble {
-    background: linear-gradient(90deg, #e1d99a 5%, #352e2b 50%);
+    background: linear-gradient(2deg, #d9ab5e 50%, #3b2726 60%);
 }
 
 .cake-layer--honey {
-    background: #b4ad5c;
+    background: #ee9d48;
 }
 
 .cake-layer--cheese {
-    background: #ffd4bb;
+    background: #fcf4b5;
 }
 
 .cake-layer--white {
-    background: #fcf8f1;
+    background: #f3f0e7;
 }
 
 .constructor__cake-cover {
@@ -379,27 +379,27 @@ body {
 }
 
 .cake-cover--white {
-    background: #fcf8f1;
+    background: #f3f0e7;
 }
 
 .cake-cover--chococream {
-    background: #5c4e45;
+    background: #8a5742;
 }
 
 .cake-cover--cheese {
-    background: #ffd4bb;
+    background: #fcf4b5;
 }
 
 .cake-topping--white {
-    background: #fff;
+    background: #f2f1ec;
 }
 
 .cake-topping--caramel {
-    background: #6d622c;
+    background: #e7af5a;
 }
 
 .cake-topping--maple {
-    background: #734120;
+    background: #d0802b;
 }
 
 .constructor__cake-top {

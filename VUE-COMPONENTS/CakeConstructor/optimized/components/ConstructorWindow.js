@@ -9,11 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div :class="'constructor__cake-top top--'+selectedProperties.tires" v-if="selectedProperties['taste'+selectedProperties.tires]">
                             <div class="constructor__cake-berries cake-berries--strawberry" v-if="selectedProperties['berries'].includes('Клубника')" ></div>  
                             <div class="constructor__cake-berries cake-berries--blackberry" v-if="selectedProperties['berries'].includes('Ежевика')"></div>
+                            <div class="constructor__cake-berries cake-berries--raspberry" v-if="selectedProperties['berries'].includes('Малина')"></div>
                             <div class="constructor__cake-berries cake-berries--blueberry" v-if="selectedProperties['berries'].includes('Голубика')"></div>
-                            <div class="constructor__cake-berries cake-berries--raspberry" v-if="selectedProperties['berries'].includes('Малина')"></div>  
                         </div>
-                    
-                        <ul v-for="number in selectedProperties.tires" :class="'constructor__cake-tire cake-tire--'+number" v-if="selectedProperties['taste'+number]">
+                        <ul v-for="number in selectedProperties.tires" :class="'constructor__cake-tire cake-tire--'+number" v-if="selectedProperties['taste'+number] && selectedProperties['filling'+number]">
                             <div class="constructor__cake-topping cake-topping--white" v-if="selectedProperties['topping'] === 'Белый соус'" ></div>  
                             <div class="constructor__cake-topping cake-topping--caramel" v-if="selectedProperties['topping'] === 'Карамельный сироп'"></div>  
                             <div class="constructor__cake-topping cake-topping--maple" v-if="selectedProperties['topping'] === 'Кленовый сироп'"></div>  
