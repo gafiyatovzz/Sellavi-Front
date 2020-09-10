@@ -14,7 +14,6 @@ body {
 .constructor {
   background: #f9c7c2;
   padding: 20px 0;
-  border-radius: 50px;
   width: 100%;
 }
 
@@ -136,16 +135,53 @@ body {
 }
 
 .constructor__checklist-title {
-  display: block;
+  position: relative;
+  display: inline-block;
+  padding-left: 25px;
   text-align: center;
   font-size: 16px;
   text-transform: uppercase;
+}
+
+.constructor__checklist-title--berries::after {
+  position: absolute;
+  top: 0px;
+  left: -11px;
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url('https://www.flaticon.com/svg/static/icons/svg/851/851337.svg') center center no-repeat;
+}
+
+.constructor__checklist-title--decor::after {
+  position: absolute;
+  top: 0px;
+  left: -11px;
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url('https://www.flaticon.com/svg/static/icons/svg/2913/2913895.svg') center center no-repeat;
+  background-size: contain;
 }
 
 .constructor__extra-options {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding: 10px 7px;
+  background-color: #f2877c;
+  box-shadow: 0 0 5px #807182;
+  border-radius: 10px;
+}
+
+@media (max-width: 714px) {
+  .constructor__extra-options {
+    margin-top: 15px;
+  }
+}
+
+.constructor__extra-options .constructor__subtitle {
+  margin: 7px;
 }
 
 .constructor__extra-options .constructor__selector-group:not(:last-child) {
@@ -463,6 +499,19 @@ body {
 
 .top--3 {
   width: 280px;
+}
+
+@media (max-width: 800px) {
+  .top--1 {
+    width: 100%;
+  }
+  .top--2 {
+    width: 80%;
+  }
+  .top--3 {
+    width: 60%;
+    transform: scale(0.9);
+  }
 }
 
 .constructor__cake-berries {
