@@ -143,9 +143,9 @@ body {
 }
 
 .constructor__extra-options {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .constructor__extra-options .constructor__selector-group:not(:last-child) {
@@ -180,11 +180,11 @@ body {
   border-radius: 4px;
 }
 
-.constructor__checklist-box:hover input ~ .custom-checkbox {
+.constructor__checklist-box:hover input~.custom-checkbox {
   background-color: #ccc;
 }
 
-.constructor__checklist-box input:checked ~ .custom-checkbox {
+.constructor__checklist-box input:checked~.custom-checkbox {
   background-color: #807182;
 }
 
@@ -194,7 +194,7 @@ body {
   display: none;
 }
 
-.constructor__checklist-box input:checked ~ .custom-checkbox:after {
+.constructor__checklist-box input:checked~.custom-checkbox:after {
   display: block;
 }
 
@@ -222,7 +222,6 @@ body {
   border-radius: 15px;
   box-shadow: 0 0 5px #807182;
   font-size: 18px;
-
   transition: all 0.2s linear;
 }
 
@@ -242,10 +241,10 @@ body {
     justify-content: space-between;
   }
 }
+
 .constructor__selector-option {
   text-align: center;
   padding: 7px;
-
   transition: all 0.1s linear;
   animation: options-item-appear 0.2s linear 1;
   animation-fill-mode: both;
@@ -257,51 +256,88 @@ body {
   user-select: none;
 }
 
+.constructor__window {
+  background-color: #fff;
+  box-shadow: 0 0 5px #807182;
+  border-radius: 10px;
+  width: 70%;
+  margin-top: 20px;
+  padding: 20px
+}
+
 .constructor__cake-tire {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    border-radius: 10px;
-    overflow: hidden;
-    position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
 }
 
 .constructor__cake {
-    display: flex;
-    flex-flow: column-reverse;
-    align-items: center;
+  display: flex;
+  flex-flow: column-reverse;
+  align-items: center;
 }
 
 .cake-tire--1 {
-    width: 500px;
-    margin: 0;
+  width: 500px;
+  margin: 0;
 }
 
 .cake-tire--2 {
-    width: 400px;
-    margin: 0;
+  width: 400px;
+  margin: 0;
 }
 
 .cake-tire--3 {
-    width: 300px;
-    margin: 0;
+  width: 300px;
+  margin: 0;
 }
 
 .constructor__cake-layer {
-    content: '';
-    height: 20px;
-    width: 100%;
-    animation: layer-appearance 0.3s linear 1;
-    animation-fill-mode: both;
+  content: '';
+  height: 20px;
+  width: 100%;
+  animation: layer-appearance 0.3s linear 1;
+  animation-fill-mode: both;
 }
 
 @keyframes layer-appearance {
-    0% {
-        height: 0;
-    }
-    100% {
-        height: 20px;
-    }
+  0% {
+    height: 0;
+  }
+  100% {
+    height: 20px;
+  }
+}
+
+@keyframes layer-appearance-adaptive {
+  0% {
+    height: 0;
+  }
+  100% {
+    height: 10px;
+  }
+}
+
+@media (max-width: 800px) {
+  .cake-tire--1 {
+    width: 100%;
+  }
+  .cake-tire--2 {
+    width: 80%;
+  }
+  .cake-tire--3 {
+    width: 60%;
+  }
+}
+
+@media (max-width: 600px) {
+  .constructor__cake-layer {
+    animation: layer-appearance-adaptive 0.3s linear 1;
+    height: 10px;
+  }
 }
 
 .cake-layer--vanilla {
@@ -333,54 +369,54 @@ body {
 }
 
 .constructor__cake-cover {
-    position: absolute;
-    width: 50%;
-    height: 100%;
-    animation: cover-appearance 0.2s linear 1;
-    animation-fill-mode: both;
-    z-index: 2;
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  animation: cover-appearance 0.2s linear 1;
+  animation-fill-mode: both;
+  z-index: 2;
 }
 
 .constructor__cake-topping {
-    position: absolute;
-    width: 50%;
-    height: 5%;
-    animation: cover-appearance 0.2s linear 1;
-    animation-fill-mode: both;
-    z-index: 3;
+  position: absolute;
+  width: 50%;
+  height: 5%;
+  animation: cover-appearance 0.2s linear 1;
+  animation-fill-mode: both;
+  z-index: 3;
 }
 
 @keyframes cover-appearance {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .constructor__cake-topping:after {
-    content: "";
-    display: block;
-    position: absolute;
-    border-radius: 50%;
-    width: 35%;
-    height: 150px;
-    background-color: inherit;
-    left: -18%;
-    top: -80px;
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  width: 35%;
+  height: 150px;
+  background-color: inherit;
+  left: -18%;
+  top: -80px;
 }
 
 .constructor__cake-topping:before {
-    content: "";
-    display: block;
-    position: absolute;
-    border-radius: 50%;
-    background-color: inherit;
-    right: 0px;
-    top: -30px;
-    height: 80px;
-    width: 85%;
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  background-color: inherit;
+  right: 0px;
+  top: -30px;
+  height: 80px;
+  width: 85%;
 }
 
 .cake-cover--white {
@@ -408,61 +444,61 @@ body {
 }
 
 .constructor__cake-top {
-     order: 1;
-     content: '';
-     height: 20px;
-     margin-bottom: -5px;
-     width: 100%;
-     position: relative;
-     z-index: 14;
- }
+  order: 1;
+  content: '';
+  height: 20px;
+  margin-bottom: -5px;
+  width: 100%;
+  position: relative;
+  z-index: 14;
+}
 
 .top--1 {
-    width: 480px;
+  width: 480px;
 }
 
 .top--2 {
-    width: 380px;
+  width: 380px;
 }
 
 .top--3 {
-    width: 280px;
+  width: 280px;
 }
 
 .constructor__cake-berries {
-    order: 1;
-    content: '';
-    height: 40px;
-    width: 94%;
-    position: absolute;
-    z-index: 1;
-    bottom: 2px;
-    border-radius: 20px;
-    margin: 0 -47%;
-    right: 50%;
+  order: 1;
+  content: '';
+  height: 40px;
+  width: 94%;
+  position: absolute;
+  z-index: 1;
+  bottom: 2px;
+  border-radius: 20px;
+  margin: 0 -47%;
+  right: 50%;
 }
 
 .cake-berries--strawberry {
-    background: url(https://i.ibb.co/YWHs7KF/image.png) repeat bottom/contain;
-    background-size: 150px;
-    bottom: 5px;
+  background: url(https://i.ibb.co/YWHs7KF/image.png) repeat bottom/contain;
+  background-size: 150px;
+  bottom: 5px;
 }
 
 .cake-berries--raspberry {
-    background: url(https://i.ibb.co/FwQJjYr/image.png) repeat bottom/contain;
-    background-size: 150px;
-    bottom: 3px;
-    border-radius: 10px;
+  background: url(https://i.ibb.co/FwQJjYr/image.png) repeat bottom/contain;
+  background-size: 150px;
+  bottom: 3px;
+  border-radius: 10px;
 }
 
 .cake-berries--blackberry {
-    background: url(https://i.ibb.co/Z1YK9Gc/image.png) repeat bottom/contain;
-    background-size: 150px;
-    bottom: 3px;
+  background: url(https://i.ibb.co/Z1YK9Gc/image.png) repeat bottom/contain;
+  background-size: 150px;
+  bottom: 3px;
 }
 
 .cake-berries--blueberry {
-    background: url(https://i.ibb.co/7kNr0hR/image.png) repeat bottom/contain;
-    background-size: 150px;
-    bottom: -2px;
+  background: url(https://i.ibb.co/7kNr0hR/image.png) repeat bottom/contain;
+  background-size: 150px;
+  bottom: -2px;
 }
