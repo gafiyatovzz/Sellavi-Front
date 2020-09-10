@@ -5,8 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         template: `
                 <div class="constructor__window">
+                    <h3 class="constructor__window-tile" v-if="selectedProperties.tires < 1 || !selectedProperties['taste1'] || !selectedProperties['filling1']">Тут появится ваш торт!</h3>
+                    <h3 class="constructor__window-tile window-title--opened" v-else>Примерно так будет выглядеть ваш торт)</h3>
                     <div class="constructor__cake"  v-if="selectedProperties.tires > 0 && selectedProperties['taste1'] && selectedProperties['filling1']">
-                        <div :class="'constructor__cake-top top--'+selectedProperties.tires" v-if="selectedProperties['taste'+selectedProperties.tires]">
+                        <div :class="'constructor__cake-top top--'+selectedProperties.tires" v-if="selectedProperties['taste'+selectedProperties.tires] && selectedProperties['filling'+selectedProperties.tires]">
                             <div class="constructor__cake-berries cake-berries--strawberry" v-if="selectedProperties['berries'].includes('Клубника')" ></div>  
                             <div class="constructor__cake-berries cake-berries--blackberry" v-if="selectedProperties['berries'].includes('Ежевика')"></div>
                             <div class="constructor__cake-berries cake-berries--raspberry" v-if="selectedProperties['berries'].includes('Малина')"></div>
