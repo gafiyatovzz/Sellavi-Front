@@ -61,6 +61,7 @@ body {
   position: relative;
   background-color: #fff;
   box-shadow: 0 0 5px #807182;
+  user-select: none;
 }
 
 .constructor__selector-options {
@@ -78,6 +79,7 @@ body {
   overflow: hidden;
   animation: options-list-appear 0.2s linear 1;
   animation-fill-mode: both;
+  user-select: none;
 }
 
 @keyframes options-list-appear {
@@ -121,6 +123,7 @@ body {
 .constructor__checklist-group {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
   margin-top: 20px;
   padding: 10px 10px 0px 10px;
   border-radius: 10px;
@@ -130,10 +133,6 @@ body {
 
 .constructor__checklist {
   flex: 0 0 40%;
-}
-
-.constructor__checklist-box:not(:last-child) {
-  margin-right: 15px;
 }
 
 .constructor__checklist-title {
@@ -235,6 +234,12 @@ body {
 @media (max-width: 474px) {
   .constructor__extra-options .constructor__selector-group:not(:last-child) {
     margin-right: 0px;
+  }
+}
+
+@media (max-width: 650px) {
+  .constructor__checklist-group {
+    justify-content: space-between;
   }
 }
 .constructor__selector-option {
