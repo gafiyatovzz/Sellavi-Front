@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             
                             <div class="constructor__checklist-container">
                                 <check-list :options="berries"
-                                    :title="'ягоды для украшения'"
+                                    :title="'ягоды'"
                                     :name="'berries'"
                                     @add-features="addFeatures"
                                 ></check-list>
