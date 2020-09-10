@@ -274,6 +274,27 @@ body {
   position: relative;
 }
 
+.constructor__cake-tire:before {
+  content: '';
+  height: 100%;
+  width: 20%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), transparent);
+  z-index: 15;
+}
+
+.constructor__cake-tire:after {
+  content: '';
+  height: 100%;
+  width: 20%;
+  top: 0;
+  right: 0;
+  position: absolute;
+  background: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.5));
+}
+
 .constructor__cake {
   display: flex;
   flex-flow: column-reverse;
@@ -420,15 +441,27 @@ body {
 }
 
 .cake-cover--white {
-    background: #f3f0e7;
+  background: #f3f0e7;
+  border-width: 4px 0 4px 4px;
+  border-color: #dbd4bd;
+  border-style: solid;
+  border-radius: 10px 0 0 10px;
 }
 
 .cake-cover--chococream {
-    background: #8a5742;
+  background: #8a5742;
+  border-width: 4px 0 4px 4px;
+  border-color: #6e493a;
+  border-style: solid;
+  border-radius: 10px 0 0 10px;
 }
 
 .cake-cover--cheese {
-    background: #fcf4b5;
+  background: #fcf4b5;
+  border-width: 4px 0 4px 4px;
+  border-color: #d7d098;
+  border-style: solid;
+  border-radius: 10px 0 0 10px;
 }
 
 .cake-topping--white {
@@ -476,6 +509,7 @@ body {
   border-radius: 20px;
   margin: 0 -47%;
   right: 50%;
+  animation: cover-appearance 0.2s linear 1;
 }
 
 .cake-berries--strawberry {
@@ -501,4 +535,15 @@ body {
   background: url(https://i.ibb.co/7kNr0hR/image.png) repeat bottom/contain;
   background-size: 150px;
   bottom: -2px;
+}
+
+.constructor__window-tile {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.window-title--opened {
+  margin-bottom: 20px;
 }
