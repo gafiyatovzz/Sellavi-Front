@@ -1,21 +1,21 @@
 document.addEventListener('DOMContentLoaded', () => {
-    return (Vue.component('constructor', {
-        props: ['price', 'tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors'],
-        methods: {
-            selectProperty(name, value){
-                this.$emit('select-property', name, value);
-            },
-            activateSelector(name){
-                this.$emit('activate-selector', name);
-            },
-            addFeatures(event, name){
-                this.$emit('add-features', event, name);
-            },
-            saveAndBuy() {
-                this.$emit('save-and-buy');
-            }
-        },
-        template: `
+  return (Vue.component('constructor', {
+    props: ['price', 'tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors'],
+    methods: {
+      selectProperty(name, value) {
+        this.$emit('select-property', name, value);
+      },
+      activateSelector(name) {
+        this.$emit('activate-selector', name);
+      },
+      addFeatures(event, name) {
+        this.$emit('add-features', event, name);
+      },
+      saveAndBuy() {
+        this.$emit('save-and-buy');
+      }
+    },
+    template: `
                 <div class="constructor">
                     <h2 class="constructor__title">Собери свой собственный торт!</h2>
                     <div class="constructor__container">
@@ -94,5 +94,5 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `
 
-    }))
+  }))
 });

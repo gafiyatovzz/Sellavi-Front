@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
-    return (Vue.component('constructor-window', {
-        props: ['selectedProperties'],
-        methods: {
-        },
-        template: `
+  return (Vue.component('constructor-window', {
+    props: ['selectedProperties'],
+    methods: {
+    },
+    template: `
                 <div class="constructor__window">
                     <h3 class="constructor__window-tile" v-if="selectedProperties.tires < 1 || !selectedProperties['taste1'] || !selectedProperties['filling1']">Тут появится ваш торт!</h3>
                     <h3 class="constructor__window-tile window-title--opened" v-else>Примерно так будет выглядеть ваш торт)</h3>
@@ -47,5 +47,5 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 </div>
             `
-    }))
+  }))
 });
