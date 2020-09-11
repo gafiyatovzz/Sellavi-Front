@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <label class="constructor__checklist-box" v-for="option of options">
                             <span class="constructor__description">{{option}}</span>
                             <input class="constructor__checkbox" type="checkbox" :value="option" @change="addFeatures($event, name)">
-                            <span class="custom-checkbox"></span>
+                            <span class="constructor__custom-checkbox"></span>
                         </label>
                     </div>
                 </div>
