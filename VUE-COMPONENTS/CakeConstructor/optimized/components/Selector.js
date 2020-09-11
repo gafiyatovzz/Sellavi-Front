@@ -1,15 +1,15 @@
 document.addEventListener('DOMContentLoaded', () => {
-        return (Vue.component('selector', {
-            props: ['activeSelectors', 'name', 'title', 'options', 'selectedProperties'],
-            methods: {
-                selectProperty(name, value){
-                    this.$emit('select-property', name, value);
-                },
-                activateSelector(name){
-                    this.$emit('activate-selector', name);
-                },
-            },
-            template: `
+  return (Vue.component('selector', {
+    props: ['activeSelectors', 'name', 'title', 'options', 'selectedProperties'],
+    methods: {
+      selectProperty(name, value) {
+        this.$emit('select-property', name, value);
+      },
+      activateSelector(name) {
+        this.$emit('activate-selector', name);
+      },
+    },
+    template: `
                 <div class="constructor__selector">
                     <h3 class="constructor__subtitle">{{title}}</h3>
                     <div class="constructor__selector-area">
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 </div>
             `
-        }))
+  }))
 });
 
 
