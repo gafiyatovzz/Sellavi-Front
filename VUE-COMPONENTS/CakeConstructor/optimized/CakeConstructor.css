@@ -223,7 +223,7 @@ body {
   width: 0px;
 }
 
-.custom-checkbox {
+.constructor__custom-checkbox {
   position: absolute;
   top: 0;
   left: 0;
@@ -233,25 +233,25 @@ body {
   border-radius: 4px;
 }
 
-.constructor__checklist-box:hover input~.custom-checkbox {
+.constructor__checklist-box:hover input~.constructor__custom-checkbox {
   background-color: #ccc;
 }
 
-.constructor__checklist-box input:checked~.custom-checkbox {
+.constructor__checklist-box input:checked~.constructor__custom-checkbox {
   background-color: #807182;
 }
 
-.custom-checkbox:after {
+.constructor__custom-checkbox:after {
   content: "";
   position: absolute;
   display: none;
 }
 
-.constructor__checklist-box input:checked~.custom-checkbox:after {
+.constructor__checklist-box input:checked~.constructor__custom-checkbox:after {
   display: block;
 }
 
-.constructor__checklist-box .custom-checkbox:after {
+.constructor__checklist-box .constructor__custom-checkbox:after {
   left: 6px;
   top: 2px;
   width: 5px;
