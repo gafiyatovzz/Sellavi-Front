@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
         render() {
           return (
             <div className="App">
-              {this.state.data}
+              <h1>{this.state.data}</h1>
             </div>
           )
         }
