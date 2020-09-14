@@ -335,7 +335,7 @@ body {
   left: 0;
   position: absolute;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), transparent);
-  z-index: 15;
+  z-index: 17;
 }
 
 .constructor__cake-tire:after {
@@ -346,6 +346,7 @@ body {
   right: 0;
   position: absolute;
   background: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.5));
+  z-index: 17;
 }
 
 .constructor__cake {
@@ -579,26 +580,26 @@ body {
 }
 
 .cake-berries--strawberry {
-  background: url(https://i.ibb.co/YWHs7KF/image.png) repeat bottom/contain;
+  background: url(https://i.ibb.co/J2WP10j/image.png) repeat bottom/contain;
   background-size: 150px;
   bottom: 5px;
 }
 
 .cake-berries--raspberry {
-  background: url(https://i.ibb.co/FwQJjYr/image.png) repeat bottom/contain;
+  background: url(https://i.ibb.co/tBpDzDr/image.png) repeat bottom/contain;
   background-size: 150px;
   bottom: 3px;
   border-radius: 10px;
 }
 
 .cake-berries--blackberry {
-  background: url(https://i.ibb.co/Z1YK9Gc/image.png) repeat bottom/contain;
+  background: url(https://i.ibb.co/Tt1rPnK/image.png) repeat bottom/contain;
   background-size: 150px;
   bottom: 3px;
 }
 
 .cake-berries--blueberry {
-  background: url(https://i.ibb.co/7kNr0hR/image.png) repeat bottom/contain;
+  background: url(https://i.ibb.co/7RPX90f/image.png) repeat bottom/contain;
   background-size: 150px;
   bottom: -2px;
 }
@@ -611,5 +612,30 @@ body {
 }
 
 .window-title--opened {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.constructor__cake-decor {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 16;
+  animation: cover-appearance 0.2s linear 1;
+  animation-fill-mode: both;
+}
+
+.cake-topping--marshmello {
+  background: url(https://i.ibb.co/bNL9cSm/marshmello.png) repeat center/contain;
+}
+
+.cake-topping--merengue {
+  background: url(https://i.ibb.co/NjvrTcj/merengue.png) repeat center/contain;
+}
+
+.cake-topping--chocolate {
+  background: url(https://i.ibb.co/g3GpknS/chocolate-chips.png) repeat center/contain;
+}
+
+.cake-topping--cookies {
+  background: url(https://i.ibb.co/HCY8Qfg/cookies.png) repeat center/contain;
 }

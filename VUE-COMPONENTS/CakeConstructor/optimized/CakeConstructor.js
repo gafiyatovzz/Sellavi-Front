@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         decors: ['Безе', 'Маршмеллоу', 'Шоколадная стружка', 'Фигурное печенье'],
         decorPrice: 300,
         activeSelectors: [],
-        selectedProperties: { tires: 0, form: '', cover: '', topping: '', berries: [], decors: [], taste1: '', filling1: '', taste2: '', filling2: '', taste3: '', filling3: '' },
+        selectedProperties: { tires: 0, form: '', cover: '', topping: '', berries: [], decor: [], taste1: '', filling1: '', taste2: '', filling2: '', taste3: '', filling3: '' },
       },
       methods: {
         activateSelector(name) {
