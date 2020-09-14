@@ -16,6 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <div v-else class="constructor__cake-top top--disabled"></div>
                         <ul v-for="number in selectedProperties.tires" :class="'constructor__cake-tire cake-tire--'+number" v-if="selectedProperties['taste'+number] && selectedProperties['filling'+number]">
+                            <div class="constructor__cake-decor cake-topping--chocolate" v-if="selectedProperties['decor'].includes('Шоколадная стружка')"></div>
+                            <div class="constructor__cake-decor cake-topping--cookies" v-if="selectedProperties['decor'].includes('Фигурное печенье')"></div>
+                            <div class="constructor__cake-decor cake-topping--marshmello" v-if="selectedProperties['decor'].includes('Маршмеллоу')"></div>
+                            <div class="constructor__cake-decor cake-topping--merengue" v-if="selectedProperties['decor'].includes('Безе')"></div>
+                            
+                            
                             <div class="constructor__cake-topping cake-topping--white" v-if="selectedProperties['topping'] === 'Белый соус'" ></div>  
                             <div class="constructor__cake-topping cake-topping--caramel" v-if="selectedProperties['topping'] === 'Карамельный сироп'"></div>  
                             <div class="constructor__cake-topping cake-topping--maple" v-if="selectedProperties['topping'] === 'Кленовый сироп'"></div>  
