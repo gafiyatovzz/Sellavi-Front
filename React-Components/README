@@ -1,0 +1,35 @@
+// Подключаем бабель, реакт и реакт-дом
+
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+
+// создаем на странице рутовый элемент, куда будет собираться головной компонент App
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const root = document.createElement('div');
+    root.setAttribute('id', 'root');
+
+    document.querySelector("#home > div.wrapper.wrapper-closed > div.content-area > section").append(root);
+  });
+</script>
+
+// сам компонент - в теге скрип лучше прописать дефер, хотя и работает без него, надо тестить
+<script type="text/babel" defer>
+      class App extends React.Component {
+        state = {
+          data: 'hello React!',
+        }
+
+        render() {
+          return (
+            <div className="App">
+              {this.state.data}
+            </div>
+          )
+        }
+      }
+
+      ReactDOM.render(<App />, document.querySelector('#root'));
+</script>
+
