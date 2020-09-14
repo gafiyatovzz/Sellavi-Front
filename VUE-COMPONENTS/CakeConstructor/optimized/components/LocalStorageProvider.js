@@ -23,9 +23,11 @@ document.addEventListener("DOMContentLoaded", () => {
       const optionsContainer = document.querySelectorAll('div.form-group.option-group');
 
       optionsContainer.forEach((container) => {
-        const childDiv = Array.from(container.children)[1];
+        const children = Array.from(container.children);
 
-        if (childDiv.classList.contains('dropdown')) {
+        const isSelect = children.some((child) => child.classList.contains('dropdown'));
+
+        if (isSelect) {
           container.classList.add('select-container');
         } else {
           container.classList.add('checkbox-container');
