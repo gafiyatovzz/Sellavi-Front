@@ -91,7 +91,7 @@ body {
     opacity: 0;
   }
   100% {
-    opacity: auto;
+    opacity: 1;
   }
 }
 

@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div class="constructor__cake-berries cake-berries--raspberry" v-if="selectedProperties['berries'].includes('Малина')"></div>
                             <div class="constructor__cake-berries cake-berries--blueberry" v-if="selectedProperties['berries'].includes('Голубика')"></div>
                         </div>
+                        <div v-else class="constructor__cake-top top--disabled"></div>
                         <ul v-for="number in selectedProperties.tires" :class="'constructor__cake-tire cake-tire--'+number" v-if="selectedProperties['taste'+number] && selectedProperties['filling'+number]">
                             <div class="constructor__cake-topping cake-topping--white" v-if="selectedProperties['topping'] === 'Белый соус'" ></div>  
                             <div class="constructor__cake-topping cake-topping--caramel" v-if="selectedProperties['topping'] === 'Карамельный сироп'"></div>  
@@ -29,19 +30,19 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div class="constructor__cake-cover cake-cover--cheese" v-if="selectedProperties['cover'] === 'Крем-чиз'"></div>  
                             <li v-for="layer in 4">
                                 <div v-if="selectedProperties['taste'+number] === 'Шоколад'" class="constructor__cake-layer cake-layer--chocolate"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Ваниль'" class="constructor__cake-layer cake-layer--vanilla"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Мраморный'" class="constructor__cake-layer cake-layer--marble"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Медовый'" class="constructor__cake-layer cake-layer--honey"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Ваниль'" class="constructor__cake-layer cake-layer--vanilla"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Мраморный'" class="constructor__cake-layer cake-layer--marble"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Медовый'" class="constructor__cake-layer cake-layer--honey"></div>
                                 
                                 <div v-if="selectedProperties['filling'+number] === 'Белый крем'" class="constructor__cake-layer cake-layer--white"></div>
-                                <div v-if="selectedProperties['filling'+number] === 'Шоколадный крем'" class="constructor__cake-layer cake-layer--chococream"></div>
-                                <div v-if="selectedProperties['filling'+number] === 'Крем-чиз'" class="constructor__cake-layer cake-layer--cheese"></div>
+                                <div v-else-if="selectedProperties['filling'+number] === 'Шоколадный крем'" class="constructor__cake-layer cake-layer--chococream"></div>
+                                <div v-else-if="selectedProperties['filling'+number] === 'Крем-чиз'" class="constructor__cake-layer cake-layer--cheese"></div>
                             </li>
                             <li>
                                 <div v-if="selectedProperties['taste'+number] === 'Шоколад'" class="constructor__cake-layer cake-layer--chocolate"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Ваниль'" class="constructor__cake-layer cake-layer--vanilla"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Мраморный'" class="constructor__cake-layer cake-layer--marble"></div>
-                                <div v-if="selectedProperties['taste'+number] === 'Медовый'" class="constructor__cake-layer cake-layer--honey"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Ваниль'" class="constructor__cake-layer cake-layer--vanilla"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Мраморный'" class="constructor__cake-layer cake-layer--marble"></div>
+                                <div v-else-if="selectedProperties['taste'+number] === 'Медовый'" class="constructor__cake-layer cake-layer--honey"></div>
                             </li>
                         </ul>
                     </div>
@@ -49,3 +50,5 @@ document.addEventListener('DOMContentLoaded', () => {
             `
   }))
 });
+
+
