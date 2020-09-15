@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         decors: ['Безе', 'Маршмеллоу', 'Шоколадная стружка', 'Фигурное печенье'],
         decorPrice: 300,
         activeSelectors: [],
-        selectedProperties: { price: 500, tires: 0, form: '', cover: '', topping: '', berries: [], decor: [], taste1: '', filling1: '', taste2: '', filling2: '', taste3: '', filling3: '' },
+        selectedProperties: { price: this.price, tires: {name: 0, price: 0}, form: {name: '', price: 0}, cover: {name: '', price: 0}, topping: {name: '', price: 0}, berries: [], decor: [], taste1: {name: '', price: 0}, filling1: {name: '', price: 0}, taste2: {name: '', price: 0}, filling2: {name: '', price: 0}, taste3: {name: '', price: 0}, filling3: {name: '', price: 0} },
       },
       methods: {
         activateSelector(name) {
@@ -28,23 +28,34 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         },
         selectProperty(payload) {
-          this.selectedProperties.price += payload.price;
-          console.log(this.selectedProperties.price);
-          this.selectedProperties[payload.name] = payload.value;
+          if (!this.selectedProperties[payload.name].name) {
+            this.selectedProperties.price += payload.price;
+          } else {
+
+            this.selectedProperties.price -= this.selectedProperties[payload.name].price;
+            this.selectedProperties.price += payload.price;
+          }
+
+
+          this.selectedProperties[payload.name].name = payload.value;
+          this.selectedProperties[payload.name].price = payload.price;
           this.activeSelectors.splice(this.activeSelectors.indexOf(payload.name), 1);
         },
-        addFeatures(event, name) {
-          if (!this.selectedProperties[name]) {
-            this.selectedProperties[name] = [];
+        addFeatures(payload) {
+          if (!this.selectedProperties[payload.name]) {
+            this.selectedProperties[payload.name] = [];
           }
-          if (event.target.checked || !this.selectedProperties[name].includes(event.target.value)) {
-            this.selectedProperties[name] = [...this.selectedProperties[name], event.target.value];
+          if (payload.event.target.checked || !this.selectedProperties[payload.name].includes(payload.event.target.value)) {
+            this.selectedProperties[payload.name] = [...this.selectedProperties[payload.name], payload.event.target.value];
+            this.selectedProperties.price += payload.price
           } else {
-            this.selectedProperties[name] ? this.selectedProperties[name].splice(this.selectedProperties[name].indexOf(event.target.value), 1) : null;
+            this.selectedProperties[payload.name] ? this.selectedProperties[payload.name].splice(this.selectedProperties[payload.name].indexOf(payload.event.target.value), 1) : null;
+            this.selectedProperties.price -= payload.price
           }
         },
         saveAndBuy() {
           localStorage.clear();
+          let newPrice = this.price;
           const cakeInfo = JSON.stringify(this.selectedProperties);
           localStorage.setItem("cake", cakeInfo);
           const itemHref = `/cake-${this.selectedProperties.tires}/`;

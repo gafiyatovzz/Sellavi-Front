@@ -11,9 +11,10 @@ document.addEventListener('DOMContentLoaded', () => {
     ':berries="berries" ' +
     ':decors="decors"' +
     ':active-selectors="activeSelectors"' +
+    ':berrie-price="berriePrice"' +
+    ':decor-price="decorPrice"' +
     '@select-property="selectProperty"' +
     '@activate-selector="activateSelector"' +
     '@add-features="addFeatures"' +
     '@save-and-buy="saveAndBuy"></constructor>'
-
 });

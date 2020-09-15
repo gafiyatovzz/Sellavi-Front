@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
       activateSelector(name) {
         this.$emit('activate-selector', name);
       },
-      addFeatures(event, name) {
-        this.$emit('add-features', event, name);
+      addFeatures(payload) {
+        this.$emit('add-features', payload);
       },
       saveAndBuy() {
         this.$emit('save-and-buy');
@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                     @select-property="selectProperty"
                                     @activate-selector="activateSelector"
                                 ></selector>
-                                <div class="constructor__extra-options" v-if="selectedProperties.tires">
-                                <div class="constructor__selector-group" v-for="n in selectedProperties.tires">
+                                <div class="constructor__extra-options" v-if="selectedProperties.tires.name">
+                                <div class="constructor__selector-group" v-for="n in selectedProperties.tires.name">
                                     <selector :active-selectors="activeSelectors"
                                         :name="'taste'+n"
                                         :title="'вкус яруса '+n"
@@ -79,11 +79,13 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <check-list :options="berries"
                                     :title="'ягоды'"
                                     :name="'berries'"
+                                    :price="berriePrice"
                                     @add-features="addFeatures"
                                 ></check-list>
                                 <check-list :options="decors"
                                     :title="'декор'"
                                     :name="'decor'"
+                                    :price="decorPrice"
                                     @add-features="addFeatures"
                                 ></check-list>
                             </div>
