@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const root = document.querySelector('.custom_section');
-  root.innerHTML = '<constructor :price="price" ' +
+  root.innerHTML = '<constructor ' +
     ':tiers-structures="tiersStructures" ' +
     ':tastes="tastes" ' +
     ':fillings="fillings" ' +
