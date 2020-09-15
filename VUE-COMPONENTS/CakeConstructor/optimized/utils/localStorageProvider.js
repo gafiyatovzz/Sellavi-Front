@@ -49,7 +49,14 @@ document.addEventListener("DOMContentLoaded", () => {
     setTimeout(function () {
 
       const cakeImage = cakeConfig.image;
-      const imageContainer = document.querySelector('.pz_zoomer_wrapper.zoomHolder');
+
+      let imageContainer;
+      if (screen.width > 768) {
+        imageContainer = document.querySelector('.pz_zoomer_wrapper.zoomHolder');
+      } else {
+        imageContainer = document.querySelector('div.item.only_thumb.no_images');
+      }
+
       imageContainer.classList.add('cake-image__container');
       imageContainer.innerHTML = cakeImage;
 
