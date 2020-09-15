@@ -2,8 +2,9 @@ document.addEventListener('DOMContentLoaded', () => {
   return (Vue.component('selector', {
     props: ['activeSelectors', 'name', 'title', 'options', 'selectedProperties'],
     methods: {
-      selectProperty(name, value) {
-        this.$emit('select-property', name, value);
+      selectProperty(name, value, price) {
+        const payload = {name: name, value: value, price: price}
+        this.$emit('select-property', payload);
       },
       activateSelector(name) {
         this.$emit('activate-selector', name);
@@ -22,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <ul class="constructor__selector-options" v-if="activeSelectors.includes(name)">
                             <li class="constructor__selector-option" 
                                 v-for="option of options" 
-                                @click="selectProperty(name, option.type)"
+                                @click="selectProperty(name, option.type, option.extraPrice)"
                             >{{option.type}}</li>
                         </ul>
                     </div>

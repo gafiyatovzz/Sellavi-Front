@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
   return (Vue.component('constructor', {
-    props: ['price', 'tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors'],
+    props: ['tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors'],
     methods: {
-      selectProperty(name, value) {
-        this.$emit('select-property', name, value);
+      selectProperty(payload) {
+        this.$emit('select-property', payload);
       },
       activateSelector(name) {
         this.$emit('activate-selector', name);

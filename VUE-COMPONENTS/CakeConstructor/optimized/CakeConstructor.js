@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         decors: ['Безе', 'Маршмеллоу', 'Шоколадная стружка', 'Фигурное печенье'],
         decorPrice: 300,
         activeSelectors: [],
-        selectedProperties: { tires: 0, form: '', cover: '', topping: '', berries: [], decor: [], taste1: '', filling1: '', taste2: '', filling2: '', taste3: '', filling3: '' },
+        selectedProperties: { price: 500, tires: 0, form: '', cover: '', topping: '', berries: [], decor: [], taste1: '', filling1: '', taste2: '', filling2: '', taste3: '', filling3: '' },
       },
       methods: {
         activateSelector(name) {
@@ -27,9 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
             this.activeSelectors.push(name);
           }
         },
-        selectProperty(name, value) {
-          this.selectedProperties[name] = value;
-          this.activeSelectors.splice(this.activeSelectors.indexOf(name), 1);
+        selectProperty(payload) {
+          this.selectedProperties.price += payload.price;
+          console.log(this.selectedProperties.price);
+          this.selectedProperties[payload.name] = payload.value;
+          this.activeSelectors.splice(this.activeSelectors.indexOf(payload.name), 1);
         },
         addFeatures(event, name) {
           if (!this.selectedProperties[name]) {
@@ -42,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         },
         saveAndBuy() {
+          localStorage.clear();
           const cakeInfo = JSON.stringify(this.selectedProperties);
           localStorage.setItem("cake", cakeInfo);
           const itemHref = `/cake-${this.selectedProperties.tires}/`;
