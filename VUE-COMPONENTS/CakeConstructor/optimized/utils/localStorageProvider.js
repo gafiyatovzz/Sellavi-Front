@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (productPage) {
 
-    setTimeout(function () {
       const cakeConfig = JSON.parse(localStorage.cake);
 
       const cakeConfigMap = {
@@ -19,6 +18,22 @@ document.addEventListener("DOMContentLoaded", () => {
         'ягоды': 'berries',
         'декор': 'decor',
       };
+
+      const configPrice = String(cakeConfig.price).split('');
+      configPrice[0] = `${configPrice[0]} `;
+      const newPrice = `${configPrice.join('')}.00 ₽`;
+             
+      const priceContainer = document.querySelector('.product-price');
+      priceContainer.innerText = newPrice;
+
+       priceContainer.style.opacity = '1';
+
+    setTimeout(function () {
+      
+      const cakeImage = cakeConfig.image;
+      const imageContainer = document.querySelector('.pz_zoomer_wrapper.zoomHolder'); 
+      imageContainer.classList.add('cake-image__container');     
+      imageContainer.innerHTML = cakeImage;
 
       const optionsContainer = document.querySelectorAll('div.form-group.option-group');
 
@@ -46,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
       selects.forEach((select) => {
         const selectTitle = select.querySelector('label').innerText.toLowerCase();
         const key = cakeConfigMap[selectTitle];
-        const optionValue = cakeConfig[key];
+        const optionValue = cakeConfig[key].name;
 
         const selectOptionsList = Array.from(select.querySelector('ul').children);
 
@@ -80,6 +95,6 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
-    }, 500);
+    }, 800);
   }
 });

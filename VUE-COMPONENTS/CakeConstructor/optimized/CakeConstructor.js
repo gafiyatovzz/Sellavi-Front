@@ -57,6 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
           localStorage.clear();
           const cakeContainer = document.querySelector('.constructor__cake').cloneNode(true);
           this.selectedProperties.image = cakeContainer.innerHTML;
+
           const cakeInfo = JSON.stringify(this.selectedProperties);
           localStorage.setItem("cake", cakeInfo);
           const itemHref = `/cake-${this.selectedProperties.tires.name}/`;
