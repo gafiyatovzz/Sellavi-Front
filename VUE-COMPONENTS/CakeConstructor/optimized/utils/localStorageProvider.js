@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const stringNum = String(num);
     const numColletion = stringNum.split('').reverse();
 
-    numColletion.map((num, index) => {
+   const formattedPrice = numColletion.map((num, index) => {
 
       const padding = ' ';
       const lastChar = stringNum.length;
@@ -16,9 +16,9 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       return num;
-    });
+    }).reverse().join('');
 
-    return `${numColletion.reverse().join('')}.00 ₽`;
+    return `${formattedPrice}.00 ₽`;
   };
 
 
