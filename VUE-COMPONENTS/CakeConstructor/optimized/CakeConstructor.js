@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         decors: ['Безе', 'Маршмеллоу', 'Шоколадная стружка', 'Фигурное печенье'],
         decorPrice: 300,
         activeSelectors: [],
-        selectedProperties: { price: this.price, tires: {name: 0, price: 0}, form: {name: '', price: 0}, cover: {name: '', price: 0}, topping: {name: '', price: 0}, berries: [], decor: [], taste1: {name: '', price: 0}, filling1: {name: '', price: 0}, taste2: {name: '', price: 0}, filling2: {name: '', price: 0}, taste3: {name: '', price: 0}, filling3: {name: '', price: 0} },
+        selectedProperties: { price: 500, tires: {name: 0, price: 0}, form: {name: '', price: 0}, cover: {name: '', price: 0}, topping: {name: '', price: 0}, berries: [], decor: [], taste1: {name: '', price: 0}, filling1: {name: '', price: 0}, taste2: {name: '', price: 0}, filling2: {name: '', price: 0}, taste3: {name: '', price: 0}, filling3: {name: '', price: 0} },
       },
       methods: {
         activateSelector(name) {
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
           let newPrice = this.price;
           const cakeInfo = JSON.stringify(this.selectedProperties);
           localStorage.setItem("cake", cakeInfo);
-          const itemHref = `/cake-${this.selectedProperties.tires}/`;
+          const itemHref = `/cake-${this.selectedProperties.tires.name}/`;
           window.location = itemHref;
         }
       },
