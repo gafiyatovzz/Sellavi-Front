@@ -55,8 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         saveAndBuy() {
           localStorage.clear();
-          const cakeContainer = document.querySelector('.constructor__window').cloneNode(true);
-          cakeContainer.firstElementChild.remove();
+          const cakeContainer = document.querySelector('.constructor__cake').cloneNode(true);
           this.selectedProperties.image = cakeContainer.innerHTML;
           const cakeInfo = JSON.stringify(this.selectedProperties);
           localStorage.setItem("cake", cakeInfo);
