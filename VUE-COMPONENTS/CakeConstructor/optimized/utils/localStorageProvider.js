@@ -1,12 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
   
-  const makePricePadding = (num) => {
-    const numColletion = num.split('').reverse();
+  const formatPrice = (num) => {
+    const stringNum = String(num);
+    const numColletion = stringNum.split('').reverse();
 
     numColletion.map((num, index) => {
 
       const padding = ' ';
-      const lastChar = x.length;
+      const lastChar = stringNum.length;
       const numOrder = index + 1;
       const needPadding = numOrder % 3 === 0;
 
@@ -17,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
       return num;
     });
 
-    return numColletion.reverse().join('');
+    return `${numColletion.reverse().join('')}.00 ₽`;
   };
 
 
@@ -42,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     const priceContainer = document.querySelector('.product-price');
-    priceContainer.innerText = makePricePadding(cakeConfig.price);
+    priceContainer.innerText = formatPrice(cakeConfig.price);
 
     priceContainer.style.opacity = '1';
 
