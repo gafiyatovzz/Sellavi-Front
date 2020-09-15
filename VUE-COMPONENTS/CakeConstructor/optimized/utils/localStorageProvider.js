@@ -1,38 +1,56 @@
 document.addEventListener("DOMContentLoaded", () => {
+  
+  const makePricePadding = (num) => {
+    const numColletion = num.split('').reverse();
+
+    numColletion.map((num, index) => {
+
+      const padding = ' ';
+      const lastChar = x.length;
+      const numOrder = index + 1;
+      const needPadding = numOrder % 3 === 0;
+
+      if (needPadding && numOrder !== lastChar) {
+        return `${padding}${num}`;
+      }
+
+      return num;
+    });
+
+    return numColletion.reverse().join('');
+  };
+
+
   const productPage = document.querySelector('.row.product-single.product-item');
 
   if (productPage) {
 
-      const cakeConfig = JSON.parse(localStorage.cake);
+    const cakeConfig = JSON.parse(localStorage.cake);
 
-      const cakeConfigMap = {
-        'форма уровней': 'form',
-        'основа 1-го уровня': 'taste1',
-        'основа 2-го уровня': 'taste2',
-        'основа 3-го уровня': 'taste3',
-        'начинка 1-го уровня': 'filling1',
-        'начинка 2-го уровня': 'filling2',
-        'начинка 3-го уровня': 'filling3',
-        'покрытие': 'cover',
-        'топпинг': 'topping',
-        'ягоды': 'berries',
-        'декор': 'decor',
-      };
+    const cakeConfigMap = {
+      'форма уровней': 'form',
+      'основа 1-го уровня': 'taste1',
+      'основа 2-го уровня': 'taste2',
+      'основа 3-го уровня': 'taste3',
+      'начинка 1-го уровня': 'filling1',
+      'начинка 2-го уровня': 'filling2',
+      'начинка 3-го уровня': 'filling3',
+      'покрытие': 'cover',
+      'топпинг': 'topping',
+      'ягоды': 'berries',
+      'декор': 'decor',
+    };
 
-      const configPrice = String(cakeConfig.price).split('');
-      configPrice[0] = `${configPrice[0]} `;
-      const newPrice = `${configPrice.join('')}.00 ₽`;
-             
-      const priceContainer = document.querySelector('.product-price');
-      priceContainer.innerText = newPrice;
+    const priceContainer = document.querySelector('.product-price');
+    priceContainer.innerText = makePricePadding(cakeConfig.price);
 
-       priceContainer.style.opacity = '1';
+    priceContainer.style.opacity = '1';
 
     setTimeout(function () {
-      
+
       const cakeImage = cakeConfig.image;
-      const imageContainer = document.querySelector('.pz_zoomer_wrapper.zoomHolder'); 
-      imageContainer.classList.add('cake-image__container');     
+      const imageContainer = document.querySelector('.pz_zoomer_wrapper.zoomHolder');
+      imageContainer.classList.add('cake-image__container');
       imageContainer.innerHTML = cakeImage;
 
       const optionsContainer = document.querySelectorAll('div.form-group.option-group');
