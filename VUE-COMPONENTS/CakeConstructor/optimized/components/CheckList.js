@@ -1,9 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     return (Vue.component('check-list', {
-        props: ['name', 'title', 'options'],
+        props: ['name', 'title', 'options', 'price'],
         methods: {
-            addFeatures(event, name){
-                this.$emit('add-features', event, name);
+            addFeatures(event, name, price){
+                const payload = {event: event, name: name, price: price};
+                this.$emit('add-features', payload);
             },
         },
         template: `
@@ -17,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="constructor__checklist-group">
                         <label class="constructor__checklist-box" v-for="option of options">
                             <span class="constructor__description">{{option}}</span>
-                            <input class="constructor__checkbox" type="checkbox" :value="option" @change="addFeatures($event, name)">
+                            <input class="constructor__checkbox" type="checkbox" :value="option" @change="addFeatures($event, name, price)">
                             <span class="constructor__custom-checkbox"></span>
                         </label>
                     </div>
