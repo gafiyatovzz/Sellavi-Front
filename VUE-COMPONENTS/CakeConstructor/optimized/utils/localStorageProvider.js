@@ -3,22 +3,32 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (productPage) {
 
-    setTimeout(function () {
-      const cakeConfig = JSON.parse(localStorage.cake);
+    const cakeConfig = JSON.parse(localStorage.cake);
 
-      const cakeConfigMap = {
-        'форма уровней': 'form',
-        'основа 1-го уровня': 'taste1',
-        'основа 2-го уровня': 'taste2',
-        'основа 3-го уровня': 'taste3',
-        'начинка 1-го уровня': 'filling1',
-        'начинка 2-го уровня': 'filling2',
-        'начинка 3-го уровня': 'filling3',
-        'покрытие': 'cover',
-        'топпинг': 'topping',
-        'ягоды': 'berries',
-        'декор': 'decor',
-      };
+    const cakeConfigMap = {
+      'форма уровней': 'form',
+      'основа 1-го уровня': 'taste1',
+      'основа 2-го уровня': 'taste2',
+      'основа 3-го уровня': 'taste3',
+      'начинка 1-го уровня': 'filling1',
+      'начинка 2-го уровня': 'filling2',
+      'начинка 3-го уровня': 'filling3',
+      'покрытие': 'cover',
+      'топпинг': 'topping',
+      'ягоды': 'berries',
+      'декор': 'decor',
+    };
+
+    const configPrice = String(cakeConfig.price).split('');
+    configPrice[0] = `${configPrice[0]} `;
+    const newPrice = `${configPrice.join('')}.00 ₽`;
+
+    const priceContainer = document.querySelector('.product-price');
+    priceContainer.innerText = newPrice;
+
+    priceContainer.style.opacity = '1';
+
+    setTimeout(function () {
 
       const optionsContainer = document.querySelectorAll('div.form-group.option-group');
 
@@ -46,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
       selects.forEach((select) => {
         const selectTitle = select.querySelector('label').innerText.toLowerCase();
         const key = cakeConfigMap[selectTitle];
-        const optionValue = cakeConfig[key];
+        const optionValue = cakeConfig[key].name;
 
         const selectOptionsList = Array.from(select.querySelector('ul').children);
 
@@ -80,6 +90,6 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
-    }, 500);
+    }, 700);
   }
 });
