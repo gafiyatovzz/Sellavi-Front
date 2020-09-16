@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         activeSelectors: [],
         selectedProperties: { price: 500, tires: {name: 0, price: 0}, form: {name: '', price: 0}, cover: {name: '', price: 0}, topping: {name: '', price: 0}, berries: [], decor: [], taste1: {name: '', price: 0}, filling1: {name: '', price: 0}, taste2: {name: '', price: 0}, filling2: {name: '', price: 0}, taste3: {name: '', price: 0}, filling3: {name: '', price: 0}, image: ''},
         alertShowing: false,
+        orderDisabled: true,
       },
       methods: {
         activateSelector(name) {
@@ -37,10 +38,25 @@ document.addEventListener('DOMContentLoaded', () => {
             this.selectedProperties.price += payload.price;
           }
 
-
           this.selectedProperties[payload.name].name = payload.value;
           this.selectedProperties[payload.name].price = payload.price;
           this.activeSelectors.splice(this.activeSelectors.indexOf(payload.name), 1);
+          if (this.selectedProperties.tires.name && this.selectedProperties.form.name) {
+            let counter = 0;
+            for (let n = 1; n <= this.selectedProperties.tires.name; n += 1) {
+              if (this.selectedProperties['taste'+ n].name && this.selectedProperties['filling'+ n].name) {
+                counter += 1;
+              }
+              if (counter === this.selectedProperties.tires.name) {
+                this.orderDisabled = false;
+              } else {
+                this.orderDisabled = true;
+              }
+
+              console.log(counter)
+              console.log(this.alertShowing)
+            }
+          }
         },
         addFeatures(payload) {
           if (!this.selectedProperties[payload.name]) {

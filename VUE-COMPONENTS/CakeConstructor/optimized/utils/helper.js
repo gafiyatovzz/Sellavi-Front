@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ':berrie-price="berriePrice"' +
       ':decor-price="decorPrice"' +
       ':alert-showing="alertShowing"' +
+      ':order-disabled="orderDisabled"'+
       '@show-alert="showAlert"'+
       '@select-property="selectProperty"' +
       '@activate-selector="activateSelector"' +
