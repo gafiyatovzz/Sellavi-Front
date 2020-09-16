@@ -52,9 +52,6 @@ document.addEventListener('DOMContentLoaded', () => {
               } else {
                 this.orderDisabled = true;
               }
-
-              console.log(counter)
-              console.log(this.alertShowing)
             }
           }
         },
@@ -82,10 +79,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         showAlert() {
           this.alertShowing = true;
-          console.log(this.alertShowing)
           setTimeout(() => {
             this.alertShowing = false;
-            console.log(this.alertShowing)
           }, 6000)
         }
       },

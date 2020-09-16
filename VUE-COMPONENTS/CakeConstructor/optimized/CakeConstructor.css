@@ -68,6 +68,13 @@ body {
   user-select: none;
 }
 
+.constructor__selector-title {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .constructor__selector-options {
   position: absolute;
   top: 10px;

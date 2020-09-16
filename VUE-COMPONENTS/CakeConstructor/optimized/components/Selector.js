@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="constructor__selector">
                     <h3 class="constructor__subtitle">{{title}}</h3>
                     <div class="constructor__selector-area">
-                        <span v-if="selectedProperties[name].name">{{selectedProperties[name].name}}</span>
-                        <span v-else>Выбрать</span>
-                        <div @click="activateSelector(name)">
+                        <div class="constructor__selector-title" @click="activateSelector(name)">
+                            <span v-if="selectedProperties[name].name">{{selectedProperties[name].name}}</span>
+                            <span v-else>Выбрать</span>
                             <i class="constructor__selector-icon" v-if="activeSelectors.includes(name)"></i>
                             <i class="constructor__selector-icon constructor__selector-icon--opened" v-else></i>
                         </div>
