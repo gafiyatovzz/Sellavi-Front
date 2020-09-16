@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   return (Vue.component('constructor', {
-    props: ['tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors'],
+    props: ['tiersStructures', 'tastes', 'fillings', 'selectedProperties', 'forms', 'covers', 'toppings', 'berries', 'berriePrice', 'decors', 'decorPrice', 'activeSelectors', 'alertShowing'],
     methods: {
       selectProperty(payload) {
         this.$emit('select-property', payload);
@@ -13,6 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       saveAndBuy() {
         this.$emit('save-and-buy');
+      },
+      showAlert() {
+        this.$emit('show-alert');
       }
     },
     template: `
@@ -91,10 +94,13 @@ document.addEventListener('DOMContentLoaded', () => {
                             </div>
                         </div>
                         <constructor-window :selected-properties="selectedProperties"></constructor-window>
-                        <button @click="saveAndBuy" class="constructor__button">Заказать торт!</button>
+                        <button @click="saveAndBuy" class="constructor__button" v-if="selectedProperties.tires.name && selectedProperties['taste'+selectedProperties.tires.name] && selectedProperties['filling'+selectedProperties.tires.name] && selectedProperties.form.name">
+                            Заказать торт!
+                        </button>
+                        <button @click="showAlert" class="constructor__button constructor__button--disabled" v-else>Заказать торт!</button>
+                        <span class="constructor__alert" v-if="alertShowing">Cперва нужно выбрать число уровней, вкусы, начинки и форму торта!</span>
                     </div>
                 </div>
             `
-
   }))
 });

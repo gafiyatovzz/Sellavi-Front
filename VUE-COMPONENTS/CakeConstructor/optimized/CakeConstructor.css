@@ -276,6 +276,8 @@ body {
   box-shadow: 0 0 5px #807182;
   font-size: 18px;
   transition: all 0.2s linear;
+  cursor: pointer;
+  outline: none;
 }
 
 .constructor__button:hover {
@@ -614,4 +616,17 @@ body {
 
 .cake-topping--cookies {
   background: url(https://i.ibb.co/HCY8Qfg/cookies.png) repeat center/contain;
+}
+
+.constructor__button--disabled {
+  background-color: #c5b4b3;
+  color: #897878;
+}
+
+.constructor__button--disabled:hover {
+  background-color: #c5b4b3;
+}
+
+.constructor__alert {
+  color: #bd2130;
 }

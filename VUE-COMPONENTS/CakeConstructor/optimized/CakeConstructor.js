@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         decorPrice: 300,
         activeSelectors: [],
         selectedProperties: { price: 500, tires: {name: 0, price: 0}, form: {name: '', price: 0}, cover: {name: '', price: 0}, topping: {name: '', price: 0}, berries: [], decor: [], taste1: {name: '', price: 0}, filling1: {name: '', price: 0}, taste2: {name: '', price: 0}, filling2: {name: '', price: 0}, taste3: {name: '', price: 0}, filling3: {name: '', price: 0}, image: ''},
+        alertShowing: false,
       },
       methods: {
         activateSelector(name) {
@@ -62,6 +63,14 @@ document.addEventListener('DOMContentLoaded', () => {
           localStorage.setItem("cake", cakeInfo);
           const itemHref = `/cake-${this.selectedProperties.tires.name}/`;
           window.location = itemHref;
+        },
+        showAlert() {
+          this.alertShowing = true;
+          console.log(this.alertShowing)
+          setTimeout(() => {
+            this.alertShowing = false;
+            console.log(this.alertShowing)
+          }, 6000)
         }
       },
     })
