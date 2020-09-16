@@ -98,6 +98,9 @@ document.addEventListener("DOMContentLoaded", () => {
           if (optionValue === option) {
             optionSelectButton.click();
           }
+
+          const selectButton = select.querySelector('button');
+          selectButton.disabled = true;
         })
       });
 
@@ -119,6 +122,8 @@ document.addEventListener("DOMContentLoaded", () => {
           if (optionValues.includes(option)) {
             optionCheckbox.checked = true;
           }
+
+          optionCheckbox.disabled = true;
         });
       });
     }, 800);
