@@ -5,7 +5,8 @@ import BoxSelection from "./BoxSelection";
 const BoxWindow = (props) => {
   return (
     <div className='constructor__window'>
-      <BoxCube/>
+      <span>{props.volume}</span>
+      <BoxCube volume={props.volume}/>
       <BoxSelection/>
     </div>
   )

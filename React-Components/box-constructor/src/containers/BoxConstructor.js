@@ -6,8 +6,8 @@ const BoxConstructor = (props) => {
   return (
     <div className='constructor'>
       <h2 className='constructor__title'>Какой объем требуется?</h2>
-      <BoxRange/>
-      <BoxWindow/>
+      <BoxRange changeVolume={props.changeVolume} volume={props.volume}/>
+      <BoxWindow volume={props.volume}/>
     </div>
   );
 };
