@@ -1,6 +1,10 @@
+import React from "react";
+
 const BoxRange = (props) => {
   return (
-    <div>Range</div>
+    <div>
+      <input type="range"/>
+    </div>
   )
 };
 
