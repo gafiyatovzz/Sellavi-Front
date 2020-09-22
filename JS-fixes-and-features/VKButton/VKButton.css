@@ -1,0 +1,26 @@
+.vk_container {
+  z-index: 9999;
+ background: transparent;
+ top: auto;
+ right: 19px;
+ bottom: 100px;
+ position: fixed;
+
+ width: auto
+}
+
+.vk_button {
+  background: url(https://www.flaticon.com/svg/static/icons/svg/145/145813.svg) no-repeat center/cover;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: -70px;
+  cursor: pointer;
+  top: 0;
+  box-shadow: 0 0 10px black;
+  border-radius: 50%;
+}
+
+.vk_button:hover {
+ box-shadow: 0 0 20px black;
+}
