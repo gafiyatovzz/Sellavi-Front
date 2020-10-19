@@ -1,0 +1,15 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: no-repeat url(../../../assets/images/2a5de94c4e2a9d6528082a1d94e9d612.jpg)  rgba(0,0,0, .2);
+    background-blend-mode: color;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+
+.banner:after {
+    background: #000;
+    opacity: .3;
+}

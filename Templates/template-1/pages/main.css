@@ -1,0 +1,19 @@
+
+@import '../vendor/normalize.css';
+@import '../styles/styles.css';
+
+@import '../blocks/header/header.css';
+@import '../blocks/header/logo/logo.css';
+@import '../blocks/header/__top/header__top.css';
+@import '../blocks/header/__nav/header__nav.css';
+@import '../blocks/header/__nav/__list/header__nav__list.css';
+@import '../blocks/header/__nav/__list/header__nav__list.css';
+
+@import '../blocks/main/banner/banner.css';
+@import '../blocks/main/banner/__content/banner__content.css';
+@import '../blocks/main/banner/__content/__title/banner__content__title.css';
+@import '../blocks/main/banner/__content/__subtitle/banner__content_subtitle.css';
+@import '../blocks/main/banner/__content/__link/banner__content_link.css';
+
+@import '../blocks/ui/icons/icons.css';
+@import '../blocks/ui/icons/__elem/icons__elem.css';
