@@ -1,4 +1,12 @@
+.icons__elem {
+    margin-right: 15px;
+ }
+ 
+.icons__elem:last-of-type {
+    margin-right: 0;
+ }
+
+
 .icons__elem_ico {
     width: 15px;
-    margin-right: 15px;
 }

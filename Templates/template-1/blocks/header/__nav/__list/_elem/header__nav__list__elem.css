@@ -1,5 +1,7 @@
-.header__nav__list__elem a {
+.header__nav__list__elem {
     font-family: 'Arimo', Georgia, 'Times New Roman', Times, serif;
     font-size: 10px;
     line-height: 1.2;
+    text-transform: uppercase;
+    margin: 0 24px;
 }

@@ -1,4 +1,30 @@
 .icons {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
+}
+
+.icons:last-child .icons__elem:first-of-type {
+	display: none;
+}
+
+.icons__search .icons__elem:last-child {
+	display: none;
+}
+
+.icons__elem_ico-burger {
+	width: 25px;
+}
+
+@media only screen and (max-width: 768px) {
+  .icons:last-child .icons__elem:first-child {
+    display: block;
+  }
+
+  .icons__search .icons__elem:first-child {
+    display: none;
+	}
+	
+	.icons__search .icons__elem:last-child {
+		display: block;
+	}
 }

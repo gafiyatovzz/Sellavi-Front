@@ -7,7 +7,10 @@
 @import '../blocks/header/__top/header__top.css';
 @import '../blocks/header/__nav/header__nav.css';
 @import '../blocks/header/__nav/__list/header__nav__list.css';
-@import '../blocks/header/__nav/__list/header__nav__list.css';
+@import '../blocks/header/__nav/__list/_elem/header__nav__list__elem.css';
+
+@import '../blocks/header/__nav-mobile/__list/header__nav-mobile__list.css';
+@import '../blocks/header/__nav-mobile/header__nav-mobile.css';
 
 @import '../blocks/main/banner/banner.css';
 @import '../blocks/main/banner/__content/banner__content.css';
